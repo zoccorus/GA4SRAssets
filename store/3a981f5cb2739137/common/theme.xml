@@ -17078,6 +17078,10 @@
     <state id="msp_btn01_ncc_btn_off.swf" name="default" enable="Y" default="Y"/>
     <state id="msp_btn01_ncc_btn_on.swf" name="pressed" enable="Y"/>
   </prop>
+  <prop id="msp_surfboards" name="Surfboards pack" holdable="0" placeable="1" wearable="0" facing="left" thumb="blue_green_surfboard.swf" enable="Y" is_premium="N" aid="11795" money="0" sharing="0">
+    <state id="blue_green_surfboard.swf" name="Blue Green" enable="Y" default="Y"/>
+    <state id="white_surfboard.swf" name="White" enable="Y"/>
+  </prop>
   <prop id="msp_bubble01" name="Thought bubble" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_bubble01_ncc_bubble02.swf" enable="Y" is_premium="Y" aid="11798" money="0" sharing="0">
     <state id="msp_bubble01_ncc_bubble01.swf" name="appear" enable="Y"/>
     <state id="msp_bubble01_ncc_bubble02.swf" name="still" enable="Y" default="Y"/>
