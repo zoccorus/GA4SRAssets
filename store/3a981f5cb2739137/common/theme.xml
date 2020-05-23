@@ -18129,6 +18129,14 @@
     <tag>romantic</tag>
     <tag>Smooth</tag>
   </sound> 
+  <sound id="iOS 7 Ringtone Opening Default.mp3" name="iPhone Ringtone" downloadtype="progressive" subtype="soundeffect" duration="9000" enable="Y" is_premium="N" aid="6044" money="0" sharing="0">
+    <tag>emotion</tag>
+    <tag>nostalgic</tag>
+    <tag>positive</tag>
+    <tag>rock</tag>
+    <tag>romantic</tag>
+    <tag>Smooth</tag>
+  </sound> 
   <sound id="All Nintendo Music HQ Vol. 164 - Super Mario RPG 7 - Super Pipe House.mp3" name="Super Pipe House" downloadtype="progressive" subtype="bgmusic" duration="3000000" enable="Y" is_premium="N" aid="6044" money="0" sharing="0">
     <tag>emotion</tag>
     <tag>nostalgic</tag>
