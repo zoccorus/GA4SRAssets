@@ -16546,6 +16546,8 @@
     <state id="lisa_thinking.swf" name="Thinking" enable="Y"/>
     <state id="lisa_sitting_na.swf" name="Sit NA" enable="Y"/>
     <state id="lisa_loud_coolpose.swf" name="Cool Pose" enable="Y"/>
+    <state id="lisa_thinking_swimsuit.swf" name="Bikini Think" enable="Y"/>
+    <state id="lisa_loud_lu_noticed_swimsuit.swf" name="Bikini Noticed lu" enable="Y"/>
   </prop>
   <prop id="ncc_hpsalt.swf" name="Drip stand" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11290" money="0" sharing="0"/>
   <prop id="ncc_hpshelf_front.swf" name="Counter top" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11291" money="0" sharing="0"/>
@@ -18532,11 +18534,15 @@
     <tag>censored</tag>
     <tag>beep</tag>
   </sound>
+  <sound id="Censored.mp3" name="Censored" downloadtype="progressive" subtype="soundeffect" duration="6000" enable="Y" is_premium="N" aid="6730" money="0" sharing="0">
+    <tag>censored</tag>
+    <tag>beep</tag>
+  </sound>
   <sound id="musical_instru_thx.mp3" name="Thx (GoAnimate One)" downloadtype="progressive" subtype="soundeffect" duration="8257" enable="Y" is_premium="N" aid="6731" money="0" sharing="0">
     <tag>ending</tag>
     <tag>instruments</tag>
     <tag>musical</tag>
-    </sound>
+  </sound>
   <sound id="Car Ride Ambience (Sound Effect).mp3" name="Car Riding" downloadtype="progressive" subtype="soundeffect" duration="300000" enable="Y" is_premium="N" aid="6731" money="0" sharing="0">
     <tag>ending</tag>
     <tag>instruments</tag>
@@ -18545,6 +18551,15 @@
     <tag>ending</tag>
     <tag>instruments</tag>
     <tag>musical</tag>
+  </sound>
+  <sound id="awkward_moment.mp3" name="Awkward moment" downloadtype="progressive" subtype="soundeffect" duration="3500" enable="Y" is_premium="N" aid="6730" money="0" sharing="0">
+    <tag>awkward</tag>
+    <tag>boing</tag>
+  </sound>
+  <sound id="poke.mp3" name="Poke" downloadtype="progressive" subtype="soundeffect" duration="2500" enable="Y" is_premium="N" aid="6730" money="0" sharing="0">
+    <tag>poke</tag>
+    <tag>funny</tag>
+    <tag>cartoon</tag>
   </sound>
   <sound id="THX_Deep_Note_DVD.ogg" name="THX (Real One)" downloadtype="progressive" subtype="soundeffect" duration="17000" enable="Y" is_premium="N" aid="6731" money="0" sharing="0">
     <tag>ending</tag>
