@@ -18113,7 +18113,7 @@
     <tag>joyful</tag>
     <tag>tension</tag>
   </sound>
-  <sound id="Slap Sound Effect Free.mp3" name="Facepalm/Slap Sound Effect" downloadtype="progressive" subtype="soundeffect" duration="2" enable="Y" is_premium="N" aid="6044" money="0" sharing="0">
+  <sound id="Slap Sound Effect Free.mp3" name="Facepalm/Slap Sound Effect" downloadtype="progressive" subtype="soundeffect" duration="2000" enable="Y" is_premium="N" aid="6044" money="0" sharing="0">
     <tag>emotion</tag>
     <tag>nostalgic</tag>
     <tag>positive</tag>
@@ -18121,7 +18121,7 @@
     <tag>romantic</tag>
     <tag>Smooth</tag>
   </sound>
-  <sound id="Doorbell sound effect.mp3" name="Doorbell" downloadtype="progressive" subtype="soundeffect" duration="9" enable="Y" is_premium="N" aid="6044" money="0" sharing="0">
+  <sound id="Doorbell sound effect.mp3" name="Doorbell" downloadtype="progressive" subtype="soundeffect" duration="9000" enable="Y" is_premium="N" aid="6044" money="0" sharing="0">
     <tag>emotion</tag>
     <tag>nostalgic</tag>
     <tag>positive</tag>
@@ -18129,8 +18129,7 @@
     <tag>romantic</tag>
     <tag>Smooth</tag>
   </sound> 
-  <sound id="All Nintendo Music HQ Vol. 164 - Super Mario RPG 7 - Super Pipe House.mp3" name="Super Pipe House" downloadtype="progressive" subtype="bgmusic" duration="1800
-    " enable="Y" is_premium="N" aid="6044" money="0" sharing="0">
+  <sound id="All Nintendo Music HQ Vol. 164 - Super Mario RPG 7 - Super Pipe House.mp3" name="Super Pipe House" downloadtype="progressive" subtype="bgmusic" duration="3000000" enable="Y" is_premium="N" aid="6044" money="0" sharing="0">
     <tag>emotion</tag>
     <tag>nostalgic</tag>
     <tag>positive</tag>
@@ -18530,11 +18529,11 @@
     <tag>instruments</tag>
     <tag>musical</tag>
     </sound>
-  <sound id="Car Ride Ambience (Sound Effect).mp3" name="Car Riding" downloadtype="progressive" subtype="soundeffect" duration="180" enable="Y" is_premium="N" aid="6731" money="0" sharing="0">
+  <sound id="Car Ride Ambience (Sound Effect).mp3" name="Car Riding" downloadtype="progressive" subtype="soundeffect" duration="300000" enable="Y" is_premium="N" aid="6731" money="0" sharing="0">
     <tag>ending</tag>
     <tag>instruments</tag>
     <tag>musical</tag></sound>
-  <sound id="Car Stop With Door Sound Effect.mp3" name="Car Stopping With Door" downloadtype="progressive" subtype="soundeffect" duration="7" enable="Y" is_premium="N" aid="6731" money="0" sharing="0">
+  <sound id="Car Stop With Door Sound Effect.mp3" name="Car Stopping With Door" downloadtype="progressive" subtype="soundeffect" duration="7000" enable="Y" is_premium="N" aid="6731" money="0" sharing="0">
     <tag>ending</tag>
     <tag>instruments</tag>
     <tag>musical</tag>
