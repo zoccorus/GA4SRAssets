@@ -11713,14 +11713,12 @@
     <component type="hair" id="089" path="089" name="089" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
         <state id="default" filename="default.swf"/>
     </component>
-	<!--
     <component type="hair" id="090" path="090" name="090" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
         <state id="default" filename="default.swf"/>
     </component>
     <component type="hair" id="091" path="091" name="091" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
         <state id="default" filename="default.swf"/>
     </component>
-	-->
     <component type="hair" id="092" path="092" name="092" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
         <state id="default" filename="default.swf"/>
     </component>
