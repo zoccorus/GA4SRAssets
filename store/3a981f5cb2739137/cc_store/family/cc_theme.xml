@@ -1326,6 +1326,12 @@
             <selection type="skeleton" state_id="run"/>
             <selection type="upper_body" state_id="default"/>
         </action>
+        <action id="run4" name="Run - Point at" loop="Y" totalframe="20" enable="Y" is_motion="N">
+            <selection type="facial" facial_id="head_neutral"/>
+            <selection type="lower_body" state_id="run"/>
+            <selection type="skeleton" state_id="point_at"/>
+            <selection type="upper_body" state_id="point_at"/>
+        </action>
         <action id="sprint" name="Sprint" loop="Y" totalframe="20" enable="Y" category="traveling" is_motion="Y">
             <selection type="facial" facial_id="head_badass"/>
             <selection type="lower_body" state_id="run"/>
