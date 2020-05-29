@@ -18531,6 +18531,11 @@
     <tag>007</tag>
     <tag>jamesbond</tag>
   </sound>
+  <sound id="james_bond_gunbarrel_alt.mp3" name="James bond theme" downloadtype="progressive" subtype="soundeffect" duration="20000" enable="Y" is_premium="N" aid="6730" money="0" sharing="0">
+    <tag>spy</tag>
+    <tag>007</tag>
+    <tag>jamesbond</tag>
+  </sound>
   <sound id="Censored.mp3" name="Censored" downloadtype="progressive" subtype="soundeffect" duration="6000" enable="Y" is_premium="N" aid="6730" money="0" sharing="0">
     <tag>censored</tag>
     <tag>beep</tag>
