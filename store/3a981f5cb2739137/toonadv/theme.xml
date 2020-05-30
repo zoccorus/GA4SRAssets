@@ -208,6 +208,33 @@
     <facial id="head_happy.swf" name="Happy" enable="Y" aid="10397"/>
     <facial id="head_neutral.swf" name="Neutral" enable="Y" aid="10398"/>
   </char>
+  <char id="sonic" name="Sonic" thumb="standing.swf" facing="left" default="standing.swf" motion="running.swf" enable="Y" is_premium="N" aid="10245" money="200" sharing="100">
+    <action id="standing.swf" name="Stand" loop="Y" totalframe="1" enable="Y" aid="238"/>
+    <motion id="running.swf" name="Running" loop="Y" totalframe="24" enable="Y" aid="239"/>
+    <action id="stoping.swf" name="Stoping" loop="Y" totalframe="185" enable="Y" aid="240"/>
+    <action id="super sonic standing.swf" name="Stand Super Sonic" loop="Y" totalframe="185" enable="Y" aid="241"/>
+    <action id="changing to super sonic.style.swf" name="Transform Into Super Sonic" loop="Y" totalframe="120" enable="Y" aid="242"/>
+    <action id="changing to normal.swf" name="Transform Back To Normal" loop="Y" totalframe="120" enable="N" aid="243"/>
+    <action id="gülürken.swf" name="Laugh At" loop="Y" totalframe="100" enable="Y" aid="244"/>
+    <action id="joking.swf" name="Taunt" loop="Y" totalframe="100" enable="Y" aid="245"/>
+    <action id="jump.swf" name="Jump a" loop="Y" totalframe="145" enable="N" aid="246"/>
+    <action id="jump2.swf" name="Jump b" loop="Y" totalframe="145" enable="N" aid="247"/>
+    <action id="kiss_C.swf" name="kiss" loop="Y" totalframe="145" enable="Y" aid="248"/>
+    <action id="kiss_D.swf" name="get kiss" loop="Y" totalframe="145" enable="Y" aid="249"/>
+    <action id="ready to spin.swf" name="Ready To Spin" loop="Y" totalframe="1" enable="Y" aid="250"/>
+    <motion id="running but more slowly.swf" name="Walk" loop="Y" totalframe="90" enable="Y" aid="251"/>
+    <motion id="running fast.swf" name="Running Fast" loop="Y" totalframe="90" enable="N" aid="252"/>
+    <action id="sonic eat.swf" name="Eatting" loop="Y" totalframe="100" enable="Y" aid="253"/>
+    <action id="sonic fist.swf" name="Punch" loop="Y" totalframe="100" enable="Y" aid="254"/>
+    <action id="sonic spin.swf" name="Spin" loop="Y" totalframe="100" enable="Y" aid="255"/>
+    <action id="sonic.leg.swf" name="Kick" loop="Y" totalframe="100" enable="N" aid="256"/>
+    <action id="take off alt.swf" name="Take Off Alt" loop="Y" totalframe="100" enable="N" aid="256"/>
+    <action id="take off.swf" name="Take Off" loop="Y" totalframe="100" enable="N" aid="256"/>
+    <action id="talking happy.swf" name="Talk Happy" loop="Y" totalframe="100" enable="N" aid="256"/>
+    <action id="talking.swf" name="Talk" loop="Y" totalframe="100" enable="N" aid="256"/>
+    <action id="thumbs up.swf" name="Thumbs Up" loop="Y" totalframe="100" enable="N" aid="256"/>
+    <action id="waitting.swf" name="Waitting" loop="Y" totalframe="100" enable="N" aid="256"/>
+  </char>
   <background id="indo_bg.swf" name="Taj Mahal" enable="N" default="N" is_premium="N" aid="10399" money="0" sharing="0"/>
   <background id="street_day_bg.swf" name="" enable="N" default="N" is_premium="N" aid="10442" money="0" sharing="0"/>
   <background id="lliving_rm_bg.swf" name="" enable="N" default="N" is_premium="N" aid="10441" money="0" sharing="0"/>
