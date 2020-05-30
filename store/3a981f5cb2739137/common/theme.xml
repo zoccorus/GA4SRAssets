@@ -16174,6 +16174,13 @@
     <state id="msp_blanket01_ncc_blanket01_front_empty.swf" name="front - empty" enable="Y"/>
     <state id="msp_blanket01_ncc_blanket01_side_empty.swf" name="side - empty" enable="Y"/>
   </prop>
+  <prop id="msp_sagphouse" name="Sagp House" holdable="0" placeable="1" wearable="0" facing="left" thumb="sagp_house_daytime.swf" enable="Y" is_premium="N" aid="10875" money="0" sharing="0">
+    <state id="sagp_house_daytime.swf" name="Daytime" enable="Y" default="Y"/>
+    <state id="sagp_house_evening.swf" name="Evening" enable="Y"/>
+    <state id="sagp_house_nighttime.swf" name="Nigttime" enable="Y"/>
+    <state id="sagp_house_morning.swf" name="Morning" enable="Y"/>
+    <state id="sagp_house_endofthelvm.swf" name="End Of The LVM" enable="Y"/>
+  </prop>
   <prop id="ncc_toy_astronaut.swf" name="Toy" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="10880" money="0" sharing="0"/>
   <prop id="msp_poster01" name="Poster" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_poster01_ncc_poster01_front.swf" enable="Y" is_premium="Y" aid="10881" money="0" sharing="0">
     <state id="msp_poster01_ncc_poster01_front.swf" name="front" enable="Y" default="Y"/>
