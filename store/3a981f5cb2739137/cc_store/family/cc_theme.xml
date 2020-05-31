@@ -1590,12 +1590,6 @@
             <selection type="skeleton" state_id="look_up"/>
             <selection type="upper_body" state_id="default"/>
         </action>
-        <action id="turnhead" name="Turn Head" loop="Y" totalframe="60" enable="Y" is_motion="N">
-            <selection type="facial" facial_id="head_neutral"/>
-            <selection type="lower_body" state_id="default"/>
-            <selection type="skeleton" state_id="turn_head"/>
-            <selection type="upper_body" state_id="default"/>
-        </action>
         <action id="talk_phone" name="Talk on phone 1" loop="Y" totalframe="115" enable="Y" is_motion="N">
             <selection type="facial" facial_id="head_talk_a"/>
             <selection type="lower_body" state_id="default"/>
@@ -1762,7 +1756,7 @@
             <state id="talk" filename="talk.swf"/>
             <state id="talk_on_phone" filename="talk_on_phone.swf"/>
             <state id="taunt" filename="taunt.swf"/>
-            <state id="turn_head" filename="turn_head.swf"/>
+            <!-- <state id="turn_head" filename="turn_head.swf"/> -->
             <state id="walk" filename="walk.swf"/>
         </component>
         <component type="upper_body" id="adam_001" path="adam_001" name="adam_001" thumb="thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y">
