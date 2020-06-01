@@ -19395,6 +19395,11 @@
     <tag>peaceful</tag>
     <tag>soft</tag>
   </sound>
+  <sound id="Angry German Kid.mp3" name="Angry German Kid" downloadtype="progressive" subtype="bgmusic" duration="270935" enable="Y" is_premium="N" aid="24305" money="0" sharing="0">
+    <tag>agk</tag>
+    <tag>angry german kid</tag>
+    <tag>raging</tag>
+  </sound>
   <sound id="Beat_Your_Competition.mp3" name="Beat Your Competition" downloadtype="progressive" subtype="bgmusic" duration="189942" enable="Y" is_premium="N" aid="24305" money="0" sharing="0">
     <tag>electronic</tag>
     <tag>peaceful</tag>
