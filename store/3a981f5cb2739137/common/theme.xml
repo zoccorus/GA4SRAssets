@@ -16556,6 +16556,11 @@
     <state id="lisa_loud_coolpose.swf" name="Cool Pose" enable="Y"/>
     <state id="lisa_thinking_swimsuit.swf" name="Bikini Think" enable="Y"/>
     <state id="lisa_loud_lu_noticed_swimsuit.swf" name="Bikini Noticed lu" enable="Y"/>
+    <state id="lisa_loud_waveat.swf" name="Wave at" enable="Y"/>
+    <state id="lisa_loud_waveatfrontcam.swf" name="Wave at front cam" enable="Y"/>
+    <state id="lisa_loud_eog.swf" name="eog" enable="Y"/>
+    <state id="lisa_loud_crying.swf" name="Crying" enable="Y"/>
+    <state id="lisa_loud_Custom_Pose.swf" name="Custom Pose" enable="Y"/>
   </prop>
   <prop id="ncc_hpsalt.swf" name="Drip stand" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11290" money="0" sharing="0"/>
   <prop id="ncc_hpshelf_front.swf" name="Counter top" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11291" money="0" sharing="0"/>
@@ -18498,6 +18503,11 @@
     <tag>instruments</tag>
     <tag>musical</tag>
     <tag>Scary</tag>
+  </sound>
+  <sound id="wii_sports_epic_stinger.mp3" name="Wii sports epic stinger" downloadtype="progressive" subtype="soundeffect" duration="7257" enable="Y" is_premium="N" aid="6730" money="0" sharing="0">
+    <tag>instruments</tag>
+    <tag>musical</tag>
+    <tag>epic</tag>
   </sound>
   <sound id="agk_gets_beatup.mp3" name="Beating up" downloadtype="progressive" subtype="soundeffect" duration="12000" enable="Y" is_premium="N" aid="6730" money="0" sharing="0">
     <tag>agk</tag>
