@@ -15720,6 +15720,7 @@
   <prop id="The Mission To The Moon Logo.swf" name="TMTTM Logo" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5012" money="0" sharing="0"/>
   <prop id="Waleeds_room.swf" name="Waleeds Room" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5012" money="0" sharing="0"/>
   <prop id="nasa_logo.swf" name="Nasa Logo" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5012" money="0" sharing="0"/>
+  <prop id="city_with_village.swf" name="City Backdrop" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5012" money="0" sharing="0"/>
   <prop id="msp_flat_tv" name="Flat screen TV" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_flat_tv_flat_tv_front.swf" enable="Y" is_premium="N" aid="10463" money="0" sharing="0">
     <state id="msp_flat_tv_flat_tv_front.swf" name="front" enable="Y" default="Y"/>
     <state id="msp_flat_tv_flat_tv_front_non.swf" name="front transparent" enable="Y"/>
