@@ -15717,6 +15717,9 @@
   <prop id="oatmeal.swf" name="Oatmeal" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5012" money="0" sharing="0"/>
   <prop id="food_waffles.swf" name="Waffles" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5012" money="0" sharing="0"/>
   <prop id="james_bond_gunbarrel.swf" name="Gunbarrel" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5012" money="0" sharing="0"/>
+  <prop id="The Mission To The Moon Logo.swf" name="TMTTM Logo" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5012" money="0" sharing="0"/>
+  <prop id="Waleeds_room.swf" name="Waleeds Room" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5012" money="0" sharing="0"/>
+  <prop id="nasa_logo.swf" name="Nasa Logo" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5012" money="0" sharing="0"/>
   <prop id="msp_flat_tv" name="Flat screen TV" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_flat_tv_flat_tv_front.swf" enable="Y" is_premium="N" aid="10463" money="0" sharing="0">
     <state id="msp_flat_tv_flat_tv_front.swf" name="front" enable="Y" default="Y"/>
     <state id="msp_flat_tv_flat_tv_front_non.swf" name="front transparent" enable="Y"/>
@@ -15730,6 +15733,13 @@
     <state id="msp_old_tv_old_tv_back.swf" name="back" enable="Y"/>
     <state id="msp_old_tv_old_tv_side.swf" name="side" enable="Y"/>
     <state id="msp_old_tv_old_tv_side_back.swf" name="side back" enable="Y"/>
+  </prop>
+  <prop id="msp_sagpcar" name="Sagp Car" holdable="0" placeable="1" wearable="0" facing="left" thumb="sagp_car.swf" enable="Y" is_premium="N" aid="10469" money="0" sharing="0">
+    <state id="sagp_car.swf" name="Outside" enable="Y" default="Y"/>
+    <state id="sagp_car_inside.swf" name="Inside" enable="Y"/>
+  </prop>
+  <prop id="msp_sagplogoupdated" name="Sagp Logo Updated" holdable="0" placeable="1" wearable="0" facing="left" thumb="sagp_logo_updated.swf" enable="Y" is_premium="N" aid="10469" money="0" sharing="0">
+    <state id="sagp_logo_updated.swf" name="Original" enable="Y" default="Y"/>
   </prop>
   <prop id="msp_sofa01" name="sofa" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_sofa01_sofa01_front.swf" enable="Y" is_premium="N" aid="10475" money="0" sharing="0">
     <state id="msp_sofa01_sofa01_front.swf" name="front" enable="Y" default="Y"/>
