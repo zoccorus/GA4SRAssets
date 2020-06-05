@@ -18541,6 +18541,11 @@
     <tag>musical</tag>
     <tag>Scary</tag>
   </sound>
+  <sound id="Powerpuff_Girls_Laugh_Sound_Effect.mp3" name="PPG Laugh" downloadtype="progressive" subtype="soundeffect" duration="4257" enable="Y" is_premium="N" aid="6730" money="0" sharing="0">
+    <tag>ppg</tag>
+    <tag>powerpuff</tag>
+    <tag>laugh</tag>
+  </sound>
   <sound id="Disaster_Strikes_stinger.mp3" name="Disaster strikes stinger" downloadtype="progressive" subtype="soundeffect" duration="8257" enable="Y" is_premium="N" aid="6730" money="0" sharing="0">
     <tag>instruments</tag>
     <tag>musical</tag>
