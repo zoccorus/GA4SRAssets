@@ -18644,6 +18644,11 @@
     <tag>funny</tag>
     <tag>cartoon</tag>
   </sound>
+  <sound id="lisa_think_alt.mp3" name="Lisa Think ALT" downloadtype="progressive" subtype="soundeffect" duration="1250" enable="Y" is_premium="N" aid="6730" money="0" sharing="0">
+    <tag>lisa</tag>
+    <tag>hmm</tag>
+    <tag>think</tag>
+  </sound>
   <sound id="THX_Deep_Note_DVD.ogg" name="THX (Real One)" downloadtype="progressive" subtype="soundeffect" duration="17000" enable="Y" is_premium="N" aid="6731" money="0" sharing="0">
     <tag>ending</tag>
     <tag>instruments</tag>
@@ -19627,7 +19632,7 @@
   <sound id="pool_ball_06.mp3" name="FX - Pool ball" downloadtype="progressive" subtype="soundeffect" duration="836" enable="Y" is_premium="N" aid="27713" money="0" sharing="0"/>
   <sound id="rain_alley_medium_03_60_loop.mp3" name="Ambience - Rain" downloadtype="progressive" subtype="soundeffect" duration="60630" enable="Y" is_premium="N" aid="27714" money="0" sharing="0"/>
   <sound id="record_needle_static_loop_06.mp3" name="Ambience - Record needle" downloadtype="progressive" subtype="soundeffect" duration="3657" enable="Y" is_premium="N" aid="27715" money="0" sharing="0"/>
-  <sound id="lisaloud_laugh.mp3" name="Test sound 2" downloadtype="progressive" subtype="soundeffect" duration="1957" enable="Y" is_premium="N" aid="27715" money="0" sharing="0"/>
+  <sound id="lisaloud_laugh.mp3" name="Lisa Laugh" downloadtype="progressive" subtype="soundeffect" duration="1957" enable="Y" is_premium="N" aid="27715" money="0" sharing="0"/>
   <sound id="restaurant_ambience_04_60_loop.mp3" name="Ambience - Restaurant" downloadtype="progressive" subtype="soundeffect" duration="59690" enable="Y" is_premium="N" aid="27716" money="0" sharing="0"/>
   <sound id="reverb_hi_imaging_element_05.mp3" name="FX - Logo - reverb high tech imaging" downloadtype="progressive" subtype="soundeffect" duration="2586" enable="Y" is_premium="N" aid="27717" money="0" sharing="0"/>
   <sound id="hmm_women.mp3" name="Woman Thinking" downloadtype="progressive" subtype="soundeffect" duration="2586" enable="Y" is_premium="N" aid="27717" money="0" sharing="0"/>
