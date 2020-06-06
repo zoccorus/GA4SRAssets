@@ -275,7 +275,18 @@
         <selection type="hair" state_id="default"/>
         <selection type="mouth" state_id="angry"/>
         <selection type="nose" state_id="default"/>
-    </facial>  
+    </facial>
+    <facial id="head_angry02" name="Angry - 2.0 Mouth Only" enable="Y">
+        <selection type="ear" state_id="default"/>
+        <selection type="eye" state_id="angry"/>
+        <selection type="eyebrow" state_id="angry"/>
+        <selection type="facedecoration" state_id="default"/>
+        <selection type="faceshape" state_id="default"/>
+        <selection type="glasses" state_id="default"/>
+        <selection type="hair" state_id="default"/>
+        <selection type="mouth" state_id="angry02"/>
+        <selection type="nose" state_id="default"/>
+    </facial>    
     <facial id="head_angry2" name="Scheming" enable="Y">
         <selection type="ear" state_id="default"/>
         <selection type="eye" state_id="angry"/>
@@ -362,6 +373,17 @@
         <selection type="glasses" state_id="default"/>
         <selection type="hair" state_id="default"/>
         <selection type="mouth" state_id="surprised"/>
+        <selection type="nose" state_id="default"/>
+    </facial>
+    <facial id="head_surprised02" name="Surprised - 2.0 Mouth Only" enable="Y">
+        <selection type="ear" state_id="default"/>
+        <selection type="eye" state_id="shock"/>
+        <selection type="eyebrow" state_id="shock"/>
+        <selection type="facedecoration" state_id="default"/>
+        <selection type="faceshape" state_id="default"/>
+        <selection type="glasses" state_id="default"/>
+        <selection type="hair" state_id="default"/>
+        <selection type="mouth" state_id="surprised02"/>
         <selection type="nose" state_id="default"/>
     </facial>
     <facial id="head_shocked" name="Shocked" enable="Y">
@@ -5640,6 +5662,7 @@
     </component>
     <component type="mouth" id="2001" path="2001" name="2001" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
         <state id="angry" filename="angry.swf"/>
+	<state id="angry02" filename="angryalt.swf"/>
         <state id="confused" filename="confused.swf"/>
         <state id="cry" filename="cry.swf"/>
         <state id="default" filename="default.swf"/>
@@ -5650,6 +5673,7 @@
         <state id="shock" filename="shock.swf"/>
         <state id="sick" filename="sick.swf"/>
         <state id="surprised" filename="surprised.swf"/>
+	<state id="surprised02" filename="surprisedalt.swf"/>
         <state id="talk" filename="talk.swf"/>
         <state id="talk_angry" filename="talk_angry.swf"/>
         <state id="talk_happy" filename="talk_happy.swf"/>
