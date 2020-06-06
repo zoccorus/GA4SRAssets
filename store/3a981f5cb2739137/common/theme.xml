@@ -16603,6 +16603,9 @@
     <state id="lisa_loud_surprised_bikini_updated.swf" name="Surprised" enable="Y"/>
     <state id="lisa_loud_swimsuit_excited_updated.swf" name="Excited" enable="Y"/>
     <state id="lisa_thinking_swimsuit_updated.swf" name="Think" enable="Y"/>
+    <state id="lisa_loud_notice_bikini_updated_facecam.swf" name="Noticed Facecam" enable="Y"/>
+    <state id="lisa_loud_shy_bikinialt.swf" name="Shy alt" enable="Y"/>
+    <state id="lisa_loud_shy_bikini_facecam.swf" name="Shy Facecam" enable="Y"/>
   </prop>
   <prop id="ncc_hpsalt.swf" name="Drip stand" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11290" money="0" sharing="0"/>
   <prop id="ncc_hpshelf_front.swf" name="Counter top" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11291" money="0" sharing="0"/>
