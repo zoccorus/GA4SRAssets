@@ -19401,6 +19401,11 @@
     <tag>piano</tag>
     <tag>slow</tag>
   </sound>
+  <sound id="The_end.mp3" name="The End Is Near" downloadtype="progressive" subtype="bgmusic" duration="445679" enable="Y" is_premium="N" aid="24297" money="0" sharing="0">
+    <tag>dramatic</tag>
+    <tag>fortnite</tag>
+    <tag>epic</tag>
+  </sound>
   <sound id="Move_with_Me.mp3" name="Move with Me" downloadtype="progressive" subtype="bgmusic" duration="12597" enable="Y" is_premium="N" aid="24298" money="0" sharing="0">
     <tag>energetic</tag>
     <tag>fast</tag>
