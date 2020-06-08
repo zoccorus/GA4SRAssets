@@ -18593,7 +18593,7 @@
     <tag>fight</tag>
     <tag>funny</tag>
   </sound>
-  <sound id="broke.mp3" name="Screen broke" downloadtype="progressive" subtype="soundeffect" duration="1000" enable="Y" is_premium="N" aid="6730" money="0" sharing="0">
+  <sound id="screen_broke.mp3" name="Screen broke" downloadtype="progressive" subtype="soundeffect" duration="1000" enable="Y" is_premium="N" aid="6730" money="0" sharing="0">
     <tag>break</tag>
     <tag>screen</tag>
     <tag>destruction</tag>
@@ -18617,9 +18617,9 @@
     <tag>censored</tag>
     <tag>beep</tag>
   </sound>
-  <sound id="Censored.mp3" name="Censored" downloadtype="progressive" subtype="soundeffect" duration="6000" enable="Y" is_premium="N" aid="6730" money="0" sharing="0">
-    <tag>censored</tag>
-    <tag>beep</tag>
+  <sound id="Lisa_Nods_Or_Agrees.mp3" name="Lisa Agrees/Nods" downloadtype="progressive" subtype="soundeffect" duration="987" enable="Y" is_premium="N" aid="6730" money="0" sharing="0">
+    <tag>lisa</tag>
+    <tag>agree</tag>
   </sound>
   <sound id="musical_instru_thx.mp3" name="Thx (GoAnimate One)" downloadtype="progressive" subtype="soundeffect" duration="8257" enable="Y" is_premium="N" aid="6731" money="0" sharing="0">
     <tag>ending</tag>
