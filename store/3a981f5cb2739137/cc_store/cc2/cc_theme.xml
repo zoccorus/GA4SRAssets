@@ -189,7 +189,7 @@
         <choice>0xBE5A30</choice>
         <choice>0xE797B6</choice>
     </color>
-    <!--<color r="ccHandMinor" component_type="GoHands" enable="Y">
+    <color r="ccHandMinor" component_type="GoHands" enable="Y">
         <choice>0xAE0057</choice>
         <choice>0x53A8DF</choice>
         <choice>0xEC9EC5</choice>
@@ -198,7 +198,7 @@
         <choice>0x5F4929</choice>
         <choice>0x4A6028</choice>
         <choice>0x000000</choice>
-    </color>-->
+    </color>
     <facial id="head_talkneutral" name="Talk" enable="Y">
         <selection type="ear" state_id="default"/>
         <selection type="eye" state_id="default"/>
