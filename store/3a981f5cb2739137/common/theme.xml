@@ -16515,6 +16515,9 @@
     <state id="lisa_loud.swf" name="Normal" enable="Y" default="Y"/>
     <state id="lisa_loud_lac.swf" name="Look at Camera" enable="Y" default="Y"/>
     <state id="lisa_loud_angry.swf" name="Angry" enable="Y"/>
+    <state id="lisa_loud_angry_lac.swf" name="Angry Facecam" enable="Y"/>
+    <state id="lisa_loud_angry_lu.swf" name="Angry lu" enable="Y"/>
+    <state id="lisa_loud_angryb.swf" name="Angry alt" enable="Y"/>
     <state id="lisa_loud_angry_t.swf" name="Angry Talk" enable="Y"/>
     <state id="lisa_loud_b.swf" name="Bored" enable="Y"/>
     <state id="lisa_loud_b_t.swf" name="Bored Talk" enable="Y"/>
