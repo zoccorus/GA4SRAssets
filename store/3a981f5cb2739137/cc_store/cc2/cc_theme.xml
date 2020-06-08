@@ -2890,19 +2890,17 @@
         <library type="GoUpper" id="024" path="024" name="024" thumb="024_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y"/>
         <library type="GoUpper" id="052" path="052" name="052" thumb="052_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y"/>
         <library type="GoUpper" id="053" path="053" name="053" thumb="053_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y"/>
-        <!--DISABLED--><library type="GoUpper" id="054" path="054" name="054" thumb="054_thumbnail.swf" display_order="10" money="0" sharing="0" enable="N"/>
+        <library type="GoUpper" id="054" path="054" name="054" thumb="054_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y"/>
         <library type="GoUpper" id="063" path="063" name="063" thumb="063_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y"/>
         <library type="GoUpper" id="066" path="066" name="066" thumb="066_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y"/>
         <library type="GoUpper" id="069" path="069" name="069" thumb="069_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y"/>
         <library type="GoUpper" id="070" path="070" name="070" thumb="070_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y"/>
         <library type="GoUpper" id="139" path="139" name="139" thumb="139_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y"/>
         <library type="GoUpper" id="140" path="140" name="140" thumb="140_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y"/>
-
-        <library type="GoUpper" id="146" path="146" name="146" thumb="146_thumbnail.swf" display_order="10" money="0" sharing="0" enable="N"/>
-        <library type="GoUpper" id="149" path="149" name="149" thumb="149_thumbnail.swf" display_order="10" money="0" sharing="0" enable="N"/>
-        <library type="GoUpper" id="147" path="147" name="147" thumb="147_thumbnail.swf" display_order="10" money="0" sharing="0" enable="N"/>
-        <library type="GoUpper" id="148" path="148" name="148" thumb="148_thumbnail.swf" display_order="10" money="0" sharing="0" enable="N"/>
-		
+        <library type="GoUpper" id="146" path="146" name="146" thumb="146_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y"/>
+        <library type="GoUpper" id="149" path="149" name="149" thumb="149_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y"/>
+        <library type="GoUpper" id="147" path="147" name="147" thumb="147_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y"/>
+        <library type="GoUpper" id="148" path="148" name="148" thumb="148_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y"/>
         <library type="GoUpper" id="242" path="242" name="242" thumb="242_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y"/>
         <library type="GoUpper" id="243" path="243" name="243" thumb="243_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y"/>
         <library type="GoUpper" id="244" path="244" name="244" thumb="244_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y"/>
@@ -2952,7 +2950,7 @@
 		</library>
 
 
-        <library type="GoLower" id="023" path="023" name="023" thumb="023_thumbnail.swf" display_order="10" money="0" sharing="0" enable="N"/>
+        <library type="GoLower" id="023" path="023" name="023" thumb="023_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y"/>
         <library type="GoLower" id="013" path="013" name="013" thumb="013_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y"/>
         <library type="GoLower" id="002" path="002" name="002" thumb="002_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y"/>
         <library type="GoLower" id="005" path="005" name="005" thumb="005_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y"/>
@@ -2980,17 +2978,17 @@
         <library type="GoLower" id="019" path="019" name="019" thumb="019_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y"/>
         <library type="GoLower" id="022" path="022" name="022" thumb="022_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y">
 			<tag>_scifi</tag>
-		</library>
-		<library type="GoLower" id="007" path="007" name="007" thumb="007_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y">
+
+        <library type="GoLower" id="007" path="007" name="007" thumb="007_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y">
 			<tag>_scifi</tag>
-		</library>
+		
         <library type="GoLower" id="032" path="032" name="032" thumb="032_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y">
 			<tag>_scifi</tag>
-		</library>
+		
         <library type="GoLower" id="008" path="008" name="008" thumb="008_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y"/>
         <library type="GoLower" id="010" path="010" name="010" thumb="010_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y"/>
-		<library type="GoLower" id="018" path="018" name="018" thumb="018_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y"/>
-		<library type="GoLower" id="011" path="011" name="011" thumb="011_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y"/>
+        <library type="GoLower" id="018" path="018" name="018" thumb="018_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y"/>
+	<library type="GoLower" id="011" path="011" name="011" thumb="011_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y"/>
         <library type="GoLower" id="012" path="012" name="012" thumb="012_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y"/>
 
 
@@ -3045,12 +3043,11 @@
         <library type="GoHands" id="004" path="004" name="004" thumb="004_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y"/>
         <library type="GoHands" id="011" path="011" name="011" thumb="011_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y"/>
         <library type="GoHands" id="012" path="012" name="012" thumb="012_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y"/>
-		<library type="GoHands" id="013" path="013" name="013" thumb="013_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y"/>
+	<library type="GoHands" id="013" path="013" name="013" thumb="013_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y"/>
         <library type="GoHands" id="005" path="005" name="005" thumb="005_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y"/>
         <library type="GoHands" id="006" path="006" name="006" thumb="006_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y"/>
         <library type="GoHands" id="007" path="007" name="007" thumb="007_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y"/>
-
-		<library type="GoHands" id="008" path="008" name="008" thumb="008_thumbnail.swf" display_order="10" money="0" sharing="0" enable="N"/>
+	<library type="GoHands" id="008" path="008" name="008" thumb="008_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y"/>
 		
         <component type="freeaction" id="default" path="default" name="default" thumb="" money="0" sharing="0" enable="Y"/>
     </bodyshape>
@@ -3412,7 +3409,6 @@
         <state id="up" filename="up.swf"/>
         <state id="wink" filename="wink.swf"/>
    </component>
-
     <component type="eye" id="019" path="019" name="019" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
         <state id="angry" filename="angry.swf"/>
         <state id="closed_eye" filename="closed_eye.swf"/>
@@ -3453,7 +3449,7 @@
         <state id="up" filename="up.swf"/>
         <state id="wink" filename="wink.swf"/>
     </component>
-    <!--DISABLED--><component type="eye" id="011" path="011" name="011" thumb="thumbnail.swf" money="0" sharing="0" enable="N">
+    <component type="eye" id="011" path="011" name="011" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
         <state id="angry" filename="angry.swf"/>
         <state id="closed_eye" filename="closed_eye.swf"/>
         <state id="confused" filename="confused.swf"/>
@@ -4232,8 +4228,7 @@
     <component type="facedecoration" id="003" path="003" name="003" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
         <state id="default" filename="default.swf"/>
     </component>
-<!-- DISABLED -->
-    <component type="facedecoration" id="023" path="023" name="023" thumb="thumbnail.swf" money="0" sharing="0" enable="N">
+    <component type="facedecoration" id="023" path="023" name="023" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
         <state id="default" filename="default.swf"/>
     </component>
 
@@ -4485,25 +4480,25 @@
     <component type="faceshape" id="032" path="032" name="032" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
         <state id="default" filename="default.swf"/>
     </component>
-    <component type="faceshape" id="027" path="027" name="027" thumb="thumbnail.swf" money="0" sharing="0" enable="N">
+    <component type="faceshape" id="027" path="027" name="027" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
         <state id="default" filename="default.swf"/>
     </component>
-    <component type="faceshape" id="028" path="028" name="028" thumb="thumbnail.swf" money="0" sharing="0" enable="N">
+    <component type="faceshape" id="028" path="028" name="028" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
         <state id="default" filename="default.swf"/>
     </component>
-    <component type="faceshape" id="026" path="026" name="026" thumb="thumbnail.swf" money="0" sharing="0" enable="N">
+    <component type="faceshape" id="026" path="026" name="026" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
         <state id="default" filename="default.swf"/>
     </component>
-    <component type="faceshape" id="024" path="024" name="024" thumb="thumbnail.swf" money="0" sharing="0" enable="N">
+    <component type="faceshape" id="024" path="024" name="024" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
         <state id="default" filename="default.swf"/>
     </component>
-    <component type="faceshape" id="025" path="025" name="025" thumb="thumbnail.swf" money="0" sharing="0" enable="N">
+    <component type="faceshape" id="025" path="025" name="025" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
         <state id="default" filename="default.swf"/>
     </component>
-    <component type="faceshape" id="023" path="023" name="023" thumb="thumbnail.swf" money="0" sharing="0" enable="N">
+    <component type="faceshape" id="023" path="023" name="023" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
         <state id="default" filename="default.swf"/>
     </component>
-    <component type="faceshape" id="022" path="022" name="022" thumb="thumbnail.swf" money="0" sharing="0" enable="N">
+    <component type="faceshape" id="022" path="022" name="022" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
         <state id="default" filename="default.swf"/>
     </component>
 	
@@ -5956,8 +5951,7 @@
 		<state id="stand02" filename="stand02.swf"/>
 		<state id="run03" filename="run03.swf"/>
     </component>
-
-    <component type="mouth" id="015" path="015" name="015" thumb="thumbnail.swf" money="0" sharing="0" enable="N">
+    <component type="mouth" id="015" path="015" name="015" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
         <state id="angry" filename="angry.swf"/>
         <state id="confused" filename="confused.swf"/>
         <state id="cry" filename="cry.swf"/>
