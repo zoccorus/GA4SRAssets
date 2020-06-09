@@ -15744,6 +15744,7 @@
     <state id="sagp_living_room_nighttime.swf" name="SAGP lr nt" enable="Y"/>
     <state id="samcraftten_chair.swf" name="SamCraft Chair" enable="Y"/>
     <state id="samcraftten_couch.swf" name="SamCraft Couch" enable="Y"/>
+    <state id="Front.swf" name="SAGP Front" enable="Y"/>
   </prop>
   <prop id="msp_sagpcar" name="Sagp Car" holdable="0" placeable="1" wearable="0" facing="left" thumb="sagp_car.swf" enable="Y" is_premium="N" aid="10469" money="0" sharing="0">
     <state id="sagp_car.swf" name="Outside" enable="Y" default="Y"/>
