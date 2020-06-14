@@ -15745,6 +15745,10 @@
     <state id="sagp_living_room_nighttime.swf" name="SAGP lr nt" enable="Y"/>
     <state id="samcraftten_chair.swf" name="SamCraft Chair" enable="Y"/>
     <state id="samcraftten_couch.swf" name="SamCraft Couch" enable="Y"/>
+    <state id="Front.swf" name="SAGP Front" enable="Y"/>
+    <state id="blue_radial.swf" name="Blue Radial" enable="Y"/>
+    <state id="green_radial.swf" name="Green Radial" enable="Y"/>
+    <state id="yellow_circluar_radial.swf" name="Yellow Radial" enable="Y"/>
   </prop>
   <prop id="msp_sagpcar" name="Sagp Car" holdable="0" placeable="1" wearable="0" facing="left" thumb="sagp_car.swf" enable="Y" is_premium="N" aid="10469" money="0" sharing="0">
     <state id="sagp_car.swf" name="Outside" enable="Y" default="Y"/>
@@ -18553,6 +18557,11 @@
     <tag>instruments</tag>
     <tag>musical</tag>
     <tag>Scary</tag>
+  </sound>
+  <sound id="Chours.mp3" name="Chours" downloadtype="progressive" subtype="soundeffect" duration="3257" enable="Y" is_premium="N" aid="6730" money="0" sharing="0">
+    <tag>instruments</tag>
+    <tag>musical</tag>
+    <tag>Angels</tag>
   </sound>
   <sound id="Foreboding.mp3" name="Foreboding" downloadtype="progressive" subtype="soundeffect" duration="5000" enable="Y" is_premium="N" aid="6730" money="0" sharing="0">
     <tag>instruments</tag>
