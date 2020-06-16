@@ -18674,6 +18674,122 @@
     <tag>hmm</tag>
     <tag>think</tag>
   </sound>
+  <sound id="Lisa_Scream.mp3" name="Lisa Scream" downloadtype="progressive" subtype="soundeffect" duration="1250" enable="Y" is_premium="N" aid="6730" money="0" sharing="0">
+    <tag>lisa</tag>
+    <tag>afraid</tag>
+    <tag>scream</tag>
+  </sound>
+  <sound id="AdultLink_Scream.mp3" name="Link Scream" downloadtype="progressive" subtype="soundeffect" duration="2000" enable="Y" is_premium="N" aid="6730" money="0" sharing="0">
+    <tag>adultlink</tag>
+    <tag>afraid</tag>
+    <tag>scream</tag>
+  </sound>
+  <sound id="Crazy_Man_Scream.mp3" name="Crazy Man Scream" downloadtype="progressive" subtype="soundeffect" duration="4000" enable="Y" is_premium="N" aid="6730" money="0" sharing="0">
+    <tag>crazy</tag>
+    <tag>male</tag>
+    <tag>afraid</tag>
+    <tag>scream</tag>
+  </sound>
+  <sound id="Crowd_Screaming.mp3" name="Crowd Screaming" downloadtype="progressive" subtype="soundeffect" duration="120000" enable="Y" is_premium="N" aid="6730" money="0" sharing="0">
+    <tag>crowd</tag>
+    <tag>afraid</tag>
+    <tag>scream</tag>
+  </sound>
+  <sound id="Epic_Scream.mp3" name="Epic Scream" downloadtype="progressive" subtype="soundeffect" duration="10000" enable="Y" is_premium="N" aid="6730" money="0" sharing="0">
+    <tag>male</tag>
+    <tag>epic</tag>
+    <tag>scream</tag>
+  </sound>
+  <sound id="GoronLink_Fall.mp3" name="Goron Link/Fat Scream" downloadtype="progressive" subtype="soundeffect" duration="4000" enable="Y" is_premium="N" aid="6730" money="0" sharing="0">
+    <tag>male</tag>
+    <tag>funny</tag>
+    <tag>scream</tag>
+  </sound>
+  <sound id="Link_Falltwo.mp3" name="Young Link/Boy Scream" downloadtype="progressive" subtype="soundeffect" duration="1257" enable="Y" is_premium="N" aid="6730" money="0" sharing="0">
+    <tag>male</tag>
+    <tag>afraid</tag>
+    <tag>scream</tag>
+  </sound>
+  <sound id="Little_Girl_scream.mp3" name="Little Girl Scream" downloadtype="progressive" subtype="soundeffect" duration="4257" enable="Y" is_premium="N" aid="6730" money="0" sharing="0">
+    <tag>girl</tag>
+    <tag>funny</tag>
+    <tag>scream</tag>
+  </sound>
+  <sound id="Man_Scream.mp3" name="Segway Guy Scream" downloadtype="progressive" subtype="soundeffect" duration="2257" enable="Y" is_premium="N" aid="6730" money="0" sharing="0">
+    <tag>happy wheels</tag>
+    <tag>funny</tag>
+    <tag>scream</tag>
+  </sound>
+  <sound id="Man_death_scream.mp3" name="Death Screams" downloadtype="progressive" subtype="soundeffect" duration="12000" enable="Y" is_premium="N" aid="6730" money="0" sharing="0">
+    <tag>lbp</tag>
+    <tag>death</tag>
+    <tag>scream</tag>
+  </sound>
+  <sound id="Man_funnyscream.mp3" name="Funny Scream" downloadtype="progressive" subtype="soundeffect" duration="12000" enable="Y" is_premium="N" aid="6730" money="0" sharing="0">
+    <tag>male</tag>
+    <tag>funny</tag>
+    <tag>scream</tag>
+  </sound>
+  <sound id="Man_scream_five.mp3" name="Horrified Scream [Short]" downloadtype="progressive" subtype="soundeffect" duration="4000" enable="Y" is_premium="N" aid="6730" money="0" sharing="0">
+    <tag>male</tag>
+    <tag>horrified</tag>
+    <tag>scream</tag>
+  </sound>
+  <sound id="Man_scream_four.mp3" name="Horrified Scream [Long]" downloadtype="progressive" subtype="soundeffect" duration="5000" enable="Y" is_premium="N" aid="6730" money="0" sharing="0">
+    <tag>male</tag>
+    <tag>horrified</tag>
+    <tag>scream</tag>
+  </sound>
+  <sound id="Man_scream_one.mp3" name="Horrified Scream Two" downloadtype="progressive" subtype="soundeffect" duration="6000" enable="Y" is_premium="N" aid="6730" money="0" sharing="0">
+    <tag>male</tag>
+    <tag>horrified</tag>
+    <tag>scream</tag>
+   </sound>
+  <sound id="Man_scream_two.mp3" name="Horrified Scream Three" downloadtype="progressive" subtype="soundeffect" duration="6000" enable="Y" is_premium="N" aid="6730" money="0" sharing="0">
+    <tag>male</tag>
+    <tag>horrified</tag>
+    <tag>scream</tag>
+  </sound>
+  <sound id="Man_scream_seven.mp3" name="Cartoon Scream" downloadtype="progressive" subtype="soundeffect" duration="2757" enable="Y" is_premium="N" aid="6730" money="0" sharing="0">
+    <tag>male</tag>
+    <tag>cartoon</tag>
+    <tag>scream</tag>
+  </sound>
+  <sound id="Man_scream_ten.mp3" name="Cartoon Scream Two" downloadtype="progressive" subtype="soundeffect" duration="8000" enable="Y" is_premium="N" aid="6730" money="0" sharing="0">
+    <tag>male</tag>
+    <tag>cartoon</tag>
+    <tag>scream</tag>
+  </sound>
+  <sound id="Man_scream_three.mp3" name="Male Scream" downloadtype="progressive" subtype="soundeffect" duration="3000" enable="Y" is_premium="N" aid="6730" money="0" sharing="0">
+    <tag>male</tag>
+    <tag>scp</tag>
+    <tag>scream</tag>
+  </sound>
+  <sound id="Psycho_Scream_one.mp3" name="Psycho Scream" downloadtype="progressive" subtype="soundeffect" duration="5000" enable="Y" is_premium="N" aid="6730" money="0" sharing="0">
+    <tag>female</tag>
+    <tag>Psycho</tag>
+    <tag>scream</tag>
+  </sound>
+  <sound id="Woman_scream.mp3" name="Female Scream" downloadtype="progressive" subtype="soundeffect" duration="2250" enable="Y" is_premium="N" aid="6730" money="0" sharing="0">
+    <tag>female</tag>
+    <tag>afraid</tag>
+    <tag>scream</tag>
+  </sound>
+  <sound id="ZoraLink_Fall.mp3" name="Zora Link Scream" downloadtype="progressive" subtype="soundeffect" duration="2250" enable="Y" is_premium="N" aid="6730" money="0" sharing="0">
+    <tag>link</tag>
+    <tag>afraid</tag>
+    <tag>scream</tag>
+  </sound>
+  <sound id="monster_scream.mp3" name="Monster Scream" downloadtype="progressive" subtype="soundeffect" duration="10000" enable="Y" is_premium="N" aid="6730" money="0" sharing="0">
+    <tag>monster</tag>
+    <tag>demon</tag>
+    <tag>scream</tag>
+  </sound>
+  <sound id="Dio Za WARUDO Time Stop Sound Effect.mp3" name="Time Stop" downloadtype="progressive" subtype="soundeffect" duration="2257" enable="Y" is_premium="N" aid="6730" money="0" sharing="0">
+    <tag>clock</tag>
+    <tag>time</tag>
+    <tag>stop</tag>
+  </sound>
   <sound id="THX_Deep_Note_DVD.ogg" name="THX (Real One)" downloadtype="progressive" subtype="soundeffect" duration="17000" enable="Y" is_premium="N" aid="6731" money="0" sharing="0">
     <tag>ending</tag>
     <tag>instruments</tag>
