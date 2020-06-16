@@ -18251,6 +18251,30 @@
     <tag>romantic</tag>
     <tag>Smooth</tag>
   </sound>
+  <sound id="Far_Away.mp3" name="Far Away" downloadtype="progressive" subtype="bgmusic" duration="105678" enable="Y" is_premium="N" aid="6044" money="0" sharing="0">
+    <tag>emotion</tag>
+    <tag>nostalgic</tag>
+    <tag>positive</tag>
+    <tag>rock</tag>
+    <tag>electronic</tag>
+    <tag>Smooth</tag>
+  </sound>
+  <sound id="Investigations.mp3" name="Investigations" downloadtype="progressive" subtype="bgmusic" duration="93000" enable="Y" is_premium="N" aid="6044" money="0" sharing="0">
+    <tag>emotion</tag>
+    <tag>nostalgic</tag>
+    <tag>positive</tag>
+    <tag>rock</tag>
+    <tag>mysterious</tag>
+    <tag>Smooth</tag>
+  </sound>
+  <sound id="Microchip.mp3" name="Microchip" downloadtype="progressive" subtype="bgmusic" duration="114000" enable="Y" is_premium="N" aid="6044" money="0" sharing="0">
+    <tag>emotion</tag>
+    <tag>nostalgic</tag>
+    <tag>positive</tag>
+    <tag>rock</tag>
+    <tag>futuristic</tag>
+    <tag>Smooth</tag>
+  </sound>
   <sound id="BroadcastNews.mp3" name="Broadcast News" downloadtype="progressive" subtype="bgmusic" duration="37600" enable="Y" is_premium="N" aid="6045" money="0" sharing="0">
     <tag>emotion</tag>
     <tag>news report</tag>
