@@ -19141,6 +19141,12 @@
     <tag>portal</tag>
     <tag>Intense</tag>
   </sound>
+  <sound id="Bavarian_Accordion.mp3" name="Bavarian Accordion" downloadtype="progressive" subtype="bgmusic" duration="56000" enable="Y" is_premium="N" aid="14977" money="0" sharing="0">
+    <tag>Chef</tag>
+    <tag>France</tag>
+    <tag>Paris</tag>
+    <tag>Jazz</tag>
+  </sound>
   <sound id="Street_Party.mp3" name="Street Party" downloadtype="progressive" subtype="bgmusic" duration="143156" enable="Y" is_premium="N" aid="14977" money="0" sharing="0">
     <tag>Summer</tag>
     <tag>beach</tag>
