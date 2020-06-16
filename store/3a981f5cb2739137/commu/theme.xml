@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <theme id="commu" name="Community">
-<char id="knucks" name="Knuckles" thumb="knucks.swf" facing="left" default="knucks.swf" motion="knuckwalk.swf" enable="N">
+<char id="knucks" name="Knuckles" thumb="knucks.swf" facing="left" default="knucks.swf" motion="knuckwalk.swf" enable="Y">
 <action id="knucks.swf" name="Stand" loop="Y" totalframe="3"/>
 <motion id="knuckswalk.swf" name="Walk" loop="Y" totalframe="3"/>
 <motion id="knuckspin.swf" name="Spinball" loop="Y" totalframe="3"/>
