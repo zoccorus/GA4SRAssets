@@ -18809,6 +18809,51 @@
     <tag>demon</tag>
     <tag>scream</tag>
   </sound>
+  <sound id="Spongebob And Patrick Scream.mp3" name="Spongebob And Patrick Scream" downloadtype="progressive" subtype="soundeffect" duration="2875" enable="Y" is_premium="N" aid="6730" money="0" sharing="0">
+    <tag>Spongebob</tag>
+    <tag>Patrick</tag>
+    <tag>scream</tag>
+  </sound>
+  <sound id="Squidward_Scream.mp3" name="Squidward Scream" downloadtype="progressive" subtype="soundeffect" duration="2875" enable="Y" is_premium="N" aid="6730" money="0" sharing="0">
+    <tag>Squidward</tag>
+    <tag>afraid</tag>
+    <tag>scream</tag>
+  </sound>
+  <sound id="Inhale - Sound Effect.mp3" name="Gasp Male" downloadtype="progressive" subtype="soundeffect" duration="10000" enable="Y" is_premium="N" aid="6730" money="0" sharing="0">
+    <tag>male</tag>
+    <tag>human</tag>
+    <tag>gasp</tag>
+  </sound>
+  <sound id="Boy_Shocked.mp3" name="Gasp Boy" downloadtype="progressive" subtype="soundeffect" duration="5000" enable="Y" is_premium="N" aid="6730" money="0" sharing="0">
+    <tag>boy</tag>
+    <tag>human</tag>
+    <tag>gasp</tag>
+  </sound>
+  <sound id="Lisa_Shocked.mp3" name="Lisa Gasp" downloadtype="progressive" subtype="soundeffect" duration="5000" enable="Y" is_premium="N" aid="6730" money="0" sharing="0">
+    <tag>lisa</tag>
+    <tag>shocked</tag>
+    <tag>gasp</tag>
+  </sound>
+  <sound id="Phone_Ring.mp3" name="Phone Ring" downloadtype="progressive" subtype="soundeffect" duration="3000" enable="Y" is_premium="N" aid="6730" money="0" sharing="0">
+    <tag>phone</tag>
+    <tag>ring</tag>
+    <tag>electronic</tag>
+  </sound>
+  <sound id="Phone_Ring_And_Answer.mp3" name="Phone Ring Then Answer" downloadtype="progressive" subtype="soundeffect" duration="3000" enable="Y" is_premium="N" aid="6730" money="0" sharing="0">
+    <tag>phone</tag>
+    <tag>ring</tag>
+    <tag>electronic</tag>
+  </sound>
+  <sound id="Crowd_Shocked.mp3" name="Crowd Gasp" downloadtype="progressive" subtype="soundeffect" duration="1000" enable="Y" is_premium="N" aid="6730" money="0" sharing="0">
+    <tag>audience</tag>
+    <tag>crowd</tag>
+    <tag>gasp</tag>
+  </sound>
+  <sound id="Crowd_Shocked_two.mp3" name="Crowd Gasp Two" downloadtype="progressive" subtype="soundeffect" duration="5000" enable="Y" is_premium="N" aid="6730" money="0" sharing="0">
+    <tag>audience</tag>
+    <tag>crowd</tag>
+    <tag>gasp</tag>
+  </sound>
   <sound id="Dio Za WARUDO Time Stop Sound Effect.mp3" name="Time Stop" downloadtype="progressive" subtype="soundeffect" duration="2257" enable="Y" is_premium="N" aid="6730" money="0" sharing="0">
     <tag>clock</tag>
     <tag>time</tag>
