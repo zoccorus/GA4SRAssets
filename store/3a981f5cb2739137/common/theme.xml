@@ -15749,6 +15749,13 @@
     <state id="blue_radial.swf" name="Blue Radial" enable="Y"/>
     <state id="green_radial.swf" name="Green Radial" enable="Y"/>
     <state id="yellow_circluar_radial.swf" name="Yellow Radial" enable="Y"/>
+    <state id="My Outro Background.swf" name="SAGP Outro Background" enable="Y"/>
+  </prop>
+  <prop id="msp_holdableitems" name="Holdable Items" holdable="1" placeable="1" wearable="0" facing="left" thumb="doritos.swf" enable="Y" is_premium="N" aid="10469" money="0" sharing="0">
+    <state id="doritos.swf" name="Doritos" enable="Y" default="Y"/>
+    <state id="gatorade_coolblue.swf" name="Gatorade Cool Blue" enable="Y"/>
+    <state id="gatorade_fruitpunch.swf" name="Gatorade Fruit Punch" enable="Y"/>
+    <state id="pepsi.swf" name="Pepsi" enable="Y"/>
   </prop>
   <prop id="msp_sagpcar" name="Sagp Car" holdable="0" placeable="1" wearable="0" facing="left" thumb="sagp_car.swf" enable="Y" is_premium="N" aid="10469" money="0" sharing="0">
     <state id="sagp_car.swf" name="Outside" enable="Y" default="Y"/>
@@ -16634,7 +16641,12 @@
     <state id="lisa_loud_angry_lu_bikini.swf" name="Angry lu" enable="Y"/>
     <state id="lisa_loud_angryb_bikini.swf" name="Angry alt" enable="Y"/>
     <state id="lisa_loud_sitsleep.swf" name="Sit Sleep" enable="Y"/>
-    <state id=lisa_loud_shockedalttwo_bikini.swf" name="Shocked Alt" enable="Y"/>
+    <state id="lisa_loud_shockedalttwo_bikini.swf" name="Shocked Alt" enable="Y"/>
+    <state id="lisa_loud_shy_bikini_two.swf" name="Shy Two" enable="Y"/>
+    <state id="lisa_loud_sexy_pose_bikini.swf" name="Sexy Pose" enable="Y"/>
+    <state id="lisa_loud_very_angry_bikini.swf" name="Very Angry" enable="Y"/>
+    <state id="lisa_loud_fearful_bikini.swf" name="Fearful" enable="Y"/>
+    <state id="lisa_loud_fearful_bikini_alt.swf" name="Fearful alt" enable="Y"/>
   </prop>
   <prop id="ncc_hpsalt.swf" name="Drip stand" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11290" money="0" sharing="0"/>
   <prop id="ncc_hpshelf_front.swf" name="Counter top" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11291" money="0" sharing="0"/>
