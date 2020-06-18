@@ -18881,6 +18881,11 @@
     <tag>instruments</tag>
     <tag>musical</tag>
   </sound>
+  <sound id="GoAnimate_News_Network_Theme.mp3" name="GNN Theme" downloadtype="progressive" subtype="soundeffect" duration="11758" enable="Y" is_premium="N" aid="6731" money="0" sharing="0">
+    <tag>ending</tag>
+    <tag>instruments</tag>
+    <tag>musical</tag>
+  </sound>
   <sound id="Im at SOUP.mp3" name="I'm At Soup" downloadtype="progressive" subtype="soundeffect" duration="60894" enable="Y" is_premium="N" aid="62035" money="0" sharing="0">
     <tag>funny</tag>
     <tag>instruments</tag>
