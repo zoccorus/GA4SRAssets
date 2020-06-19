@@ -18886,6 +18886,15 @@
     <tag>instruments</tag>
     <tag>musical</tag>
   </sound>
+  <sound id="Footsteps_GoAnimate_Logos.mp3" name="Footsteps GAL" downloadtype="progressive" subtype="soundeffect" duration="4000" enable="Y" is_premium="N" aid="6731" money="0" sharing="0">
+    <tag>footsteps</tag>
+    <tag>goanimatelogo</tag>
+    <tag>run</tag>
+  </sound>
+  <sound id="Lisa_Laughter_long.mp3" name="Lisa Loud Laugh (Long)" downloadtype="progressive" subtype="soundeffect" duration="2575" enable="Y" is_premium="N" aid="6731" money="0" sharing="0">
+    <tag>Lisa</tag>
+    <tag>Laugh</tag>
+  </sound>
   <sound id="Im at SOUP.mp3" name="I'm At Soup" downloadtype="progressive" subtype="soundeffect" duration="60894" enable="Y" is_premium="N" aid="62035" money="0" sharing="0">
     <tag>funny</tag>
     <tag>instruments</tag>
