@@ -16604,6 +16604,10 @@
     <state id="lisa_sitting_na_lookup.swf" name="Sit na look up" enable="Y"/>
     <state id="lisa_loud_on_hips_lookup.swf" name="On Hips Look up alt" enable="Y"/>
     <state id="lisa_loud_on_hips_lookup_wink.swf" name="On Hips Look up Wink" enable="Y"/>
+    <state id="lisa_loud_Awesome_Pose.swf" name="Awesome Pose" enable="Y"/>
+    <state id="lisa_loud_Awesome_Pose_alt.swf" name="Awesome Pose Alt" enable="Y"/>
+    <state id="lisa_loud_surprised.swf" name="Surprised" enable="Y"/>
+    <state id="lisa_loud_surprised_facecam.swf" name="Surprised Facecam" enable="Y"/>
   </prop>
   <prop id="msp_lisaloudbikini" name="Lisa Loud (Bikini)" holdable="0" placeable="1" wearable="0" facing="left" thumb="lisa_loud_Custom_Pose_bikini.swf" enable="Y" is_premium="N" aid="11286" money="0" sharing="0">
     <state id="lisa_loud_Custom_Pose_bikini.swf" name="Custom Pose" enable="Y" default="Y"/>
