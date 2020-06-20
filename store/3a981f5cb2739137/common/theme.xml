@@ -16608,6 +16608,8 @@
     <state id="lisa_loud_Awesome_Pose_alt.swf" name="Awesome Pose Alt" enable="Y"/>
     <state id="lisa_loud_surprised.swf" name="Surprised" enable="Y"/>
     <state id="lisa_loud_surprised_facecam.swf" name="Surprised Facecam" enable="Y"/>
+    <state id="Lisa_Loud_Waving_Facing_at_Camera.swf" name="Waving Face at Cam" enable="Y"/>
+    <state id="Lisa_Loud_Waving_Facing_at_Camera_alt.swf" name="Waving Face at Cam Alt" enable="Y"/>
   </prop>
   <prop id="msp_lisaloudbikini" name="Lisa Loud (Bikini)" holdable="0" placeable="1" wearable="0" facing="left" thumb="lisa_loud_Custom_Pose_bikini.swf" enable="Y" is_premium="N" aid="11286" money="0" sharing="0">
     <state id="lisa_loud_Custom_Pose_bikini.swf" name="Custom Pose" enable="Y" default="Y"/>
@@ -18886,6 +18888,11 @@
     <tag>musical</tag>
   </sound>
   <sound id="GoAnimate_News_Network_Theme.mp3" name="GNN Theme" downloadtype="progressive" subtype="soundeffect" duration="11758" enable="Y" is_premium="N" aid="6731" money="0" sharing="0">
+    <tag>ending</tag>
+    <tag>instruments</tag>
+    <tag>musical</tag>
+  </sound>
+  <sound id="GTN Theme.mp3" name="Original GoAnimate Theme (NBC)" downloadtype="progressive" subtype="soundeffect" duration="19758" enable="Y" is_premium="N" aid="6731" money="0" sharing="0">
     <tag>ending</tag>
     <tag>instruments</tag>
     <tag>musical</tag>
