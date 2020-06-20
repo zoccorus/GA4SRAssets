@@ -16610,6 +16610,12 @@
     <state id="lisa_loud_surprised_facecam.swf" name="Surprised Facecam" enable="Y"/>
     <state id="Lisa_Loud_Waving_Facing_at_Camera.swf" name="Waving Face at Cam" enable="Y"/>
     <state id="Lisa_Loud_Waving_Facing_at_Camera_alt.swf" name="Waving Face at Cam Alt" enable="Y"/>
+    <state id="lisa_loud_excited_alt.swf" name="Excited alt" enable="Y"/>
+    <state id="lisa_loud_excited_alt_lac.swf" name="Excited alt lac" enable="Y"/>
+    <state id="lisa_loud_eogalt.swf" name="eog alt" enable="Y"/>
+    <state id="lisa_loud_shocked_pulloversomeone.swf" name="Shocked pos" enable="Y"/>
+    <state id="lisa_loud_worried_two.swf" name="Worried two" enable="Y"/>
+    <state id="lisa_loud_worriedalt.swf" name="Worried alt" enable="Y"/>
   </prop>
   <prop id="msp_lisaloudbikini" name="Lisa Loud (Bikini)" holdable="0" placeable="1" wearable="0" facing="left" thumb="lisa_loud_Custom_Pose_bikini.swf" enable="Y" is_premium="N" aid="11286" money="0" sharing="0">
     <state id="lisa_loud_Custom_Pose_bikini.swf" name="Custom Pose" enable="Y" default="Y"/>
