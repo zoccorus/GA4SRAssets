@@ -7,6 +7,17 @@
 <action id="knuckspindash.swf" name="Spindash" loop="Y" totalframe="3"/>
 <action id="knuckspindashnodust.swf" name="Spindash (No Dust)" loop="Y" totalframe="3"/>
 </char>
+<char id="tails" name="Tails" thumb="stand.swf" facing="left" default="stand.swf" motion="fly.swf" enable="Y">
+<action id="stand.swf" name="Stand" loop="Y" totalframe="3"/>
+<motion id="fly.swf" name="Fly" loop="Y" totalframe="3"/>
+</char>
+<char id="bamboo" name="Bamboo" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="Y">
+<action id="stand.swf" name="Stand" loop="Y" totalframe="3"/>
+<action id="talk.swf" name="Talk" loop="Y" totalframe="3"/>
+<action id="sit.swf" name="Sit" loop="Y" totalframe="3"/>
+<action id="sit_talk.swf" name="Sit Talk" loop="Y" totalframe="3"/>
+<motion id="walk.swf" name="Walk" loop="Y" totalframe="3"/>
+</char>
 <char id="ios" name="IOS" thumb="ios.swf" facing="left" default="ios.swf" motion="ios.swf" enable="Y" is_premium="N" aid="237" money="0" sharing="0">
     <action aid="6928" enable="Y" name="Be a phone" id="ios.swf" totalframe="1" loop="Y"/>
   </char>
