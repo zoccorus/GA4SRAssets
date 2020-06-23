@@ -10,6 +10,10 @@
 </c_parts>
   </background>
   <background id="changing_room_bg.swf" name="Y" enable="N" default="N" is_premium="N" aid="9699" money="0" sharing="0"/>
+  <background id="Caillou_House_Resized.swf" name="Y" enable="N" default="N" is_premium="N" aid="9699" money="0" sharing="0"/>
+  <background id="Clouds_Night.swf" name="Y" enable="N" default="N" is_premium="N" aid="9699" money="0" sharing="0"/>
+  <background id="Starry_Night.swf" name="Y" enable="N" default="N" is_premium="N" aid="9699" money="0" sharing="0"/>
+  <background id="nathantda_galaxy.swf" name="Y" enable="N" default="N" is_premium="N" aid="9699" money="0" sharing="0"/>
   <background id="battlefield_bg.swf" name="Y" enable="N" default="N" is_premium="N" aid="9698" money="0" sharing="0"/>
   <background id="camp_int_bg.swf" name="Y" enable="N" default="N" is_premium="N" aid="9697" money="0" sharing="0"/>
   <background id="army_camp_close_bg.swf" name="Army camp (close up)" enable="N" default="N" is_premium="N" aid="9658" money="0" sharing="0"/>
