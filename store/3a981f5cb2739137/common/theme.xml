@@ -19675,6 +19675,22 @@
     <tag>loop</tag>
     <tag>Rock</tag>
   </sound>
+  <sound id="Jeopardy Thinking.mp3" name="Jeopardy Thinking" downloadtype="progressive" subtype="bgmusic" duration="32000" enable="Y" is_premium="N" aid="24298" money="0" sharing="0">
+    <tag>clock</tag>
+    <tag>joyful</tag>
+    <tag>loop</tag>
+    <tag>think</tag>
+  </sound>
+  <sound id="Jazz_Comedy.mp3" name="Jazz Comedy" downloadtype="progressive" subtype="bgmusic" duration="193000" enable="Y" is_premium="N" aid="24298" money="0" sharing="0">
+    <tag>comedy</tag>
+    <tag>joyful</tag>
+    <tag>jazz</tag>
+  </sound>
+  <sound id="Yakety Sax.mp3" name="Yakety Sax" downloadtype="progressive" subtype="bgmusic" duration="275000" enable="Y" is_premium="N" aid="24298" money="0" sharing="0">
+    <tag>comedy</tag>
+    <tag>joyful</tag>
+    <tag>jazz</tag>
+  </sound>
   <sound id="Just_to_Love_You.mp3" name="Just to Love You" downloadtype="progressive" subtype="bgmusic" duration="189942" enable="Y" is_premium="N" aid="24299" money="0" sharing="0">
     <tag>acoustic</tag>
     <tag>fast</tag>
