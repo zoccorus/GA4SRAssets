@@ -18917,6 +18917,14 @@
     <tag>Lisa</tag>
     <tag>Laugh</tag>
   </sound>
+  <sound id="Horrid_Henry_NO.mp3" name="Horrid Henry Shouts" downloadtype="progressive" subtype="soundeffect" duration="6000" enable="Y" is_premium="N" aid="6731" money="0" sharing="0">
+    <tag>Horrid Henry</tag>
+    <tag>Shout</tag>
+  </sound>
+  <sound id="School_Bell.mp3" name="School Bell" downloadtype="progressive" subtype="soundeffect" duration="3257" enable="Y" is_premium="N" aid="6731" money="0" sharing="0">
+    <tag>School</tag>
+    <tag>Bell</tag>
+  </sound>
   <sound id="Im at SOUP.mp3" name="I'm At Soup" downloadtype="progressive" subtype="soundeffect" duration="60894" enable="Y" is_premium="N" aid="62035" money="0" sharing="0">
     <tag>funny</tag>
     <tag>instruments</tag>
@@ -19257,6 +19265,22 @@
     <tag>mysterious</tag>
     <tag>portal</tag>
     <tag>Intense</tag>
+  </sound>
+  <sound id="Miza - Dark World.mp3" name="Dark World" downloadtype="progressive" subtype="bgmusic" duration="235000" enable="Y" is_premium="N" aid="14977" money="0" sharing="0">
+    <tag>Dramatic</tag>
+    <tag>Anger</tag>
+    <tag>Electronic</tag>
+    <tag>Intense</tag>
+  </sound>
+  <sound id="Fredji - Happy Life.mp3" name="Happy Life" downloadtype="progressive" subtype="bgmusic" duration="231000" enable="Y" is_premium="N" aid="14977" money="0" sharing="0">
+    <tag>Peaceful</tag>
+    <tag>Happy</tag>
+    <tag>Electronic</tag>
+    <tag>Funk</tag>
+  </sound>
+  <sound id="Mysterious Music.mp3" name="Mysterious Moment" downloadtype="progressive" subtype="bgmusic" duration="17000" enable="Y" is_premium="N" aid="14977" money="0" sharing="0">
+    <tag>Mystery</tag>
+    <tag>Loop</tag>
   </sound>
   <sound id="Bavarian_Accordion.mp3" name="Bavarian Accordion" downloadtype="progressive" subtype="bgmusic" duration="56000" enable="Y" is_premium="N" aid="14977" money="0" sharing="0">
     <tag>Chef</tag>
