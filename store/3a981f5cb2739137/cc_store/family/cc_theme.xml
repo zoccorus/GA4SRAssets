@@ -11453,7 +11453,7 @@
         <state id="default" filename="default.swf"/>
         <state id="happy" filename="happy.swf"/>
         <state id="laugh" filename="laugh.swf"/>
-        <state id="sad" filename="sad.swf"/>
+        <state id="sad" filename="confused.swf"/>
         <state id="schemeing" filename="laugh.swf"/>
         <state id="shock" filename="shock.swf"/>
         <state id="sick" filename="sick.swf"/>
