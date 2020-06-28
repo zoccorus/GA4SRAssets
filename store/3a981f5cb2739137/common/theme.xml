@@ -16621,6 +16621,7 @@
     <state id="lisa_loud_worried_two.swf" name="Worried two" enable="Y"/>
     <state id="lisa_loud_worriedalt.swf" name="Worried alt" enable="Y"/>
     <state id="lisa_loud_happy.swf" name="Happy" enable="Y"/>
+    <state id="lisa_loud_happy_alt.swf" name="Happy ALT" enable="Y"/>
   </prop>
   <prop id="msp_lisaloudbikini" name="Lisa Loud (Bikini)" holdable="0" placeable="1" wearable="0" facing="left" thumb="lisa_loud_Custom_Pose_bikini.swf" enable="Y" is_premium="N" aid="11286" money="0" sharing="0">
     <state id="lisa_loud_Custom_Pose_bikini.swf" name="Custom Pose" enable="Y" default="Y"/>
