@@ -18667,6 +18667,16 @@
     <tag>cartoon</tag>
     <tag>funny</tag>
   </sound>
+  <sound id="Man_Laugh_Eric.mp3" name="Male Laugh (Eric)" downloadtype="progressive" subtype="soundeffect" duration="4257" enable="Y" is_premium="N" aid="6730" money="0" sharing="0">
+    <tag>sims</tag>
+    <tag>laughter</tag>
+    <tag>male</tag>
+  </sound>
+  <sound id="Boy_Laugh_Justin.mp3" name="Boy Laugh (Justin)" downloadtype="progressive" subtype="soundeffect" duration="2257" enable="Y" is_premium="N" aid="6730" money="0" sharing="0">
+    <tag>sims</tag>
+    <tag>laughter</tag>
+    <tag>male</tag>
+  </sound>
   <sound id="punch.mp3" name="Punch" downloadtype="progressive" subtype="soundeffect" duration="1000" enable="Y" is_premium="N" aid="6730" money="0" sharing="0">
     <tag>comedic</tag>
     <tag>fight</tag>
