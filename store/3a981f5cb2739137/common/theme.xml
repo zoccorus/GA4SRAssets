@@ -16215,6 +16215,11 @@
     <state id="sagp_house_morning.swf" name="Morning" enable="Y"/>
     <state id="sagp_house_endofthelvm.swf" name="End Of The LVM" enable="Y"/>
   </prop>
+  <prop id="msp_elevatorscratch" name="Elevator" holdable="0" placeable="1" wearable="0" facing="left" thumb="Elevator_Daytime.swf" enable="Y" is_premium="N" aid="10875" money="0" sharing="0">
+    <state id="Elevator_Daytime.swf" name="Daytime" enable="Y" default="Y"/>
+    <state id="Elevator_Nighttime.swf" name="Nighttime" enable="Y"/>
+    <state id="Elevator_Cover.swf" name="Cover" enable="Y"/>
+  </prop>
   <prop id="ncc_toy_astronaut.swf" name="Toy" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="10880" money="0" sharing="0"/>
   <prop id="msp_poster01" name="Poster" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_poster01_ncc_poster01_front.swf" enable="Y" is_premium="Y" aid="10881" money="0" sharing="0">
     <state id="msp_poster01_ncc_poster01_front.swf" name="front" enable="Y" default="Y"/>
