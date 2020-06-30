@@ -2753,6 +2753,13 @@
         <library type="GoUpper" id="245" path="245" name="245" thumb="245_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y"/>
         <library type="GoUpper" id="246" path="246" name="246" thumb="246_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y"/>
         <library type="GoUpper" id="247" path="247" name="247" thumb="247_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y"/>
+	<library type="GoUpper" id="3001" path="3001" name="3001" thumb="3001_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y"/>
+        <library type="GoUpper" id="3002" path="3002" name="3002" thumb="3002_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y"/>
+        <library type="GoUpper" id="3003" path="3003" name="3003" thumb="3003_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y"/>
+        <library type="GoUpper" id="3004" path="3004" name="3004" thumb="3004_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y"/>
+        <library type="GoUpper" id="3005" path="3005" name="3005" thumb="3005_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y"/>
+        <library type="GoUpper" id="3006" path="3006" name="3006" thumb="3006_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y"/>
+        <library type="GoUpper" id="3007" path="3007" name="3007" thumb="3007_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y"/>
 		
 <!-- FEET START HERE -->
         <library type="GoLower" id="000" path="000" name="000" thumb="000_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y"/>
@@ -5029,6 +5036,18 @@
         <state id="default" filename="default.swf"/>
     </component>
     <component type="hair" id="125" path="125" name="125" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+        <state id="default" filename="default.swf"/>
+    </component>
+    <component type="hair" id="3001" path="3001" name="3001" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+    <state id="default" filename="default.swf"/>
+    </component>
+    <component type="hair" id="3002" path="3002" name="3002" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+        <state id="default" filename="default.swf"/>
+    </component>
+    <component type="hair" id="3003" path="3003" name="3003" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+        <state id="default" filename="default.swf"/>
+    </component>
+    <component type="hair" id="3004" path="3004" name="3004" money="0" thumb="thumbnail.swf" sharing="0" enable="Y">
         <state id="default" filename="default.swf"/>
     </component>
 
