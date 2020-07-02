@@ -10917,6 +10917,7 @@
         <state id="sick" filename="sick.swf"/>
         <state id="thinking" filename="thinking.swf"/>
         <state id="yawn" filename="yawn.swf"/>
+	  </component>
 	    <component type="eye" id="6003" path="6003" name="6003" thumb="thumbnail.swf" money="0" sharing="0" split="N" enable="Y">
 		<state id="angry" filename="angry.swf" />
 		<state id="blue" filename="blue.swf" />
