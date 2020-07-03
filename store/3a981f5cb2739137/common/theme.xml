@@ -16631,6 +16631,7 @@
     <state id="Lisa_Loud_Confused_Talk.swf" name="Confused Talk" enable="Y"/>
     <state id="lisa_loud_embarrested.swf" name="Embarresed" enable="Y"/>
     <state id="Lisa_Loud_CryingAlt.swf" name="Crying Alt" enable="Y"/>
+    <state id=lisa_loud_crying_two.swf" name="Crying Two" enable="Y"/>
   </prop>
   <prop id="msp_lisaloudbikini" name="Lisa Loud (Bikini)" holdable="0" placeable="1" wearable="0" facing="left" thumb="lisa_loud_Custom_Pose_bikini.swf" enable="Y" is_premium="N" aid="11286" money="0" sharing="0">
     <state id="lisa_loud_Custom_Pose_bikini.swf" name="Custom Pose" enable="Y" default="Y"/>
@@ -18753,6 +18754,10 @@
     <tag>lisa</tag>
     <tag>hmm</tag>
     <tag>think</tag>
+  </sound>
+  <sound id="Lisa_Loud_Crying.mp3" name="Lisa Crying" downloadtype="progressive" subtype="soundeffect" duration="2250" enable="Y" is_premium="N" aid="6730" money="0" sharing="0">
+    <tag>lisa</tag>
+    <tag>crying</tag>
   </sound>
   <sound id="Lisa_Scream.mp3" name="Lisa Scream" downloadtype="progressive" subtype="soundeffect" duration="1250" enable="Y" is_premium="N" aid="6730" money="0" sharing="0">
     <tag>lisa</tag>
