@@ -42,6 +42,50 @@
 <category name="Fight">
 <action id="kick.swf" name="Kick" loop="Y" totalframe="4"/>
 <action id="punch.swf" name="Punch" loop="Y" totalframe="44"/>
+</category><?xml version="1.0" encoding="utf-8"?>
+<theme id="commu" name="Community">
+<char id="knucks" name="Knuckles" thumb="knucks.swf" facing="left" default="knucks.swf" motion="knuckwalk.swf" enable="Y">
+<action id="knucks.swf" name="Stand" loop="Y" totalframe="3"/>
+<motion id="knuckswalk.swf" name="Walk" loop="Y" totalframe="3"/>
+<motion id="knuckspin.swf" name="Spinball" loop="Y" totalframe="3"/>
+<action id="knuckspindash.swf" name="Spindash" loop="Y" totalframe="3"/>
+<action id="knuckspindashnodust.swf" name="Spindash (No Dust)" loop="Y" totalframe="3"/>
+</char>
+<char id="tails" name="Tails" thumb="stand.swf" facing="left" default="stand.swf" motion="fly.swf" enable="Y">
+<action id="stand.swf" name="Stand" loop="Y" totalframe="3"/>
+<motion id="fly.swf" name="Fly" loop="Y" totalframe="3"/>
+</char>
+<char id="bamboo" name="Bamboo" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="Y">
+<action id="stand.swf" name="Stand" loop="Y" totalframe="3"/>
+<action id="talk.swf" name="Talk" loop="Y" totalframe="3"/>
+<action id="sit.swf" name="Sit" loop="Y" totalframe="3"/>
+<action id="sit_talk.swf" name="Sit Talk" loop="Y" totalframe="3"/>
+<motion id="walk.swf" name="Walk" loop="Y" totalframe="3"/>
+</char>
+<char id="ios" name="IOS" thumb="ios.swf" facing="left" default="ios.swf" motion="ios.swf" enable="Y" is_premium="N" aid="237" money="0" sharing="0">
+    <action aid="6928" enable="Y" name="Be a phone" id="ios.swf" totalframe="1" loop="Y"/>
+  </char>
+  <char id="android" name="Android" thumb="android.swf" facing="left" default="android.swf" motion="android.swf" enable="Y" is_premium="N" aid="237" money="0" sharing="0">
+    <action aid="6928" enable="Y" name="Be a phone" id="android.swf" totalframe="1" loop="Y"/>
+  </char>
+<char id="sonicflash" name="Sonic the Hedgehog" thumb="stand.swf" facing="left" default="stand.swf" motion="runalt2.swf" enable="Y">
+<action id="chilidog.swf" name="Eat a Chilidog" loop="N" totalframe="3"/>
+<category name="Motion">
+<motion id="run.swf" name="Run" loop="Y" totalframe="16"/>
+<motion id="alsorun.swf" name="Walk" loop="Y" totalframe="18"/>
+<motion id="runalt2.swf" name="Run Alt." loop="Y" totalframe="20"/>
+<action id="intospinball.swf" name="Into spinball" loop="N" totalframe="44"/>
+<motion id="spinball.swf" name="Spinball" loop="Y" totalframe="44"/>
+<action id="spindash.swf" name="Spindash" loop="Y" totalframe="44"/>
+<action id="spindashnodust.swf" name="Spindash (No Dust)" loop="Y" totalframe="44"/>
+<action id="takeoff.swf" name="Take off!" loop="N" totalframe="44"/>
+<action id="quickertakeoff.swf" name="Take off! (Faster)" loop="N" totalframe="44"/>
+<action id="skid.swf" name="Skid" loop="N" totalframe="44"/>
+</category>
+<action id="stand.swf" name="Stand" loop="Y" totalframe="2"/>
+<category name="Fight">
+<action id="kick.swf" name="Kick" loop="Y" totalframe="4"/>
+<action id="punch.swf" name="Punch" loop="Y" totalframe="44"/>
 </category>
 <category name="Emotions">
 <action id="idle.swf" name="Waiting..." loop="Y" totalframe="4"/>
@@ -356,14 +400,6 @@
 <facial id="head_sick_side.swf" name="3/4 Front View - Sick" enable="Y" aid="16573"/>
 <facial id="head_talk_side.swf" name="3/4 Front View - Talk" enable="Y" aid="16574"/>
 <library type="mouth" path="001" theme_id="business"/>
-</char>
-<char id="bamboo" name="Bamboo" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="Y" is_premium="N" aid="16530" money="0" sharing="0">
-<action id="stand.swf" name="Stand" loop="Y" totalframe="60" enable="Y" aid="16531"/>
-<action id="walk.swf" name="Walk" loop="Y" totalframe="60" enable="Y" aid="16532"/>
-<action id="talk.swf" name="Talk" loop="Y" totalframe="60" enable="Y" aid="16533"/>
-<action id="sit_talk.swf" name="Talk - Sitting" loop="Y" totalframe="60" enable="Y" aid="16535"/>
-<action id="sit.swf" name="Sit" loop="Y" totalframe="60" enable="Y" aid="16534"/>
-</char>
 </char>
 <char id="wolfman" name="Wolfman" thumb="ugc.char.1955670.1955672.swf" facing="left" default="ugc.char.1955670.1955672.swf" motion="ugc.char.1955670.1955687.swf" enable="Y" is_premium="N" aid="16530" money="0" sharing="0">
 <action id="ugc.char.1955670.1955672.swf" name="Stand" loop="Y" totalframe="60" enable="Y" aid="16531"/>
