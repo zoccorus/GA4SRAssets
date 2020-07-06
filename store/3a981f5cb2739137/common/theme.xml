@@ -20596,6 +20596,15 @@
   <sound id="theater_audience_laughter_01.mp3" name="FX - Audience laughter" downloadtype="progressive" subtype="soundeffect" duration="6870" enable="Y" is_premium="N" aid="31435" money="0" sharing="0"/>
   <sound id="water_bubbling_long_04.mp3" name="FX - Bubbling" downloadtype="progressive" subtype="soundeffect" duration="24607" enable="Y" is_premium="N" aid="31436" money="0" sharing="0"/>
   <sound id="whistle_11.mp3" name="FX - Whistle" downloadtype="progressive" subtype="soundeffect" duration="758" enable="Y" is_premium="N" aid="31437" money="0" sharing="0"/>
+  <sound id="SMG4 Sound Effects - What is This.mp3" name="What Is This?!" subtype="soundeffect" duration="1280" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+  <sound id="CW_Walking.mp3" name="Comedy World Walking" subtype="soundeffect" duration="14160" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+  <sound id="Gun Burst Mode.mp3" name="Gun Burst Mode" subtype="soundeffect" duration="8640" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+  <sound id="typing on iphone.mp3" name="Iphone Text Typing" subtype="soundeffect" duration="64200" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+  <sound id="Unseen Horrors.mp3" name="Unseen Horrors - Kevin Macleod" subtype="bgmusic" duration="251062" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+  <sound id="Tada.mp3" name="Fantasic Fanfare" subtype="soundeffect" duration="5304" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+  <sound id="Tropic_Love.mp3" name="Tropic Love" subtype="bgmusic" duration="281105" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+  <sound id="The Karaoke Studio - Glorious Day In the Style of Kristian Stanfill Instrumental Version Mine.mp3" name="Glorious Day (Instrumental)" subtype="bgmusic" duration="254014" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+  <sound id="Baldi's Basics Soundtrack 'School [Extended].mp3" name="Baldi Basics - School" subtype="bgmusic" duration="604241" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
   <bubble id="blank11" x="-90" y="-45" w="180" h="90" rotate="0" type="BLANK" enable="Y" is_premium="N" aid="30362" money="0" sharing="0" hasTail="0" display_order="1">
   <body taily="65" tailx="90" linergb="0" rgb="0xFFFFFF"/>
   <text rgb="0" font="OstrichSansMedium" size="20" align="center" bold="false" italic="false">Double-click to input text</text>
