@@ -15751,6 +15751,7 @@
     <state id="green_radial.swf" name="Green Radial" enable="Y"/>
     <state id="yellow_circluar_radial.swf" name="Yellow Radial" enable="Y"/>
     <state id="My Outro Background.swf" name="SAGP Outro Background" enable="Y"/>
+    <state id="Caillou_House.swf" name="The Andersons House" enable="Y"/>
   </prop>
   <prop id="msp_holdableitems" name="Holdable Items" holdable="1" placeable="1" wearable="0" facing="left" thumb="doritos.swf" enable="Y" is_premium="N" aid="10469" money="0" sharing="0">
     <state id="doritos.swf" name="Doritos" enable="Y" default="Y"/>
