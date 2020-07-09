@@ -1671,6 +1671,18 @@
             <selection type="skeleton" state_id="bend"/>
             <selection type="upper_body" state_id="lie_down"/>
         </action>
+        <action id="bendcrossarms" name="Bend - Cross Arms" loop="Y" totalframe="1" enable="Y" is_motion="N">
+            <selection type="facial" facial_id="head_neutral"/>
+            <selection type="lower_body" state_id="default"/>
+            <selection type="skeleton" state_id="bend"/>
+            <selection type="upper_body" state_id="crossed_arms"/>
+        </action>
+        <action id="bendchuckle" name="Bend - Chuckle" loop="Y" totalframe="6" enable="Y" is_motion="N">
+            <selection type="facial" facial_id="head_neutral"/>
+            <selection type="lower_body" state_id="default"/>
+            <selection type="skeleton" state_id="bend"/>
+            <selection type="upper_body" state_id="chuckle"/>
+        </action>
         <action id="walk" name="Walk 1" loop="Y" totalframe="24" enable="Y" category="traveling" is_motion="Y">
             <selection type="facial" facial_id="head_neutral"/>
             <selection type="lower_body" state_id="walk"/>
