@@ -1944,7 +1944,7 @@
         <action id="throw_tantrum2" name="Throw tantrum 2" loop="Y" totalframe="60" enable="Y" category="emotion" is_motion="N">
             <selection type="facial" facial_id="head_cry"/>
             <selection type="lower_body" state_id="run"/>
-            <selection type="skeleton" state_id="laugh"/>
+            <selection type="skeleton" state_id="lie_down"/>
             <selection type="upper_body" state_id="laugh"/>
         </action>
         <action id="sitlaugh" name="Sit - Laugh" loop="Y" totalframe="6" enable="Y" category="emotion" is_motion="N">
