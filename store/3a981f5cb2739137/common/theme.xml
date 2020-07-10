@@ -18830,10 +18830,15 @@
     <tag>male</tag>
     <tag>horrified</tag>
     <tag>scream</tag>
-   </sound>
+  </sound>
   <sound id="Man_scream_two.mp3" name="Horrified Scream Three" downloadtype="progressive" subtype="soundeffect" duration="6000" enable="Y" is_premium="N" aid="6730" money="0" sharing="0">
     <tag>male</tag>
     <tag>horrified</tag>
+    <tag>scream</tag>
+  </sound>
+  <sound id="Man Screaming in Terror.mp3 " name="Male Screaming In Terror" downloadtype="progressive" subtype="soundeffect" duration="4280" enable="Y" is_premium="N" aid="6730" money="0" sharing="0">
+    <tag>male</tag>
+    <tag>terror</tag>
     <tag>scream</tag>
   </sound>
   <sound id="Man_scream_seven.mp3" name="Cartoon Scream" downloadtype="progressive" subtype="soundeffect" duration="2757" enable="Y" is_premium="N" aid="6730" money="0" sharing="0">
