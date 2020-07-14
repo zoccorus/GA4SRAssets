@@ -790,7 +790,7 @@
         <selection type="mustache" state_id="default"/>
         <selection type="nose" state_id="default"/>
     </facial>
-    <facial id="head_thinking" name="Thinking" enable="Y">
+    <facial id="head_thinking" name="Thinking A" enable="Y">
         <selection type="beard" state_id="default"/>
         <selection type="ear" state_id="default"/>
         <selection type="eye" state_id="thinking"/>
@@ -1151,6 +1151,32 @@
         <selection type="glasses" state_id="default"/>
         <selection type="hair" state_id="default"/>
         <selection type="mouth" state_id="sad"/>
+        <selection type="mustache" state_id="default"/>
+        <selection type="nose" state_id="default"/>
+    </facial>
+    <facial id="head_irritated" name="Irritated" enable="Y">
+        <selection type="beard" state_id="default"/>
+        <selection type="ear" state_id="default"/>
+        <selection type="eye" state_id="default"/>
+        <selection type="eyebrow" state_id="disgusted"/>
+        <selection type="facedecoration" state_id="default"/>
+        <selection type="faceshape" state_id="default"/>
+        <selection type="glasses" state_id="default"/>
+        <selection type="hair" state_id="default"/>
+        <selection type="mouth" state_id="sad"/>
+        <selection type="mustache" state_id="default"/>
+        <selection type="nose" state_id="default"/>
+    </facial>
+    <facial id="head_irritated2" name="Thinking B" enable="Y">
+        <selection type="beard" state_id="default"/>
+        <selection type="ear" state_id="default"/>
+        <selection type="eye" state_id="default"/>
+        <selection type="eyebrow" state_id="disgusted"/>
+        <selection type="facedecoration" state_id="default"/>
+        <selection type="faceshape" state_id="default"/>
+        <selection type="glasses" state_id="default"/>
+        <selection type="hair" state_id="default"/>
+        <selection type="mouth" state_id="default"/>
         <selection type="mustache" state_id="default"/>
         <selection type="nose" state_id="default"/>
     </facial>
