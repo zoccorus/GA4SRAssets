@@ -507,6 +507,7 @@
   <background name="Shop" id="45516641.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
   <background name="Shop" id="45513979.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
   <background name="TMAOTCAF" id="The Many Adventure's Of The Creator And Friends.png" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="GoAniFire Demo Thumbnail" id="GoAniFire Demo Thumbnail Community Library.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
    <prop id="back.swf" name="Background" holdable="0" placeable="1" facing="left" thumb="" enable="Y" is_premium="N" aid="1030" money="0" sharing="0"/>
    <prop id="knife.swf" name="Knife" holdable="1" placeable="1" facing="left" thumb="" enable="Y" is_premium="N" aid="1030" money="0" sharing="0"/>
    <prop id="piss.swf" name="Pissed Meal" holdable="1" placeable="1" facing="left" thumb="" enable="Y" is_premium="N" aid="1030" money="0" sharing="0"/>
