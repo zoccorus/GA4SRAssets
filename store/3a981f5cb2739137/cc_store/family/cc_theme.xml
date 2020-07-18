@@ -13508,6 +13508,9 @@
     <component type="hair" id="6049" path="6049" name="6049" thumb="Emo_Hair_2.swf" money="0" sharing="0" enable="Y">
         <state id="default" filename="Emo_Hair_2.swf"/>
     </component>
+    <component type="hair" id="6050" path="6050" name="6050" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+        <state id="default" filename="default.swf"/>
+    </component>
     <component type="hair" id="3001" path="3001" name="3001" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
         <state id="default" filename="default.swf"/>
     </component>
