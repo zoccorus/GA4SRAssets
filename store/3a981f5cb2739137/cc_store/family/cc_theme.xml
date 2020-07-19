@@ -1709,24 +1709,6 @@
             <selection type="skeleton" state_id="bend"/>
             <selection type="upper_body" state_id="chuckle"/>
         </action>
-        <action id="nodding" name="Nodding" loop="Y" totalframe="55" enable="Y" is_motion="N">
-            <selection type="facial" facial_id="head_neutral"/>
-            <selection type="lower_body" state_id="default"/>
-            <selection type="skeleton" state_id="nodding"/>
-            <selection type="upper_body" state_id="default"/>
-        </action>
-        <action id="noddingsit" name="Nodding - Sit" loop="Y" totalframe="55" enable="Y" is_motion="N">
-            <selection type="facial" facial_id="head_neutral"/>
-            <selection type="lower_body" state_id="sit"/>
-            <selection type="skeleton" state_id="nodding"/>
-            <selection type="upper_body" state_id="default"/>
-        </action>
-        <action id="noddingxarms" name="Nodding - Crossed Arms" loop="Y" totalframe="55" enable="Y" is_motion="N">
-            <selection type="facial" facial_id="head_neutral"/>
-            <selection type="lower_body" state_id="default"/>
-            <selection type="skeleton" state_id="nodding"/>
-            <selection type="upper_body" state_id="crossed_arms"/>
-        </action>
         <action id="walk" name="Walk 1" loop="Y" totalframe="24" enable="Y" category="traveling" is_motion="Y">
             <selection type="facial" facial_id="head_neutral"/>
             <selection type="lower_body" state_id="walk"/>
@@ -2363,7 +2345,7 @@
 	    <state id="look_slightly_up" filename="lookslightlyup.swf"/>
             <!-- <state id="look_up" filename="look_up.swf"/> -->
 	    <state id="move" filename="move.swf"/>
-            <state id="nodding" filename="nodding.swf"/>
+            <!-- <state id="nodding" filename="nodding.swf"/> -->
             <state id="point_at" filename="point_at.swf"/>
             <state id="run" filename="run.swf"/>
             <state id="sad" filename="sad.swf"/>
