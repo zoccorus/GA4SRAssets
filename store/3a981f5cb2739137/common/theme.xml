@@ -18682,6 +18682,11 @@
     <tag>cartoon</tag>
     <tag>funny</tag>
   </sound>
+  <sound id="ROBLOX Bloxy Cola Drink Sound Effect.mp3" name="Drinking" downloadtype="progressive" subtype="soundeffect" duration="4225" enable="Y" is_premium="N" aid="6730" money="0" sharing="0">
+    <tag>roblox</tag>
+    <tag>drink</tag>
+    <tag>sip</tag>
+  </sound>
   <sound id="Man_Laugh_Eric.mp3" name="Male Laugh (Eric)" downloadtype="progressive" subtype="soundeffect" duration="4257" enable="Y" is_premium="N" aid="6730" money="0" sharing="0">
     <tag>sims</tag>
     <tag>laughter</tag>
