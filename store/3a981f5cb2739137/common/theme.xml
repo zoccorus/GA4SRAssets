@@ -20629,6 +20629,17 @@
   <sound id="Baldi's Basics Soundtrack 'School [Extended].mp3" name="Baldi Basics - School" subtype="bgmusic" duration="604241" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
   <sound id="Believe - Roa (Music promoted by Audio Library).mp3" name="Believe ~ Roa" subtype="bgmusic" duration="223451" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
   <sound id="The_Orb_Of_Dreamers_The_Cosmic_Imagisphere_GoAniFire_Demo_Version.mp3" name="The Orb Of Dreamers (GoAniFire Demo Version)" subtype="bgmusic" duration="206000" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+  <sound id="Super Mario 64 Credits Remix.mp3" name=" SM64 Staff Roll Remix" subtype="bgmusic" duration="200150" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+  <sound id="The Mystery Unravels.mp3" name="Mystery Unravels" subtype="bgmusic" duration="148871" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+  <sound id="Car Starting.mp3" name="Car Start" subtype="soundeffect" duration="3892" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+  <sound id="Unknown Star Super Mario Galaxy 2 Music Extended.mp3" name=" Unknown Star" subtype="bgmusic" duration="929097" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+  <sound id="Space Storm Galaxy Super Mario Galaxy 2.mp3" name=" Space Storm Galaxy" subtype="bgmusic" duration="182125" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+  <sound id="Boss Blitz Galaxy Super Mario Galaxy 2.mp3" name="Boss Blitz Galaxy" subtype="bgmusic" duration="89078" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+  <sound id="tape rewinding SoundEffectsFactory.mp3" name="Tape Rewinding" subtype="soundeffect" duration="6892" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+  <sound id="Siren Head Menu Theme.mp3" name="Siren Head Menu Theme" subtype="bgmusic" duration="208000" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+  <sound id="Phone_Dialing.mp3" name="Phone Dialing" subtype="soundeffect" duration="5000" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+  <sound id="OverTime.mp3" name="OverTime?!" subtype="soundeffect" duration="15000" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
+  <sound id="Obvious.mp3" name="Obvious" subtype="soundeffect" duration="132000" downloadtype="progressive" aid="24304" enable="Y" is_premium="N" money="0" sharing="0" />
   <bubble id="blank11" x="-90" y="-45" w="180" h="90" rotate="0" type="BLANK" enable="Y" is_premium="N" aid="30362" money="0" sharing="0" hasTail="0" display_order="1">
   <body taily="65" tailx="90" linergb="0" rgb="0xFFFFFF"/>
   <text rgb="0" font="OstrichSansMedium" size="20" align="center" bold="false" italic="false">Double-click to input text</text>
