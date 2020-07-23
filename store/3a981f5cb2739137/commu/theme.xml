@@ -629,6 +629,18 @@
   <background name="Night Mountain" id="night_mountain_gachalife.PNG" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
   <background name="River" id="river_gachalife.PNG" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
   <background name="Whitehouse" id="whitehouse_gachalife.PNG" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Alexander And Lisa Room" id="Alexander And Lisa Room.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Front Room Day" id="Front Room Day.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Front Room Night" id="Front Room Night.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Kitchen Day" id="Kitchen Day.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Kitchen Night" id="Kitchen Night.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Living Room" id="Living Room.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="My Room" id="My Room.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Outside Day" id="Outside Of The House Day.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Outside Night" id="Outside Of The House Night.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Staircase Hallway" id="Staircase Hallway.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Trash" id="Trash.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Basement" id="Basement.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
    <prop id="back.swf" name="Background" holdable="0" placeable="1" facing="left" thumb="" enable="Y" is_premium="N" aid="1030" money="0" sharing="0"/>
    <prop id="knife.swf" name="Knife" holdable="1" placeable="1" facing="left" thumb="" enable="Y" is_premium="N" aid="1030" money="0" sharing="0"/>
    <prop id="piss.swf" name="Pissed Meal" holdable="1" placeable="1" facing="left" thumb="" enable="Y" is_premium="N" aid="1030" money="0" sharing="0"/>
