@@ -18,6 +18,22 @@
 <action id="sit_talk.swf" name="Sit Talk" loop="Y" totalframe="3"/>
 <motion id="walk.swf" name="Walk" loop="Y" totalframe="3"/>
 </char>
+<char id="2179798" name="Wolfman By ChaosToons" thumb="2179814.swf" facing="left" default="2179814.swf" motion="2179826.swf" enable="Y">
+<action id="2179814.swf" name="Stand" loop="Y" totalframe="3"/>
+<action id="2179815.swf" name="Howl Standing" loop="Y" totalframe="3"/>
+<action id="2179820.swf" name="Howl Standing Dark" loop="Y" totalframe="3"/>
+<action id="2179813.swf" name="Dramatic Jaw Open" loop="Y" totalframe="3"/>
+<action id="2179809.swf" name="Eye Squint" loop="Y" totalframe="3"/>
+<action id="2179806.swf" name="Howl All Fours" loop="Y" totalframe="3"/>
+<action id="2179808.swf" name="Howl All Fours Dark" loop="Y" totalframe="3"/>
+<action id="2179804.swf" name="Scary Look" loop="Y" totalframe="3"/>
+<action id="2179803.swf" name="Look Over Shoulder" loop="Y" totalframe="3"/>
+<action id="2179802.swf" name="Back Breathing" loop="Y" totalframe="3"/>
+<action id="2179800.swf" name="Wolf Step Forward" loop="Y" totalframe="3"/>
+<motion id="2179810.swf" name="Running" loop="Y" totalframe="3"/>
+<motion id="2179812.swf" name="Running Dark" loop="Y" totalframe="3"/>
+<motion id="2179826.swf" name="Walk" loop="Y" totalframe="3"/>
+</char>
 <char id="ios" name="IOS" thumb="ios.swf" facing="left" default="ios.swf" motion="ios.swf" enable="Y" is_premium="N" aid="237" money="0" sharing="0">
     <action aid="6928" enable="Y" name="Be a phone" id="ios.swf" totalframe="1" loop="Y"/>
   </char>
@@ -607,6 +623,47 @@
   <prop id="unkown2.swf" name="Bunny Head" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="1035" money="0" sharing="0"/>
   <prop id="unkown3.swf" name="Chick Crossing" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="1036" money="0" sharing="0"/>
   <prop id="watermark.swf" name="Watermark" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="1037" money="0" sharing="0"/>
+  <prop id="Aux_Power.swf" name="Aux Power" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="1037" money="0" sharing="0"/>
+  <prop id="Deflector_Status.swf" name="Deflector Status" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="1037" money="0" sharing="0"/>
+  <prop id="Earth Shuttle.swf" name="Earth Shuttle" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="1037" money="0" sharing="0"/>
+  <prop id="Engineer Dispaly 3.swf" name="Engineer Display 3" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="1037" money="0" sharing="0"/>
+  <prop id="Engineering 1.swf" name="Engineering 1" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="1037" money="0" sharing="0"/>
+  <prop id="Engineering 2.swf" name="Engineering 2" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="1037" money="0" sharing="0"/>
+  <prop id="Ent Beauty Pass.swf" name="Ent Beauty Pass" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="1037" money="0" sharing="0"/>
+  <prop id="Enterprise D 1.swf" name="Enterprise D 1" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="1037" money="0" sharing="0"/>
+  <prop id="Enterprise D 2.swf" name="Enterprise D 2" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="1037" money="0" sharing="0"/>
+  <prop id="Enterprise D 3.swf" name="Enterprise D 3" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="1037" money="0" sharing="0"/>
+  <prop id="Enterprise Front.swf" name="Enterprise Front" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="1037" money="0" sharing="0"/>
+  <prop id="Enterprise Top.swf" name="Enterprise Top" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="1037" money="0" sharing="0"/>
+  <prop id="Escape Pod 1.swf" name="Escape Pod 1" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="1037" money="0" sharing="0"/>
+  <prop id="Galileo Ext Aft.swf" name="Galileo Ext Aft" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="1037" money="0" sharing="0"/>
+  <prop id="Galileo Ext Front.swf" name="Galileo Ext Front" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="1037" money="0" sharing="0"/>
+  <prop id="Klingon BOP Detailed.swf" name="Klingon BOP Detailed" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="1037" money="0" sharing="0"/>
+  <prop id="Magic Flower.swf" name="Magic Flower" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="1037" money="0" sharing="0"/>
+  <prop id="Magic Lamp-magical smoke.swf" name="Magic Lamp (Magical Smoke)" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="1037" money="0" sharing="0"/>
+  <prop id="Magic Lamp.swf" name="Magic Lamp" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="1037" money="0" sharing="0"/>
+  <prop id="New Shuttle 1.swf" name="New Shuttle 1" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="1037" money="0" sharing="0"/>
+  <prop id="New Shuttle 2.swf" name="New Shuttle 2" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="1037" money="0" sharing="0"/>
+  <prop id="New Shuttle 3.swf" name="New Shuttle 3" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="1037" money="0" sharing="0"/>
+  <prop id="New Shuttle 4.swf" name="New Shuttle 4" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="1037" money="0" sharing="0"/>
+  <prop id="Plant (Mira).swf" name="Plant (Mira)" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="1037" money="0" sharing="0"/>
+  <prop id="REAL Enterprise 2.swf" name="Real Enterprise 2" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="1037" money="0" sharing="0"/>
+  <prop id="REAL Enterprise.swf" name="Real Enterprise" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="1037" money="0" sharing="0"/>
+  <prop id="Red_Alert.swf" name="Red Alert" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="1037" money="0" sharing="0"/>
+  <prop id="Red_Alert_2.swf" name="Red Alert" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="1037" money="0" sharing="0"/>
+  <prop id="Sea with beach.swf" name="Sea With Beach" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="1037" money="0" sharing="0"/>
+  <prop id="Surf board cool.swf" name="Surf Board Cool" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="1037" money="0" sharing="0"/>
+  <prop id="Surf board cute.swf" name="Surf Board Cute" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="1037" money="0" sharing="0"/>
+  <prop id="Swimming Shark.swf" name="Swimming Shark" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="1037" money="0" sharing="0"/>
+  <prop id="Tree (Mira).swf" name="Tree (Mira)" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="1037" money="0" sharing="0"/>
+  <prop id="Wave basic.swf" name="Wave Basic" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="1037" money="0" sharing="0"/>
+  <prop id="Wave curl shadow.swf" name="Wave Curl Shadow" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="1037" money="0" sharing="0"/>
+  <prop id="Wave curl.swf" name="Wave Curl" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="1037" money="0" sharing="0"/>
+  <prop id="Wave foam.swf" name="Wave Foam" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="1037" money="0" sharing="0"/>
+  <prop id="Wave side basic.swf" name="Wave Side Basic" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="1037" money="0" sharing="0"/>
+  <prop id="Wave side curl shadow.swf" name="Wave Side Curl Shadow" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="1037" money="0" sharing="0"/>
+  <prop id="Wave side curl.swf" name="Wave Side Curl" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="1037" money="0" sharing="0"/>
+  <prop id="Wave side foam.swf" name="Wave Side Foam" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="1037" money="0" sharing="0"/>
   <effect id="dim.swf" type="ANIME" resize="false" move="false" name="Dim" enable="Y" is_premium="N" aid="1216" money="0" sharing="0" display_order="0"/>
   <effect id="spraypaint.swf" type="ANIME" resize="false" move="false" name="Spraypaint" enable="Y" is_premium="N" aid="1217" money="0" sharing="0" display_order="0"/>
   </theme>
