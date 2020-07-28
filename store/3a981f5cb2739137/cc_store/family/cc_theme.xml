@@ -12094,6 +12094,7 @@
         <state id="schemeing" filename="schemeing.swf"/>
         <state id="shock" filename="shock.swf"/>
         <state id="sick" filename="sick.swf"/>
+	<state id="smile" filename="smile.swf"/>
         <state id="surprised" filename="surprised.swf"/>
         <state id="talk_a" filename="talk_a.swf"/>
         <state id="talk_angry" filename="talk_angry.swf"/>
