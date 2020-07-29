@@ -15769,6 +15769,10 @@
   </prop>
   <prop id="msp_sagplogoupdated" name="Sagp Logo Updated" holdable="0" placeable="1" wearable="0" facing="left" thumb="sagp_logo_updated.swf" enable="Y" is_premium="N" aid="10469" money="0" sharing="0">
     <state id="sagp_logo_updated.swf" name="Original" enable="Y" default="Y"/>
+    <state id="SageAwesomeGoAniPicScopeAnimations Logo.swf" name="Updated July" enable="Y" default="Y"/>
+    <state id="My Bestest Logo With Stars.swf" name="Updated With Stars" enable="Y" default="Y"/>
+    <state id="My New Bestest Logo Ever Made.swf" name="Updated" enable="Y" default="Y"/>
+    <state id="Sage's Channel TV's Classics.swf" name="Classics" enable="Y" default="Y"/>
   </prop>
   <prop id="msp_sofa01" name="sofa" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_sofa01_sofa01_front.swf" enable="Y" is_premium="N" aid="10475" money="0" sharing="0">
     <state id="msp_sofa01_sofa01_front.swf" name="front" enable="Y" default="Y"/>
