@@ -18333,6 +18333,22 @@
     <tag>video game</tag>
     <tag>Smooth</tag>
   </sound>
+  <sound id="asdfmovie8 song LilDeuceDeuce.mp3" name="Asdfmovie8 Song" downloadtype="progressive" subtype="bgmusic" duration="135000" enable="Y" is_premium="N" aid="6044" money="0" sharing="0">
+    <tag>eightbit music</tag>
+    <tag>nostalgic</tag>
+    <tag>positive</tag>
+    <tag>electronic</tag>
+    <tag>asdfmovie</tag>
+    <tag>retro</tag>
+  </sound>
+  <sound id="asdfmovie8 song LilDeuceDeuce Stinger.mp3" name="Asdfmovie8 Song Stinger" downloadtype="progressive" subtype="bgmusic" duration="20000" enable="Y" is_premium="N" aid="6044" money="0" sharing="0">
+    <tag>eightbit music</tag>
+    <tag>nostalgic</tag>
+    <tag>positive</tag>
+    <tag>electronic</tag>
+    <tag>asdfmovie</tag>
+    <tag>retro</tag>
+  </sound>
   <sound id="BroadcastNews.mp3" name="Broadcast News" downloadtype="progressive" subtype="bgmusic" duration="37600" enable="Y" is_premium="N" aid="6045" money="0" sharing="0">
     <tag>emotion</tag>
     <tag>news report</tag>
