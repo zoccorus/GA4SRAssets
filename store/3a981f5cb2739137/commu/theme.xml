@@ -602,6 +602,7 @@
   <background name="Trash" id="Trash.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
   <background name="Basement" id="Basement.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
   <background name="Starry Night" id="Night_Starry.png" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Temecula Townsvile Ruined" id="Temecula Townsvile Ruined.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
    <prop id="back.swf" name="Background" holdable="0" placeable="1" facing="left" thumb="" enable="Y" is_premium="N" aid="1030" money="0" sharing="0"/>
    <prop id="knife.swf" name="Knife" holdable="1" placeable="1" facing="left" thumb="" enable="Y" is_premium="N" aid="1030" money="0" sharing="0"/>
    <prop id="piss.swf" name="Pissed Meal" holdable="1" placeable="1" facing="left" thumb="" enable="Y" is_premium="N" aid="1030" money="0" sharing="0"/>
