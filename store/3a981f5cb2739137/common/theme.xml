@@ -18938,6 +18938,11 @@
     <tag>shocked</tag>
     <tag>gasp</tag>
   </sound>
+  <sound id="Funny Sound Test.mp3" name="Reference Sound One" downloadtype="progressive" subtype="soundeffect" duration="9000" enable="Y" is_premium="N" aid="6730" money="0" sharing="0">
+    <tag>funny</tag>
+    <tag>reference</tag>
+    <tag>scream</tag>
+  </sound>
   <sound id="Phone_Ring.mp3" name="Phone Ring" downloadtype="progressive" subtype="soundeffect" duration="3000" enable="Y" is_premium="N" aid="6730" money="0" sharing="0">
     <tag>phone</tag>
     <tag>ring</tag>
