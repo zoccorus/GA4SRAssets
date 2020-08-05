@@ -18677,6 +18677,11 @@
     <tag>musical</tag>
     <tag>Scary</tag>
   </sound>
+  <sound id="Original_Chocolate_Guy.mp3" name="CHOCOLATE!" downloadtype="progressive" subtype="soundeffect" duration="21000" enable="Y" is_premium="N" aid="6730" money="0" sharing="0">
+    <tag>spongebob</tag>
+    <tag>chocolate</tag>
+    <tag>reference</tag>
+  </sound>
   <sound id="Powerpuff_Girls_Laugh_Sound_Effect.mp3" name="PPG Laugh" downloadtype="progressive" subtype="soundeffect" duration="4257" enable="Y" is_premium="N" aid="6730" money="0" sharing="0">
     <tag>ppg</tag>
     <tag>powerpuff</tag>
