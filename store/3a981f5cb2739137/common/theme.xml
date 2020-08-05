@@ -15756,6 +15756,7 @@
     <state id="Picture Frame Of The Johnson Family.swf" name="Picture Frame - The Johnson Family" enable="Y"/>
     <state id="Pizza_Hut_Pizza.swf" name="Pizza Hut Pizza" enable="Y"/>
     <state id="Updated_PalmWood.swf" name="Updated PalmWood" enable="Y"/>
+    <state id="daveandbusters_rhg_tbb_.swf" name="Dave And Busters" enable="Y"/>
   </prop>
   <prop id="msp_holdableitems" name="Holdable Items" holdable="1" placeable="1" wearable="0" facing="left" thumb="doritos.swf" enable="Y" is_premium="N" aid="10469" money="0" sharing="0">
     <state id="doritos.swf" name="Doritos" enable="Y" default="Y"/>
