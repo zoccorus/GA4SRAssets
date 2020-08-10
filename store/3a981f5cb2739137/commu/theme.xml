@@ -34,6 +34,171 @@
 <motion id="2179812.swf" name="Running Dark" loop="Y" totalframe="3"/>
 <motion id="2179826.swf" name="Walk" loop="Y" totalframe="3"/>
 </char>
+<char id="lisaloudnew" name="Lisa Loud" thumb="lisa_loud_naalt_facecam.png" facing="left" default="lisa_loud_naalt_facecam.png" motion="Lisa_loud_walkalt.png" enable="Y">
+<action id="lisa_loud_naalt_facecam.png" name="Normal Stand FC" loop="Y" totalframe="3"/>
+<action id="Lisa_Loud_AngryOld.JPG" name="Angry Old" loop="Y" totalframe="3"/>
+<action id="Lisa_Loud_CartoonPose.JPG" name="Cartoon Pose" loop="Y" totalframe="3"/>
+<action id="Lisa_Loud_EmbarresedT.PNG" name="Embarresed Talk" loop="Y" totalframe="3"/>
+<action id="Lisa_Loud_Excited.JPG" name="Excited" loop="Y" totalframe="3"/>
+<action id="Lisa_Loud_Hug.PNG" name="Hug" loop="Y" totalframe="3"/>
+<action id="Lisa_Loud_Hug_Sad.png" name="Hug Sad" loop="Y" totalframe="3"/>
+<action id="Lisa_Loud_Hug_Sadec.png" name="Sad EC" loop="Y" totalframe="3"/>
+<action id="Lisa_Loud_Noticed_altb.png" name="Noticed AltB" loop="Y" totalframe="3"/>
+<action id="Lisa_Loud_OnHips_Lookat_Coolpose.png" name="On Hips Lookat" loop="Y" totalframe="3"/>
+<action id="Lisa_Loud_Preseting.png" name="Presenting" loop="Y" totalframe="3"/>
+<action id="Lisa_Loud_Preseting_OnHips_Lookuptw_CoolPose.png" name="On Hips loop="Y" totalframe="3"/>
+<action id="Lisa_Loud_Shytalk.PNG" name="Shy Talk" loop="Y" totalframe="3"/>
+<action id="Lisa_Loud_Sitting.PNG" name="Sitting" loop="Y" totalframe="3"/>
+<action id="Lisa_Loud_Sitting_Chewing.png" name="Sitting Chewing" loop="Y" totalframe="3"/>
+<action id="Lisa_Loud_Sitting_Chewing_lu.png" name="Sitting Chewing LU" loop="Y" totalframe="3"/>
+<action id="Lisa_Loud_Sitting_NB.png" name="Sitting NB" loop="Y" totalframe="3"/>
+<action id="Lisa_Loud_Sitting_Smug.png" name="Sitting Smug" loop="Y" totalframe="3"/>
+<action id="Lisa_Loud_Waving_Facing_at_Camera.png" name="Waving Facing at Camera" loop="Y" totalframe="3"/>
+<action id="Lisa_Loud_Waving_Facing_at_Camera_alt.png" name="Waving Facing at Camera Alt" loop="Y" totalframe="3"/>
+<action id="Lisa_Loud_Wink_Facecamera_alt.png" name="Wink FC Alt" loop="Y" totalframe="3"/>
+<action id="Lisa_Loud_Worried_lu.jpg" name="Worried lu" loop="Y" totalframe="3"/>
+<action id="Lisa_Loud_Worried_lutalk.jpg" name="Worried lutalk" loop="Y" totalframe="3"/>
+<action id="Lisa_Loud_lu_NeutralB.PNG" name="LU Neutral B" loop="Y" totalframe="3"/>
+<action id="Lisa_loud_Angryoldtalk.JPG" name="Angry Old Talk" loop="Y" totalframe="3"/>
+<action id="Lisa_loud_Shocked_Running.png" name="Shocked Running" loop="Y" totalframe="3"/>
+<action id="Lisa_loud_sad.PNG" name="Sad" loop="Y" totalframe="3"/>
+<action id="Lisa_loud_sit_look_at.png" name="Sit Look At" loop="Y" totalframe="3"/>
+<action id="Lisa_loud_sit_look_at_Two.png" name="Sit Look At Two" loop="Y" totalframe="3"/>
+<action id="Lisa_loud_sit_look_at_up.png" name="Sit Look At Up" loop="Y" totalframe="3"/>
+<action id="Lisa_loud_sit_shrug_Happy.png" name="Sit Shrug Happy" loop="Y" totalframe="3"/>
+<motion id="Lisa_loud_walk_transparent.png" name="Walk" loop="Y" totalframe="3"/>
+<motion id="Lisa_loud_walkalt.png" name="Walk Alt" loop="Y" totalframe="3"/>
+<motion id="Lisa_loud_walkalt_lookat.png" name="Walk Alt Lookat" loop="Y" totalframe="3"/>
+<motion id="Lisa_loud_walkalt_lookat_smug.png" name="Walk Alt Lookat Smug" loop="Y" totalframe="3"/>
+<motion id="Lisa_loud_walkalt_lookdown.png" name="Walk Alt LD" loop="Y" totalframe="3"/>
+<motion id="Lisa_loud_walkalt_lookup.png" name="Walk Alt LU" loop="Y" totalframe="3"/>
+<action id="lisa_loud_Awesome_Pose.png" name="Awesome Pose" loop="Y" totalframe="3"/>
+<action id="lisa_loud_Awesome_Pose_alt.png" name="Awesome Pose Alt" loop="Y" totalframe="3"/>
+<action id="lisa_loud_Custom_Pose.png" name="Custom Pose" loop="Y" totalframe="3"/>
+<action id="lisa_loud_adore.png" name="Adore" loop="Y" totalframe="3"/>
+<action id="lisa_loud_adorealt.png" name="Adore Alt" loop="Y" totalframe="3"/>
+<action id="lisa_loud_adorealt_facecam_transparent.png" name="Adore Alt FC" loop="Y" totalframe="3"/>
+<action id="lisa_loud_adorealt_facecam_transparent_blinkanimation.png" name="Adore Alt BA" loop="Y" totalframe="3"/>
+<action id="lisa_loud_adorealt_lookat.png" name="Adore Alt Lookat" loop="Y" totalframe="3"/>
+<action id="lisa_loud_adorealt_talk_lookatcamera.png" name="Adore Alt Shrug LAC" loop="Y" totalframe="3"/>
+<action id="lisa_loud_adorealt_talk_lookatcamera_blinkanimation.png" name="Adore Alt Shrug LAC BA" loop="Y" totalframe="3"/>
+<action id="lisa_loud_afraid.PNG" name="Afraid" loop="Y" totalframe="3"/>
+<action id="lisa_loud_afraid_talk.PNG" name="Afraid Talk" loop="Y" totalframe="3"/>
+<action id="lisa_loud_angry.png" name="Angry" loop="Y" totalframe="3"/>
+<action id="lisa_loud_angry_02.png" name="Angry 02" loop="Y" totalframe="3"/>
+<action id="lisa_loud_angry_lac.png" name="Angry LAC" loop="Y" totalframe="3"/>
+<action id="lisa_loud_angry_lu.png" name="Angry LU" loop="Y" totalframe="3"/>
+<action id="lisa_loud_angry_lu_talk.png" name="Angry LU Talk" loop="Y" totalframe="3"/>
+<action id="lisa_loud_angry_running.PNG" name="Angry Running" loop="Y" totalframe="3"/>
+<action id="lisa_loud_angryb.png" name="Angry B" loop="Y" totalframe="3"/>
+<action id="lisa_loud_applause.png" name="Applause" loop="Y" totalframe="3"/>
+<action id="lisa_loud_cartoon_pose_lac.jpg" name="Cartoon Pose LAC" loop="Y" totalframe="3"/>
+<action id="lisa_loud_cheers.PNG" name="Cheers" loop="Y" totalframe="3"/>
+<action id="lisa_loud_closedeye.PNG" name="Closed Eye" loop="Y" totalframe="3"/>
+<action id="lisa_loud_crossed_arms.PNG" name="Crossed Arms" loop="Y" totalframe="3"/>
+<action id="lisa_loud_crying.PNG" name="Crying" loop="Y" totalframe="3"/>
+<action id="lisa_loud_dance.PNG" name="Dance" loop="Y" totalframe="3"/>
+<action id="lisa_loud_depressed.png" name="Depressed" loop="Y" totalframe="3"/>
+<action id="lisa_loud_depressed_facecam.png" name="Depressed FC" loop="Y" totalframe="3"/>
+<action id="lisa_loud_depressed_lookat.png" name="Depressed LA" loop="Y" totalframe="3"/>
+<action id="lisa_loud_desperate_hug.JPG" name="Desperate Hug" loop="Y" totalframe="3"/>
+<action id="lisa_loud_embarrested.PNG" name="Embarresed" loop="Y" totalframe="3"/>
+<action id="lisa_loud_eog.PNG" name="EOG" loop="Y" totalframe="3"/>
+<action id="lisa_loud_eogalt.PNG" name="EOG Alt" loop="Y" totalframe="3"/>
+<action id="lisa_loud_excited_alt.PNG" name="Excited Alt" loop="Y" totalframe="3"/>
+<action id="lisa_loud_excited_alt_lac.PNG" name="Excited Alt LAC" loop="Y" totalframe="3"/>
+<action id="lisa_loud_facepalm.png" name="FacePalm" loop="Y" totalframe="3"/>
+<action id="lisa_loud_fearful.PNG" name="Fearful" loop="Y" totalframe="3"/>
+<action id="lisa_loud_greetingat.PNG" name="Greeting At" loop="Y" totalframe="3"/>
+<action id="lisa_loud_happy.PNG" name="Happy" loop="Y" totalframe="3"/>
+<action id="lisa_loud_happy_talk.png" name="Happy Talk" loop="Y" totalframe="3"/>
+<action id="lisa_loud_hiding.JPG" name="Hiding" loop="Y" totalframe="3"/>
+<action id="lisa_loud_in_tiab.PNG" name="TIAB" loop="Y" totalframe="3"/>
+<action id="lisa_loud_in_wallpaper.png" name="Wallpaper" loop="Y" totalframe="3"/>
+<action id="lisa_loud_kneeling.PNG" name="Kneeling" loop="Y" totalframe="3"/>
+<action id="lisa_loud_lac.jpg" name="LAC" loop="Y" totalframe="3"/>
+<action id="lisa_loud_lasm.jpg" name="LASM" loop="Y" totalframe="3"/>
+<action id="lisa_loud_ld.PNG" name="LD" loop="Y" totalframe="3"/>
+<action id="lisa_loud_look_cool.PNG" name="Look Cool" loop="Y" totalframe="3"/>
+<action id="lisa_loud_look_cool_winky_face.png" name="Winky Face" loop="Y" totalframe="3"/>
+<action id="lisa_loud_lookupalt.JPG" name="Look Up Alt" loop="Y" totalframe="3"/>
+<action id="lisa_loud_lu_noticed.PNG" name="LU Noticed" loop="Y" totalframe="3"/>
+<action id="lisa_loud_mp.PNG" name="MP" loop="Y" totalframe="3"/>
+<action id="lisa_loud_naalt.png" name="Normal Stand" loop="Y" totalframe="3"/>
+<action id="lisa_loud_naalt_lookat.png" name="Normal LA" loop="Y" totalframe="3"/>
+<action id="lisa_loud_nb_lu.PNG" name="NB LU" loop="Y" totalframe="3"/>
+<action id="lisa_loud_nb_onhips.JPG" name="NB On Hips" loop="Y" totalframe="3"/>
+<action id="lisa_loud_nb_three.png" name="NB Three" loop="Y" totalframe="3"/>
+<action id="lisa_loud_nbalt.PNG" name="NB Alt" loop="Y" totalframe="3"/>
+<action id="lisa_loud_nd.png" name="Normal D" loop="Y" totalframe="3"/>
+<action id="lisa_loud_nd_t.png" name="Normal D Talk" loop="Y" totalframe="3"/>
+<action id="lisa_loud_nd_tp.png" name="Normal D Talk Point" loop="Y" totalframe="3"/>
+<action id="lisa_loud_noticed.PNG" name="Noticed" loop="Y" totalframe="3"/>
+<action id="lisa_loud_noticedalt.PNG" name="Noticed Alt" loop="Y" totalframe="3"/>
+<action id="lisa_loud_on_hips.PNG" name="On Hips" loop="Y" totalframe="3"/>
+<action id="lisa_loud_on_hips_facecam.png" name="On Hips FAC" loop="Y" totalframe="3"/>
+<action id="lisa_loud_on_hips_lookat.png" name="On Hips Look at" loop="Y" totalframe="3"/>
+<action id="lisa_loud_on_hips_lookup.png" name="On Hips LU" loop="Y" totalframe="3"/>
+<action id="lisa_loud_on_hips_lookup_wink.png" name="On Hips LU Wink" loop="Y" totalframe="3"/>
+<action id="lisa_loud_onhips_facecam.png" name="On Hips Pose" loop="Y" totalframe="3"/>
+<action id="lisa_loud_peaceoutandwink_facecam.png" name="Peace Out And Wink Facecam" loop="Y" totalframe="3"/>
+<action id="lisa_loud_peaceoutandwinktalk_facecam.png" name="Peace Out And Wink Facecam Talk" loop="Y" totalframe="3"/>
+<action id="lisa_loud_playinggames.PNG" name="Playing Games" loop="Y" totalframe="3"/>
+<action id="lisa_loud_roe.png" name="Roll Over Eyes" loop="Y" totalframe="3"/>
+<action id="lisa_loud_roe_t.png" name="Roll Over Eyes Talk" loop="Y" totalframe="3"/>
+<motion id="lisa_loud_run.PNG" name="Run" loop="Y" totalframe="3"/>
+<motion id="lisa_loud_run_Shocked.png" name="Run Shocked" loop="Y" totalframe="3"/>
+<motion id="lisa_loud_run_happy.png" name="Run Happy" loop="Y" totalframe="3"/>
+<action id="lisa_loud_sadlyshocked.png" name="Sadly Shocked" loop="Y" totalframe="3"/>
+<action id="lisa_loud_sadlyshocked_facecam.png" name="Sadly Shocked FAC" loop="Y" totalframe="3"/>
+<action id="lisa_loud_shocked_hold.PNG" name="Shocked Hold" loop="Y" totalframe="3"/>
+<action id="lisa_loud_shocked_pulloversomeone.PNG" name="Shocked POS" loop="Y" totalframe="3"/>
+<action id="lisa_loud_shocked_talk.png" name="Shocked Talk" loop="Y" totalframe="3"/>
+<action id="lisa_loud_shockedalt.PNG" name="Shocked alt" loop="Y" totalframe="3"/>
+<action id="lisa_loud_shockedaltb.png" name="Shocked Alt B" loop="Y" totalframe="3"/>
+<action id="lisa_loud_shockedaltb_blinkanimated.png" name="Shocked Alt B BA" loop="Y" totalframe="3"/>
+<action id="lisa_loud_shockedaltb_facecam.png" name="Shocked Alt B FAC" loop="Y" totalframe="3"/>
+<action id="lisa_loud_shockedaltb_ld.png" name="Shocked Alt B LD" loop="Y" totalframe="3"/>
+<action id="lisa_loud_shockedaltb_lu.png" name="Shocked Alt B LU" loop="Y" totalframe="3"/>
+<action id="lisa_loud_sit_lookat.PNG" name="Sit Lookat" loop="Y" totalframe="3"/>
+<action id="lisa_loud_sit_shrug.PNG" name="Sit Shrug" loop="Y" totalframe="3"/>
+<action id="lisa_loud_sit_talk.PNG" name="Sit Talk" loop="Y" totalframe="3"/>
+<action id="lisa_loud_sitalt.PNG" name="Sit Alt" loop="Y" totalframe="3"/>
+<action id="lisa_loud_sitnbalt.PNG" name="Sit NB Alt" loop="Y" totalframe="3"/>
+<action id="lisa_loud_sitting.PNG" name="Sitting" loop="Y" totalframe="3"/>
+<action id="lisa_loud_sitting_lu.PNG" name="Sitting LU" loop="Y" totalframe="3"/>
+<action id="lisa_loud_sitting_pleased.PNG" name="Sitting Pleased" loop="Y" totalframe="3"/>
+<action id="lisa_loud_sitting_smile.PNG" name="Sitting Smile" loop="Y" totalframe="3"/>
+<action id="lisa_loud_sitting_talk.PNG" name="Sitting Talk" loop="Y" totalframe="3"/>
+<action id="lisa_loud_sleeping.jpg" name="Sleeping" loop="Y" totalframe="3"/>
+<action id="lisa_loud_slighty_shocked.png" name="Slightly Shocked" loop="Y" totalframe="3"/>
+<action id="lisa_loud_surprised.png" name="Surprised" loop="Y" totalframe="3"/>
+<action id="lisa_loud_surprised_facecam.png" name="Surprised Facecam" loop="Y" totalframe="3"/>
+<action id="lisa_loud_surprised_lookup.png" name="Surprised LU" loop="Y" totalframe="3"/>
+<action id="lisa_loud_suspicious_onhips.jpg" name="Suspicious On Hips" loop="Y" totalframe="3"/>
+<action id="lisa_loud_suspicious_onhips_t.jpg" name="Suspicious On Hips Talk" loop="Y" totalframe="3"/>
+<action id="lisa_loud_talk_a.PNG" name="Talk A" loop="Y" totalframe="3"/>
+<action id="lisa_loud_talk_lu.PNG" name="Talk LU" loop="Y" totalframe="3"/>
+<action id="lisa_loud_talk_shockedalt.PNG" name="Shocked Alt Talk" loop="Y" totalframe="3"/>
+<action id="lisa_loud_talkalt.PNG" name="Talk Alt" loop="Y" totalframe="3"/>
+<action id="lisa_loud_talkaltfacecam.png" name="Talk Alt FAC" loop="Y" totalframe="3"/>
+<action id="lisa_loud_very_angry.PNG" name="Very Angry" loop="Y" totalframe="3"/>
+<action id="lisa_loud_very_angry_talk.PNG" name="Very Angry Talk" loop="Y" totalframe="3"/>
+<action id="lisa_loud_very_excited.PNG" name="Very Excited" loop="Y" totalframe="3"/>
+<action id="lisa_loud_walk.PNG" name="Walk" loop="Y" totalframe="3"/>
+<action id="lisa_loud_walkcheers.PNG" name="Walk Cheers" loop="Y" totalframe="3"/>
+<action id="lisa_loud_walknormal.PNG" name="Walk LU" loop="Y" totalframe="3"/>
+<action id="lisa_loud_waveat.png" name="Wave At" loop="Y" totalframe="3"/>
+<action id="lisa_loud_waveatfrontcam.png" name="Wave At FC" loop="Y" totalframe="3"/>
+<action id="lisa_loud_wink.PNG" name="Wink" loop="Y" totalframe="3"/>
+<action id="lisa_loud_wink_alt.png" name="Wink Alt" loop="Y" totalframe="3"/>
+<action id="lisa_loud_wink_lac.png" name="Wink LAC" loop="Y" totalframe="3"/>
+<action id="lisa_loud_worried_run.PNG" name="Worried Run" loop="Y" totalframe="3"/>
+<action id="lisa_loud_worried_two.PNG" name="Worried Two" loop="Y" totalframe="3"/>
+<action id="lisa_loud_worriedalt.PNG" name="Worried Alt" loop="Y" totalframe="3"/>
+<action id="lisa_loud_worriedm.PNG" name="Worried" loop="Y" totalframe="3"/>
+<action id="lisa_thinking.PNG" name="Think" loop="Y" totalframe="3"/>
+</char>
 <char id="ios" name="IOS" thumb="ios.swf" facing="left" default="ios.swf" motion="ios.swf" enable="Y" is_premium="N" aid="237" money="0" sharing="0">
     <action aid="6928" enable="Y" name="Be a phone" id="ios.swf" totalframe="1" loop="Y"/>
   </char>
