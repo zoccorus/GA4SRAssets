@@ -18358,6 +18358,14 @@
     <tag>baldcaillou</tag>
     <tag>retro</tag>
   </sound>
+  <sound id="Diviners Tropic Love.mp3" name="Tropic Love" downloadtype="progressive" subtype="bgmusic" duration="300000" enable="Y" is_premium="N" aid="6044" money="0" sharing="0">
+    <tag>NCS Music</tag>
+    <tag>nostalgic</tag>
+    <tag>positive</tag>
+    <tag>rock</tag>
+    <tag>tropic</tag>
+    <tag>love</tag>
+  </sound>
   <sound id="BroadcastNews.mp3" name="Broadcast News" downloadtype="progressive" subtype="bgmusic" duration="37600" enable="Y" is_premium="N" aid="6045" money="0" sharing="0">
     <tag>emotion</tag>
     <tag>news report</tag>
@@ -18810,6 +18818,10 @@
   <sound id="Lisa_Loud_Crying.mp3" name="Lisa Crying" downloadtype="progressive" subtype="soundeffect" duration="2250" enable="Y" is_premium="N" aid="6730" money="0" sharing="0">
     <tag>lisa</tag>
     <tag>crying</tag>
+  </sound>
+  <sound id="Lisa_Loud_Nervous_Chuckle.mp3" name="Lisa Nervous Chuckle" downloadtype="progressive" subtype="soundeffect" duration="1250" enable="Y" is_premium="N" aid="6730" money="0" sharing="0">
+    <tag>lisa</tag>
+    <tag>laugh</tag>
   </sound>
   <sound id="Lisa_Scream.mp3" name="Lisa Scream" downloadtype="progressive" subtype="soundeffect" duration="1250" enable="Y" is_premium="N" aid="6730" money="0" sharing="0">
     <tag>lisa</tag>
