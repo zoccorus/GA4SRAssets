@@ -738,6 +738,19 @@
         <selection type="mustache" state_id="default"/>
         <selection type="nose" state_id="default"/>
     </facial>
+    <facial id="head_terrified" name="Terrified" enable="Y">
+        <selection type="beard" state_id="default"/>
+        <selection type="ear" state_id="default"/>
+        <selection type="eye" state_id="terrified"/>
+        <selection type="eyebrow" state_id="shock"/>
+        <selection type="facedecoration" state_id="default"/>
+        <selection type="faceshape" state_id="default"/>
+        <selection type="glasses" state_id="default"/>
+        <selection type="hair" state_id="default"/>
+        <selection type="mouth" state_id="shockgrin"/>
+        <selection type="mustache" state_id="default"/>
+        <selection type="nose" state_id="default"/>
+    </facial>
     <facial id="head_jealous" name="Jealous" enable="Y">
         <selection type="beard" state_id="default"/>
         <selection type="ear" state_id="default"/>
@@ -11327,6 +11340,7 @@
         <state id="schemeing" filename="schemeing.swf"/>
         <state id="shock" filename="shock.swf"/>
         <state id="sick" filename="sick.swf"/>
+	<state id="terrified" filename="terrified.swf"/>  
         <state id="thinking" filename="thinking.swf"/>
         <state id="yawn" filename="yawn.swf"/>
     </component>
@@ -11405,6 +11419,7 @@
         <state id="schemeing" filename="schemeing.swf"/>
         <state id="shock" filename="shock.swf"/>
         <state id="sick" filename="sick.swf"/>
+	<state id="terrified" filename="terrified.swf"/>
         <state id="thinking" filename="thinking.swf"/>
         <state id="yawn" filename="yawn.swf"/>
     </component>
@@ -12246,6 +12261,7 @@
         <state id="shock" filename="shock.swf"/>
 	<state id="shock02" filename="shock02.swf"/>
 	<state id="shock03" filename="shock_03.swf"/>
+	<state id="shockgrin" filename="shockgrin.swf"/>
         <state id="sick" filename="sick.swf"/>
 	<state id="smile" filename="smile.swf"/>
 	<state id="smile02" filename="smile_animated.swf"/>
