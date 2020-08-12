@@ -2084,7 +2084,7 @@
             <selection type="facial" facial_id="head_happy"/>
             <selection type="lower_body" state_id="default"/>
             <selection type="skeleton" state_id="stand"/>
-            <selection type="upper_body" state_id="chuckle"/>
+            <selection type="upper_body" state_id="onhips"/>
         </action>
         <action id="sitchuckle" name="Sit - Chuckle" loop="Y" totalframe="6" enable="Y" category="emotion" is_motion="N">
             <selection type="facial" facial_id="head_happy"/>
@@ -5259,6 +5259,7 @@
             <state id="kneel_down" filename="kneel_down.swf"/>
             <state id="laugh" filename="laugh.swf"/>
             <state id="lie_down" filename="lie_down.swf"/>
+            <state id="onhips" filename="onhips.swf"/>
             <state id="point_at" filename="point_at.swf"/>
             <state id="run" filename="run.swf"/>
             <state id="sad" filename="sad.swf"/>
@@ -5278,6 +5279,7 @@
             <state id="kneel_down" filename="kneel_down.swf"/>
             <state id="laugh" filename="laugh.swf"/>
             <state id="lie_down" filename="lie_down.swf"/>
+            <state id="onhips" filename="onhips.swf"/>
             <state id="point_at" filename="point_at.swf"/>
             <state id="run" filename="run.swf"/>
             <state id="sad" filename="sad.swf"/>
@@ -5297,6 +5299,7 @@
             <state id="kneel_down" filename="kneel_down.swf"/>
             <state id="laugh" filename="laugh.swf"/>
             <state id="lie_down" filename="lie_down.swf"/>
+	    <state id="onhips" filename="onhips.swf"/>
             <state id="point_at" filename="point_at.swf"/>
             <state id="run" filename="run.swf"/>
             <state id="sad" filename="sad.swf"/>
@@ -5525,6 +5528,7 @@
             <state id="kneel_down" filename="kneel_down.swf"/>
             <state id="laugh" filename="laugh.swf"/>
             <state id="lie_down" filename="lie_down.swf"/>
+	    <state id="onhips" filename="onhips.swf"/>
             <state id="point_at" filename="point_at.swf"/>
             <state id="run" filename="run.swf"/>
             <state id="sad" filename="sad.swf"/>
@@ -5544,6 +5548,7 @@
             <state id="kneel_down" filename="kneel_down.swf"/>
             <state id="laugh" filename="laugh.swf"/>
             <state id="lie_down" filename="lie_down.swf"/>
+            <state id="onhips" filename="onhips.swf"/>
             <state id="point_at" filename="point_at.swf"/>
             <state id="run" filename="run.swf"/>
             <state id="sad" filename="sad.swf"/>
@@ -5563,6 +5568,7 @@
             <state id="kneel_down" filename="kneel_down.swf"/>
             <state id="laugh" filename="laugh.swf"/>
             <state id="lie_down" filename="lie_down.swf"/>
+	    <state id="onhips" filename="onhips.swf"/>
             <state id="point_at" filename="point_at.swf"/>
             <state id="run" filename="run.swf"/>
             <state id="sad" filename="sad.swf"/>
@@ -5582,6 +5588,7 @@
             <state id="kneel_down" filename="kneel_down.swf"/>
             <state id="laugh" filename="laugh.swf"/>
             <state id="lie_down" filename="lie_down.swf"/>
+	    <state id="onhips" filename="onhips.swf"/>
             <state id="point_at" filename="point_at.swf"/>
             <state id="run" filename="run.swf"/>
             <state id="sad" filename="sad.swf"/>
@@ -5601,6 +5608,7 @@
             <state id="kneel_down" filename="kneel_down.swf"/>
             <state id="laugh" filename="laugh.swf"/>
             <state id="lie_down" filename="lie_down.swf"/>
+	    <state id="onhips" filename="onhips.swf"/>
             <state id="point_at" filename="point_at.swf"/>
             <state id="run" filename="run.swf"/>
             <state id="sad" filename="sad.swf"/>
@@ -5620,6 +5628,7 @@
             <state id="kneel_down" filename="kneel_down.swf"/>
             <state id="laugh" filename="laugh.swf"/>
             <state id="lie_down" filename="lie_down.swf"/>
+	    <state id="onhips" filename="onhips.swf"/>
             <state id="point_at" filename="point_at.swf"/>
             <state id="run" filename="run.swf"/>
             <state id="sad" filename="sad.swf"/>
@@ -5639,6 +5648,7 @@
             <state id="kneel_down" filename="kneel_down.swf"/>
             <state id="laugh" filename="laugh.swf"/>
             <state id="lie_down" filename="lie_down.swf"/>
+	    <state id="onhips" filename="onhips.swf"/>
             <state id="point_at" filename="point_at.swf"/>
             <state id="run" filename="run.swf"/>
             <state id="sad" filename="sad.swf"/>
@@ -5658,6 +5668,7 @@
             <state id="kneel_down" filename="kneel_down.swf"/>
             <state id="laugh" filename="laugh.swf"/>
             <state id="lie_down" filename="lie_down.swf"/>
+            <state id="onhips" filename="onhips.swf"/>
             <state id="point_at" filename="point_at.swf"/>
             <state id="run" filename="run.swf"/>
             <state id="sad" filename="sad.swf"/>
@@ -5677,6 +5688,7 @@
             <state id="kneel_down" filename="kneel_down.swf"/>
             <state id="laugh" filename="laugh.swf"/>
             <state id="lie_down" filename="lie_down.swf"/>
+	    <state id="onhips" filename="onhips.swf"/>
             <state id="point_at" filename="point_at.swf"/>
             <state id="run" filename="run.swf"/>
             <state id="sad" filename="sad.swf"/>
@@ -5696,6 +5708,7 @@
             <state id="kneel_down" filename="kneel_down.swf"/>
             <state id="laugh" filename="laugh.swf"/>
             <state id="lie_down" filename="lie_down.swf"/>
+	    <state id="onhips" filename="onhips.swf"/>
             <state id="point_at" filename="point_at.swf"/>
             <state id="run" filename="run.swf"/>
             <state id="sad" filename="sad.swf"/>
@@ -5715,6 +5728,7 @@
             <state id="kneel_down" filename="kneel_down.swf"/>
             <state id="laugh" filename="laugh.swf"/>
             <state id="lie_down" filename="lie_down.swf"/>
+	    <state id="onhips" filename="onhips.swf"/>
             <state id="point_at" filename="point_at.swf"/>
             <state id="run" filename="run.swf"/>
             <state id="sad" filename="sad.swf"/>
@@ -5734,6 +5748,7 @@
             <state id="kneel_down" filename="kneel_down.swf"/>
             <state id="laugh" filename="laugh.swf"/>
             <state id="lie_down" filename="lie_down.swf"/>
+	    <state id="onhips" filename="onhips.swf"/>
             <state id="point_at" filename="point_at.swf"/>
             <state id="run" filename="run.swf"/>
             <state id="sad" filename="sad.swf"/>
@@ -5753,6 +5768,7 @@
             <state id="kneel_down" filename="kneel_down.swf"/>
             <state id="laugh" filename="laugh.swf"/>
             <state id="lie_down" filename="lie_down.swf"/>
+	    <state id="onhips" filename="onhips.swf"/>
             <state id="point_at" filename="point_at.swf"/>
             <state id="run" filename="run.swf"/>
             <state id="sad" filename="sad.swf"/>
@@ -5772,6 +5788,7 @@
             <state id="kneel_down" filename="kneel_down.swf"/>
             <state id="laugh" filename="laugh.swf"/>
             <state id="lie_down" filename="lie_down.swf"/>
+	    <state id="onhips" filename="onhips.swf"/>
             <state id="point_at" filename="point_at.swf"/>
             <state id="run" filename="run.swf"/>
             <state id="sad" filename="sad.swf"/>
@@ -5791,6 +5808,7 @@
             <state id="kneel_down" filename="kneel_down.swf"/>
             <state id="laugh" filename="laugh.swf"/>
             <state id="lie_down" filename="lie_down.swf"/>
+	    <state id="onhips" filename="onhips.swf"/>
             <state id="point_at" filename="point_at.swf"/>
             <state id="run" filename="run.swf"/>
             <state id="sad" filename="sad.swf"/>
@@ -5810,6 +5828,7 @@
             <state id="kneel_down" filename="kneel_down.swf"/>
             <state id="laugh" filename="laugh.swf"/>
             <state id="lie_down" filename="lie_down.swf"/>
+	    <state id="onhips" filename="onhips.swf"/>
             <state id="point_at" filename="point_at.swf"/>
             <state id="run" filename="run.swf"/>
             <state id="sad" filename="sad.swf"/>
@@ -5829,6 +5848,7 @@
             <state id="kneel_down" filename="kneel_down.swf"/>
             <state id="laugh" filename="laugh.swf"/>
             <state id="lie_down" filename="lie_down.swf"/>
+	    <state id="onhips" filename="onhips.swf"/>
             <state id="point_at" filename="point_at.swf"/>
             <state id="run" filename="run.swf"/>
             <state id="sad" filename="sad.swf"/>
@@ -5848,6 +5868,7 @@
             <state id="kneel_down" filename="kneel_down.swf"/>
             <state id="laugh" filename="laugh.swf"/>
             <state id="lie_down" filename="lie_down.swf"/>
+	    <state id="onhips" filename="onhips.swf"/>
             <state id="point_at" filename="point_at.swf"/>
             <state id="run" filename="run.swf"/>
             <state id="sad" filename="sad.swf"/>
@@ -5867,6 +5888,7 @@
             <state id="kneel_down" filename="kneel_down.swf"/>
             <state id="laugh" filename="laugh.swf"/>
             <state id="lie_down" filename="lie_down.swf"/>
+	    <state id="onhips" filename="onhips.swf"/>
             <state id="point_at" filename="point_at.swf"/>
             <state id="run" filename="run.swf"/>
             <state id="sad" filename="sad.swf"/>
@@ -5886,6 +5908,7 @@
             <state id="kneel_down" filename="kneel_down.swf"/>
             <state id="laugh" filename="laugh.swf"/>
             <state id="lie_down" filename="lie_down.swf"/>
+	    <state id="onhips" filename="onhips.swf"/>
             <state id="point_at" filename="point_at.swf"/>
             <state id="run" filename="run.swf"/>
             <state id="sad" filename="sad.swf"/>
@@ -5905,6 +5928,7 @@
             <state id="kneel_down" filename="kneel_down.swf"/>
             <state id="laugh" filename="laugh.swf"/>
             <state id="lie_down" filename="lie_down.swf"/>
+	    <state id="onhips" filename="onhips.swf"/>
             <state id="point_at" filename="point_at.swf"/>
             <state id="run" filename="run.swf"/>
             <state id="sad" filename="sad.swf"/>
