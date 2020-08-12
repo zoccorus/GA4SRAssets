@@ -15757,6 +15757,7 @@
     <state id="Pizza_Hut_Pizza.swf" name="Pizza Hut Pizza" enable="Y"/>
     <state id="Updated_PalmWood.swf" name="Updated PalmWood" enable="Y"/>
     <state id="daveandbusters_rhg_tbb_.swf" name="Dave And Busters" enable="Y"/>
+    <state id="SAGPSA_House.swf" name="SAGPSA House" enable="Y"/>
   </prop>
   <prop id="msp_holdableitems" name="Holdable Items" holdable="1" placeable="1" wearable="0" facing="left" thumb="doritos.swf" enable="Y" is_premium="N" aid="10469" money="0" sharing="0">
     <state id="doritos.swf" name="Doritos" enable="Y" default="Y"/>
@@ -16652,6 +16653,10 @@
     <state id="lisa_loud_onhips_facecam.swf" name="On Hips FaceCamera" enable="Y"/>
     <state id="lisa_loud_peaceoutandwink_facecam.swf" name="POAW FC" enable="Y"/>
     <state id="lisa_loud_peaceoutandwinktalk_facecam.swf" name="POAW T FC" enable="Y"/>
+    <state id="lisa_loud_shockedaltb.swf" name="Shocked Altb" enable="Y"/>
+    <state id="lisa_loud_shockedaltb_facecam.swf" name="Shocked Altb FC" enable="Y"/>
+    <state id="lisa_loud_shockedaltb_ld.swf" name="Shocked Altb LD" enable="Y"/>
+    <state id="lisa_loud_shockedaltb_lu.swf" name="Shocked Altb LU" enable="Y"/>
   </prop>
   <prop id="msp_lisaloudbikini" name="Lisa Loud (Bikini)" holdable="0" placeable="1" wearable="0" facing="left" thumb="lisa_loud_Custom_Pose_bikini.swf" enable="Y" is_premium="N" aid="11286" money="0" sharing="0">
     <state id="lisa_loud_Custom_Pose_bikini.swf" name="Custom Pose" enable="Y" default="Y"/>
