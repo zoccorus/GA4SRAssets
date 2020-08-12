@@ -15758,6 +15758,23 @@
     <state id="Updated_PalmWood.swf" name="Updated PalmWood" enable="Y"/>
     <state id="daveandbusters_rhg_tbb_.swf" name="Dave And Busters" enable="Y"/>
     <state id="SAGPSA_House.swf" name="SAGPSA House" enable="Y"/>
+    <state id="SCT_PFP.swf" name="SCT PFP" enable="Y"/>
+    <state id="SCT_PFP_Updated.swf" name="SCT PFP Updated" enable="Y"/>
+    <state id="March PFP.swf" name="March PFP" enable="Y"/>
+    <state id="April PFP.swf" name="April PFP" enable="Y"/>
+    <state id="June PFP.swf" name="June PFP" enable="Y"/>
+    <state id="ID PFP.swf" name="Indepence PFP" enable="Y"/>
+    <state id="July PFP.swf" name="July PFP" enable="Y"/>
+    <state id="August Profile.swf" name="August PFP" enable="Y"/>
+    <state id="Profile September.swf" name="September PFP" enable="Y"/>
+    <state id="New Pfp November.swf" name="November PFP" enable="Y"/>
+    <state id="My Updated Profile.swf" name="2020 PFP" enable="Y"/>
+    <state id="Updated Profile Two.swf" name="2020 PFP Unused" enable="Y"/>
+    <state id="My PFP For Anniversary.swf" name="PFP Anniversary" enable="Y"/>
+    <state id="Pfp In Anniversary Updated.swf" name="PFP Anniversary Updated" enable="Y"/>
+    <state id="My Updated Profile Picture As Of May.swf" name="PFP May 2020" enable="Y"/>
+    <state id="My PFP As Of July.swf" name="PFP July 2020" enable="Y"/>
+    <state id="My New Profile Pic In August.swf" name="PFP August 2020" enable="Y"/>
   </prop>
   <prop id="msp_holdableitems" name="Holdable Items" holdable="1" placeable="1" wearable="0" facing="left" thumb="doritos.swf" enable="Y" is_premium="N" aid="10469" money="0" sharing="0">
     <state id="doritos.swf" name="Doritos" enable="Y" default="Y"/>
