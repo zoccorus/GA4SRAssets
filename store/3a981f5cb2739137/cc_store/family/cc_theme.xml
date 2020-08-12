@@ -556,6 +556,19 @@
         <selection type="mustache" state_id="default"/>
         <selection type="nose" state_id="default"/>
     </facial>
+    <facial id="head_neutrald" name="Neutral d" enable="Y">
+        <selection type="beard" state_id="default"/>
+        <selection type="ear" state_id="default"/>
+        <selection type="eye" state_id="default"/>
+        <selection type="eyebrow" state_id="default"/>
+        <selection type="facedecoration" state_id="default"/>
+        <selection type="faceshape" state_id="default"/>
+        <selection type="glasses" state_id="default"/>
+        <selection type="hair" state_id="default"/>
+        <selection type="mouth" state_id="default_3"/>
+        <selection type="mustache" state_id="default"/>
+        <selection type="nose" state_id="default"/>
+    </facial>
     <facial id="head_laugh" name="Laugh" enable="Y">
         <selection type="beard" state_id="default"/>
         <selection type="ear" state_id="default"/>
@@ -12253,6 +12266,7 @@
         <state id="cry" filename="cry.swf"/>
         <state id="default" filename="default.swf"/>
 	<state id="default2" filename="default_2.swf"/>
+	<state id="default_3" filename="default_3.swf"/>
         <state id="happy" filename="happy.swf"/>
         <state id="laugh" filename="laugh.swf"/>
         <state id="sad" filename="sad.swf"/>
