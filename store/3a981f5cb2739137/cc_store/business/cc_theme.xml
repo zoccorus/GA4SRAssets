@@ -22286,7 +22286,7 @@
 		<tag>_sticky_filter_littlegirl</tag>
 		<tag>_sticky_filter_heavyguy</tag>
 	</component>
-	<component type="eye" id="001" path="001" name="001" thumb="thumbnail.swf" money="0" sharing="0" split="N" enable="N">
+	<component type="eye" id="001" path="001" name="001" thumb="thumbnail.swf" money="0" sharing="0" split="N" enable="Y">
 		<state id="front_angry" filename="front_angry.swf"/>
 		<state id="front_sleep" filename="front_sleep.swf"/>
 		<state id="front_surprised" filename="front_surprised.swf"/>
@@ -22308,7 +22308,7 @@
 		<state id="front_talk" filename="front_talk.swf"/>
 		<state id="side_look_down" filename="side_look_down.swf"/>
 	</component>
-	<component type="eye" id="002" path="002" name="002" thumb="thumbnail.swf" money="0" sharing="0" split="N" enable="N">
+	<component type="eye" id="002" path="002" name="002" thumb="thumbnail.swf" money="0" sharing="0" split="N" enable="Y">
 		<state id="front_angry" filename="front_angry.swf"/>
 		<state id="front_sleep" filename="front_sleep.swf"/>
 		<state id="front_surprised" filename="front_surprised.swf"/>
@@ -22330,7 +22330,7 @@
 		<state id="front_talk" filename="front_talk.swf"/>
 		<state id="side_look_down" filename="side_look_down.swf"/>
 	</component>
-	<component type="eye" id="003" path="003" name="003" thumb="thumbnail.swf" money="0" sharing="0" split="N" enable="N">
+	<component type="eye" id="003" path="003" name="003" thumb="thumbnail.swf" money="0" sharing="0" split="N" enable="Y">
 		<state id="front_angry" filename="front_angry.swf"/>
 		<state id="front_sleep" filename="front_sleep.swf"/>
 		<state id="front_surprised" filename="front_surprised.swf"/>
@@ -22352,7 +22352,7 @@
 		<state id="front_talk" filename="front_talk.swf"/>
 		<state id="side_look_down" filename="side_look_down.swf"/>
 	</component>
-	<component type="eye" id="004" path="004" name="004" thumb="thumbnail.swf" money="0" sharing="0" split="N" enable="N">
+	<component type="eye" id="004" path="004" name="004" thumb="thumbnail.swf" money="0" sharing="0" split="N" enable="Y">
 		<state id="front_angry" filename="front_angry.swf"/>
 		<state id="front_sleep" filename="front_sleep.swf"/>
 		<state id="front_surprised" filename="front_surprised.swf"/>
@@ -22374,7 +22374,7 @@
 		<state id="front_talk" filename="front_talk.swf"/>
 		<state id="side_look_down" filename="side_look_down.swf"/>
 	</component>
-	<component type="eye" id="005" path="005" name="005" thumb="thumbnail.swf" money="0" sharing="0" split="N" enable="N">
+	<component type="eye" id="005" path="005" name="005" thumb="thumbnail.swf" money="0" sharing="0" split="N" enable="Y">
 		<state id="front_angry" filename="front_angry.swf"/>
 		<state id="front_sleep" filename="front_sleep.swf"/>
 		<state id="front_surprised" filename="front_surprised.swf"/>
@@ -22533,7 +22533,7 @@
 		<tag>_sticky_filter_heavyguy</tag>
 		<tag>_sticky_filter_heavygirl</tag>
 	</component>
-	<component type="eye" id="1006" path="1006" name="1006" thumb="thumbnail.swf" money="0" sharing="0" split="N" enable="N">
+	<component type="eye" id="1006" path="1006" name="1006" thumb="thumbnail.swf" money="0" sharing="0" split="N" enable="Y">
 		<state id="front_angry" filename="front_angry.swf"/>
 		<state id="front_sleep" filename="front_sleep.swf"/>
 		<state id="front_surprised" filename="front_surprised.swf"/>
@@ -22557,7 +22557,7 @@
 		<tag>_sticky_filter_guy</tag>
 		<tag>_sticky_filter_girl</tag>
 	</component>
-	<component type="eye" id="1007" path="1007" name="1007" thumb="thumbnail.swf" money="0" sharing="0" split="N" enable="N">
+	<component type="eye" id="1007" path="1007" name="1007" thumb="thumbnail.swf" money="0" sharing="0" split="N" enable="Y">
 		<state id="front_angry" filename="front_angry.swf"/>
 		<state id="front_sleep" filename="front_sleep.swf"/>
 		<state id="front_surprised" filename="front_surprised.swf"/>
@@ -22639,7 +22639,7 @@
 		<tag>_sticky_filter_heavygirl</tag>
 		<tag>_userrole_admin</tag>
 	</component>
-	<component type="eye" id="1010" path="1010" name="1010" thumb="thumbnail.swf" money="0" sharing="0" split="N" enable="N">
+	<component type="eye" id="1010" path="1010" name="1010" thumb="thumbnail.swf" money="0" sharing="0" split="N" enable="Y">
 		<state id="front_angry" filename="front_angry.swf"/>
 		<state id="front_sleep" filename="front_sleep.swf"/>
 		<state id="front_surprised" filename="front_surprised.swf"/>
@@ -22663,7 +22663,7 @@
 		<tag>_sticky_filter_guy</tag>
 		<tag>_sticky_filter_girl</tag>
 	</component>
-	<component type="eye" id="1011" path="1011" name="1011" thumb="thumbnail.swf" money="0" sharing="0" split="N" enable="N">
+	<component type="eye" id="1011" path="1011" name="1011" thumb="thumbnail.swf" money="0" sharing="0" split="N" enable="Y">
 		<state id="front_angry" filename="front_angry.swf"/>
 		<state id="front_sleep" filename="front_sleep.swf"/>
 		<state id="front_surprised" filename="front_surprised.swf"/>
@@ -22686,7 +22686,7 @@
 		<state id="side_look_down" filename="side_look_down.swf"/>
 		<tag>_sticky_filter_guy</tag>
 	</component>
-	<component type="eye" id="1012" path="1012" name="1012" thumb="thumbnail.swf" money="0" sharing="0" split="N" enable="N">
+	<component type="eye" id="1012" path="1012" name="1012" thumb="thumbnail.swf" money="0" sharing="0" split="N" enable="Y">
 		<state id="front_angry" filename="front_angry.swf"/>
 		<state id="front_sleep" filename="front_sleep.swf"/>
 		<state id="front_surprised" filename="front_surprised.swf"/>
@@ -22849,7 +22849,7 @@
 		<tag>_sticky_filter_heavyguy</tag>
 		<tag>_sticky_filter_heavygirl</tag>
 	</component>
-	<component type="eye" id="1018" path="1018" name="1018" thumb="thumbnail.swf" money="0" sharing="0" split="N" enable="N">
+	<component type="eye" id="1018" path="1018" name="1018" thumb="thumbnail.swf" money="0" sharing="0" split="N" enable="Y">
 		<state id="front_angry" filename="front_angry.swf"/>
 		<state id="front_sleep" filename="front_sleep.swf"/>
 		<state id="front_surprised" filename="front_surprised.swf"/>
@@ -22872,7 +22872,7 @@
 		<state id="side_look_down" filename="side_look_down.swf"/>
 		<tag>_sticky_filter_littleboy</tag>
 	</component>
-	<component type="eye" id="1019" path="1019" name="1019" thumb="thumbnail.swf" money="0" sharing="0" split="N" enable="N">
+	<component type="eye" id="1019" path="1019" name="1019" thumb="thumbnail.swf" money="0" sharing="0" split="N" enable="Y">
 		<state id="front_angry" filename="front_angry.swf"/>
 		<state id="front_sleep" filename="front_sleep.swf"/>
 		<state id="front_surprised" filename="front_surprised.swf"/>
@@ -23216,7 +23216,7 @@
 		<tag>_sticky_filter_littlegirl</tag>
 		<tag>_sticky_filter_girl</tag>
 	</component>
-	<component type="eye" id="1032" path="1032" name="1032" thumb="thumbnail.swf" money="0" sharing="0" enable="N" split="N">
+	<component type="eye" id="1032" path="1032" name="1032" thumb="thumbnail.swf" money="0" sharing="0" enable="Y" split="N">
 		<state id="front_angry" filename="front_angry.swf"/>
 		<state id="front_sleep" filename="front_sleep.swf"/>
 		<state id="front_surprised" filename="front_surprised.swf"/>
@@ -23371,19 +23371,19 @@
 		<tag>_userrole_admin</tag>
 	</component>
 
-	<component type="ear" id="001" path="001" name="001" thumb="thumbnail.swf" money="0" sharing="0" enable="N">
+	<component type="ear" id="001" path="001" name="001" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="front_default" filename="front_default.swf"/>
 		<state id="side_default" filename="side_default.swf"/>
 	</component>
-	<component type="ear" id="002" path="002" name="002" thumb="thumbnail.swf" money="0" sharing="0" enable="N">
+	<component type="ear" id="002" path="002" name="002" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="front_default" filename="front_default.swf"/>
 		<state id="side_default" filename="side_default.swf"/>
 	</component>
-	<component type="ear" id="003" path="003" name="003" thumb="thumbnail.swf" money="0" sharing="0" enable="N">
+	<component type="ear" id="003" path="003" name="003" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="front_default" filename="front_default.swf"/>
 		<state id="side_default" filename="side_default.swf"/>
 	</component>
-	<component type="ear" id="004" path="004" name="004" thumb="thumbnail.swf" money="0" sharing="0" enable="N">
+	<component type="ear" id="004" path="004" name="004" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="front_default" filename="front_default.swf"/>
 		<state id="side_default" filename="side_default.swf"/>
 	</component>
@@ -23473,7 +23473,7 @@
 		<tag>_sticky_filter_littleboy</tag>
 		<tag>_sticky_filter_heavyguy</tag>
 	</component>
-	<component type="eyebrow" id="001" path="001" name="001" thumb="thumbnail.swf" money="0" sharing="0" split="N" enable="N">
+	<component type="eyebrow" id="001" path="001" name="001" thumb="thumbnail.swf" money="0" sharing="0" split="N" enable="Y">
 		<state id="front_surprised" filename="front_surprised.swf"/>
 		<state id="front_angry" filename="front_angry.swf"/>
 		<state id="front_confused" filename="front_confused.swf"/>
@@ -23491,7 +23491,7 @@
 		<state id="front_scheme" filename="front_scheme.swf"/>
 		<state id="side_scheme" filename="side_scheme.swf"/>
 	</component>
-	<component type="eyebrow" id="002" path="002" name="002" thumb="thumbnail.swf" money="0" sharing="0" split="N" enable="N">
+	<component type="eyebrow" id="002" path="002" name="002" thumb="thumbnail.swf" money="0" sharing="0" split="N" enable="Y">
 		<state id="front_surprised" filename="front_surprised.swf"/>
 		<state id="front_angry" filename="front_angry.swf"/>
 		<state id="front_confused" filename="front_confused.swf"/>
@@ -23509,7 +23509,7 @@
 		<state id="front_scheme" filename="front_scheme.swf"/>
 		<state id="side_scheme" filename="side_scheme.swf"/>
 	</component>
-	<component type="eyebrow" id="003" path="003" name="003" thumb="thumbnail.swf" money="0" sharing="0" split="N" enable="N">
+	<component type="eyebrow" id="003" path="003" name="003" thumb="thumbnail.swf" money="0" sharing="0" split="N" enable="Y">
 		<state id="front_surprised" filename="front_surprised.swf"/>
 		<state id="front_angry" filename="front_angry.swf"/>
 		<state id="front_confused" filename="front_confused.swf"/>
@@ -23527,7 +23527,7 @@
 		<state id="front_scheme" filename="front_scheme.swf"/>
 		<state id="side_scheme" filename="side_scheme.swf"/>
 	</component>
-	<component type="eyebrow" id="004" path="004" name="004" thumb="thumbnail.swf" money="0" sharing="0" split="N" enable="N">
+	<component type="eyebrow" id="004" path="004" name="004" thumb="thumbnail.swf" money="0" sharing="0" split="N" enable="Y">
 		<state id="front_surprised" filename="front_surprised.swf"/>
 		<state id="front_angry" filename="front_angry.swf"/>
 		<state id="front_confused" filename="front_confused.swf"/>
@@ -23545,7 +23545,7 @@
 		<state id="front_scheme" filename="front_scheme.swf"/>
 		<state id="side_scheme" filename="side_scheme.swf"/>
 	</component>
-	<component type="eyebrow" id="005" path="005" name="005" thumb="thumbnail.swf" money="0" sharing="0" split="N" enable="N">
+	<component type="eyebrow" id="005" path="005" name="005" thumb="thumbnail.swf" money="0" sharing="0" split="N" enable="Y">
 		<state id="front_surprised" filename="front_surprised.swf"/>
 		<state id="front_angry" filename="front_angry.swf"/>
 		<state id="front_confused" filename="front_confused.swf"/>
@@ -23563,7 +23563,7 @@
 		<state id="front_scheme" filename="front_scheme.swf"/>
 		<state id="side_scheme" filename="side_scheme.swf"/>
 	</component>
-	<component type="eyebrow" id="006" path="006" name="006" thumb="thumbnail.swf" money="0" sharing="0" split="N" enable="N">
+	<component type="eyebrow" id="006" path="006" name="006" thumb="thumbnail.swf" money="0" sharing="0" split="N" enable="Y">
 		<state id="front_surprised" filename="front_surprised.swf"/>
 		<state id="front_angry" filename="front_angry.swf"/>
 		<state id="front_confused" filename="front_confused.swf"/>
@@ -23581,7 +23581,7 @@
 		<state id="front_scheme" filename="front_scheme.swf"/>
 		<state id="side_scheme" filename="side_scheme.swf"/>
 	</component>
-	<component type="eyebrow" id="007" path="007" name="007" thumb="thumbnail.swf" money="0" sharing="0" split="N" enable="N">
+	<component type="eyebrow" id="007" path="007" name="007" thumb="thumbnail.swf" money="0" sharing="0" split="N" enable="Y">
 		<state id="front_surprised" filename="front_surprised.swf"/>
 		<state id="front_angry" filename="front_angry.swf"/>
 		<state id="front_confused" filename="front_confused.swf"/>
@@ -23599,7 +23599,7 @@
 		<state id="front_scheme" filename="front_scheme.swf"/>
 		<state id="side_scheme" filename="side_scheme.swf"/>
 	</component>
-	<component type="eyebrow" id="008" path="008" name="008" thumb="thumbnail.swf" money="0" sharing="0" split="N" enable="N">
+	<component type="eyebrow" id="008" path="008" name="008" thumb="thumbnail.swf" money="0" sharing="0" split="N" enable="Y">
 		<state id="front_surprised" filename="front_surprised.swf"/>
 		<state id="front_angry" filename="front_angry.swf"/>
 		<state id="front_confused" filename="front_confused.swf"/>
@@ -23619,7 +23619,7 @@
 	</component>
 
 	<!-- New -->
-	<component type="eyebrow" id="1001" path="1001" name="1001" thumb="thumbnail.swf" money="0" sharing="0" split="N" enable="N">
+	<component type="eyebrow" id="1001" path="1001" name="1001" thumb="thumbnail.swf" money="0" sharing="0" split="N" enable="Y">
 		<state id="front_surprised" filename="front_surprised.swf"/>
 		<state id="front_angry" filename="front_angry.swf"/>
 		<state id="front_confused" filename="front_confused.swf"/>
@@ -23640,7 +23640,7 @@
 		<tag>_sticky_filter_littleboy</tag>
 		<tag>_sticky_filter_heavyguy</tag>
 	</component>
-	<component type="eyebrow" id="1002" path="1002" name="1002" thumb="thumbnail.swf" money="0" sharing="0" split="N" enable="N">
+	<component type="eyebrow" id="1002" path="1002" name="1002" thumb="thumbnail.swf" money="0" sharing="0" split="N" enable="Y">
 		<state id="front_surprised" filename="front_surprised.swf"/>
 		<state id="front_angry" filename="front_angry.swf"/>
 		<state id="front_confused" filename="front_confused.swf"/>
@@ -23661,7 +23661,7 @@
 		<tag>_sticky_filter_littleboy</tag>
 		<tag>_sticky_filter_heavyguy</tag>
 	</component>
-	<component type="eyebrow" id="1003" path="1003" name="1003" thumb="thumbnail.swf" money="0" sharing="0" split="N" enable="N">
+	<component type="eyebrow" id="1003" path="1003" name="1003" thumb="thumbnail.swf" money="0" sharing="0" split="N" enable="Y">
 		<state id="front_surprised" filename="front_surprised.swf"/>
 		<state id="front_angry" filename="front_angry.swf"/>
 		<state id="front_confused" filename="front_confused.swf"/>
@@ -23683,7 +23683,7 @@
 		<tag>_sticky_filter_littlegirl</tag>
 		<tag>_sticky_filter_heavygirl</tag>
 	</component>
-	<component type="eyebrow" id="1004" path="1004" name="1004" thumb="thumbnail.swf" money="0" sharing="0" split="N" enable="N">
+	<component type="eyebrow" id="1004" path="1004" name="1004" thumb="thumbnail.swf" money="0" sharing="0" split="N" enable="Y">
 		<state id="front_surprised" filename="front_surprised.swf"/>
 		<state id="front_angry" filename="front_angry.swf"/>
 		<state id="front_confused" filename="front_confused.swf"/>
@@ -23705,7 +23705,7 @@
 		<tag>_sticky_filter_littlegirl</tag>
 		<tag>_sticky_filter_heavygirl</tag>
 	</component>
-	<component type="eyebrow" id="1005" path="1005" name="1005" thumb="thumbnail.swf" money="0" sharing="0" split="N" enable="N">
+	<component type="eyebrow" id="1005" path="1005" name="1005" thumb="thumbnail.swf" money="0" sharing="0" split="N" enable="Y">
 		<state id="front_surprised" filename="front_surprised.swf"/>
 		<state id="front_angry" filename="front_angry.swf"/>
 		<state id="front_confused" filename="front_confused.swf"/>
@@ -23727,7 +23727,7 @@
 		<tag>_sticky_filter_littlegirl</tag>
 		<tag>_sticky_filter_heavygirl</tag>
 	</component>
-	<component type="eyebrow" id="1006" path="1006" name="1006" thumb="thumbnail.swf" money="0" sharing="0" split="N" enable="N">
+	<component type="eyebrow" id="1006" path="1006" name="1006" thumb="thumbnail.swf" money="0" sharing="0" split="N" enable="Y">
 		<state id="front_surprised" filename="front_surprised.swf"/>
 		<state id="front_angry" filename="front_angry.swf"/>
 		<state id="front_confused" filename="front_confused.swf"/>
@@ -23749,7 +23749,7 @@
 		<tag>_sticky_filter_heavyguy</tag>
 		<tag>_sticky_filter_heavygirl</tag>
 	</component>
-	<component type="eyebrow" id="1007" path="1007" name="1007" thumb="thumbnail.swf" money="0" sharing="0" split="N" enable="N">
+	<component type="eyebrow" id="1007" path="1007" name="1007" thumb="thumbnail.swf" money="0" sharing="0" split="N" enable="Y">
 		<state id="front_surprised" filename="front_surprised.swf"/>
 		<state id="front_angry" filename="front_angry.swf"/>
 		<state id="front_confused" filename="front_confused.swf"/>
@@ -23771,7 +23771,7 @@
 		<tag>_sticky_filter_heavyguy</tag>
 		<tag>_sticky_filter_heavygirl</tag>
 	</component>
-	<component type="eyebrow" id="1008" path="1008" name="1008" thumb="thumbnail.swf" money="0" sharing="0" split="N" enable="N">
+	<component type="eyebrow" id="1008" path="1008" name="1008" thumb="thumbnail.swf" money="0" sharing="0" split="N" enable="Y">
 		<state id="front_surprised" filename="front_surprised.swf"/>
 		<state id="front_angry" filename="front_angry.swf"/>
 		<state id="front_confused" filename="front_confused.swf"/>
@@ -24505,83 +24505,83 @@
 		<tag>_userrole_admin</tag>
 	</component>
 
-	<component type="hair" id="001" path="001" name="001" thumb="thumbnail.swf" money="0" sharing="0" enable="N">
+	<component type="hair" id="001" path="001" name="001" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="front_default" filename="front_default.swf"/>
 		<state id="side_default" filename="side_default.swf"/>
 	</component>
-	<component type="hair" id="002" path="002" name="002" thumb="thumbnail.swf" money="0" sharing="0" enable="N">
+	<component type="hair" id="002" path="002" name="002" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="front_default" filename="front_default.swf"/>
 		<state id="side_default" filename="side_default.swf"/>
 	</component>
-	<component type="hair" id="003" path="003" name="003" thumb="thumbnail.swf" money="0" sharing="0" enable="N">
+	<component type="hair" id="003" path="003" name="003" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="front_default" filename="front_default.swf"/>
 		<state id="side_default" filename="side_default.swf"/>
 	</component>
-	<component type="hair" id="004" path="004" name="004" thumb="thumbnail.swf" money="0" sharing="0" enable="N">
+	<component type="hair" id="004" path="004" name="004" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="front_default" filename="front_default.swf"/>
 		<state id="side_default" filename="side_default.swf"/>
 	</component>
-	<component type="hair" id="005" path="005" name="005" thumb="thumbnail.swf" money="0" sharing="0" enable="N">
+	<component type="hair" id="005" path="005" name="005" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="front_default" filename="front_default.swf"/>
 		<state id="side_default" filename="side_default.swf"/>
 	</component>
-	<component type="hair" id="006" path="006" name="006" thumb="thumbnail.swf" money="0" sharing="0" enable="N">
+	<component type="hair" id="006" path="006" name="006" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="front_default" filename="front_default.swf"/>
 		<state id="side_default" filename="side_default.swf"/>
 	</component>
-	<component type="hair" id="007" path="007" name="007" thumb="thumbnail.swf" money="0" sharing="0" enable="N">
+	<component type="hair" id="007" path="007" name="007" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="front_default" filename="front_default.swf"/>
 		<state id="side_default" filename="side_default.swf"/>
 	</component>
-	<component type="hair" id="009" path="009" name="009" thumb="thumbnail.swf" money="0" sharing="0" enable="N">
+	<component type="hair" id="009" path="009" name="009" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="front_default" filename="front_default.swf"/>
 		<state id="side_default" filename="side_default.swf"/>
 	</component>
-	<component type="hair" id="010" path="010" name="010" thumb="thumbnail.swf" money="0" sharing="0" enable="N">
+	<component type="hair" id="010" path="010" name="010" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="front_default" filename="front_default.swf"/>
 		<state id="side_default" filename="side_default.swf"/>
 	</component>
-	<component type="hair" id="011" path="011" name="011" thumb="thumbnail.swf" money="0" sharing="0" enable="N">
+	<component type="hair" id="011" path="011" name="011" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="front_default" filename="front_default.swf"/>
 		<state id="side_default" filename="side_default.swf"/>
 	</component>
-	<component type="hair" id="012" path="012" name="012" thumb="thumbnail.swf" money="0" sharing="0" enable="N">
+	<component type="hair" id="012" path="012" name="012" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="front_default" filename="front_default.swf"/>
 		<state id="side_default" filename="side_default.swf"/>
 	</component>
-	<component type="hair" id="013" path="013" name="013" thumb="thumbnail.swf" money="0" sharing="0" enable="N">
+	<component type="hair" id="013" path="013" name="013" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="front_default" filename="front_default.swf"/>
 		<state id="side_default" filename="side_default.swf"/>
 	</component>
-	<component type="hair" id="014" path="014" name="014" thumb="thumbnail.swf" money="0" sharing="0" enable="N">
+	<component type="hair" id="014" path="014" name="014" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="front_default" filename="front_default.swf"/>
 		<state id="side_default" filename="side_default.swf"/>
 	</component>
-	<component type="hair" id="015" path="015" name="015" thumb="thumbnail.swf" money="0" sharing="0" enable="N">
+	<component type="hair" id="015" path="015" name="015" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="front_default" filename="front_default.swf"/>
 		<state id="side_default" filename="side_default.swf"/>
 	</component>
-	<component type="hair" id="016" path="016" name="016" thumb="thumbnail.swf" money="0" sharing="0" enable="N">
+	<component type="hair" id="016" path="016" name="016" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="front_default" filename="front_default.swf"/>
 		<state id="side_default" filename="side_default.swf"/>
 	</component>
-	<component type="hair" id="017" path="017" name="017" thumb="thumbnail.swf" money="0" sharing="0" enable="N">
+	<component type="hair" id="017" path="017" name="017" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="front_default" filename="front_default.swf"/>
 		<state id="side_default" filename="side_default.swf"/>
 	</component>
-	<component type="hair" id="018" path="018" name="018" thumb="thumbnail.swf" money="0" sharing="0" enable="N">
+	<component type="hair" id="018" path="018" name="018" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="front_default" filename="front_default.swf"/>
 		<state id="side_default" filename="side_default.swf"/>
 	</component>
-	<component type="hair" id="020" path="020" name="020" thumb="thumbnail.swf" money="0" sharing="0" enable="N">
+	<component type="hair" id="020" path="020" name="020" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="front_default" filename="front_default.swf"/>
 		<state id="side_default" filename="side_default.swf"/>
 	</component>
-	<component type="hair" id="021" path="021" name="021" thumb="thumbnail.swf" money="0" sharing="0" enable="N">
+	<component type="hair" id="021" path="021" name="021" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="front_default" filename="front_default.swf"/>
 		<state id="side_default" filename="side_default.swf"/>
 	</component>
-	<component type="hair" id="023" path="023" name="023" thumb="thumbnail.swf" money="0" sharing="0" enable="N">
+	<component type="hair" id="023" path="023" name="023" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="front_default" filename="front_default.swf"/>
 		<state id="side_default" filename="side_default.swf"/>
 	</component>
@@ -24593,7 +24593,7 @@
 		<state id="front_default" filename="front_default.swf"/>
 		<state id="side_default" filename="side_default.swf"/>
 	</component>
-	<component type="hair" id="027" path="027" name="027" thumb="thumbnail.swf" money="0" sharing="0" enable="N">
+	<component type="hair" id="027" path="027" name="027" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="front_default" filename="front_default.swf"/>
 		<state id="side_default" filename="side_default.swf"/>
 	</component>
@@ -24723,13 +24723,13 @@
 		<tag>_sticky_filter_girl</tag>
 		<tag>_sticky_filter_heavygirl</tag>
 	</component>
-	<component type="hair" id="1020" path="1020" name="1020" thumb="thumbnail.swf" money="0" sharing="0" enable="N">
+	<component type="hair" id="1020" path="1020" name="1020" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="front_default" filename="front_default.swf"/>
 		<state id="side_default" filename="side_default.swf"/>
 		<tag>_sticky_filter_girl</tag>
 		<tag>_sticky_filter_heavygirl</tag>
 	</component>
-	<component type="hair" id="1021" path="1021" name="1021" thumb="thumbnail.swf" money="0" sharing="0" enable="N">
+	<component type="hair" id="1021" path="1021" name="1021" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="front_default" filename="front_default.swf"/>
 		<state id="side_default" filename="side_default.swf"/>
 		<tag>_sticky_filter_guy</tag>
@@ -24785,7 +24785,7 @@
 		<tag>_sticky_filter_girl</tag>
 		<tag>_sticky_filter_heavygirl</tag>
 	</component>
-	<component type="hair" id="1032" path="1032" name="1032" thumb="thumbnail.swf" money="0" sharing="0" enable="N">
+	<component type="hair" id="1032" path="1032" name="1032" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="front_default" filename="front_default.swf"/>
 		<state id="side_default" filename="side_default.swf"/>
 		<tag>_sticky_filter_guy</tag>
@@ -24958,7 +24958,7 @@
 		<tag>_sticky_filter_heavyguy</tag>
 		<tag>_sticky_filter_heavygirl</tag>
 	</component>
-	<component type="hair" id="1055" path="1055" name="1055" thumb="thumbnail.swf" money="0" sharing="0" enable="N">
+	<component type="hair" id="1055" path="1055" name="1055" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="front_default" filename="front_default.swf"/>
 		<state id="side_default" filename="side_default.swf"/>
 		<tag>_sticky_filter_guy</tag>
@@ -24984,7 +24984,7 @@
 		<tag>_sticky_filter_heavyguy</tag>
 		<tag>_sticky_filter_heavygirl</tag>
 	</component>
-	<component type="hair" id="1058" path="1058" name="1058" thumb="thumbnail.swf" money="0" sharing="0" enable="N">
+	<component type="hair" id="1058" path="1058" name="1058" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="front_default" filename="front_default.swf"/>
 		<state id="side_default" filename="side_default.swf"/>
 		<tag>_sticky_filter_guy</tag>
@@ -25345,13 +25345,13 @@
 		<tag>_sticky_filter_girl</tag>
 		<tag>_sticky_filter_heavygirl</tag>
 	</component>
-	<component type="hair" id="1121" path="1121" name="1121" thumb="thumbnail.swf" money="0" sharing="0" enable="N" split="N">
+	<component type="hair" id="1121" path="1121" name="1121" thumb="thumbnail.swf" money="0" sharing="0" enable="Y" split="N">
 		<state id="side_default" filename="side_default.swf"/>
 		<state id="front_default" filename="front_default.swf"/>
 		<tag>_sticky_filter_guy</tag>
 		<tag>_sticky_filter_littleboy</tag>
 	</component>
-	<component type="hair" id="1122" path="1122" name="1122" thumb="thumbnail.swf" money="0" sharing="0" enable="N" split="N">
+	<component type="hair" id="1122" path="1122" name="1122" thumb="thumbnail.swf" money="0" sharing="0" enable="Y" split="N">
 		<state id="side_default" filename="side_default.swf"/>
 		<state id="front_default" filename="front_default.swf"/>
 		<tag>_sticky_filter_littlegirl</tag>
@@ -25367,7 +25367,7 @@
 		<state id="front_default" filename="front_default.swf"/>
 		<tag>_sticky_filter_girl</tag>
 	</component>
-	<component type="hair" id="1125" path="1125" name="1125" thumb="thumbnail.swf" money="0" sharing="0" enable="N" split="N">
+	<component type="hair" id="1125" path="1125" name="1125" thumb="thumbnail.swf" money="0" sharing="0" enable="Y" split="N">
 		<state id="side_default" filename="side_default.swf"/>
 		<state id="front_default" filename="front_default.swf"/>
 		<tag>_sticky_filter_guy</tag>
@@ -25646,7 +25646,7 @@
 		<tag>_sticky_filter_girl</tag>
 		<tag>_sticky_filter_guy</tag>
 	</component>
-	<component type="hair" id="1161" path="1161" name="1161" thumb="thumbnail.swf" money="0" sharing="0" enable="N" split="N">
+	<component type="hair" id="1161" path="1161" name="1161" thumb="thumbnail.swf" money="0" sharing="0" enable="Y" split="N">
 		<state id="side_default" filename="side_default.swf"/>
 		<state id="front_default" filename="front_default.swf"/>
 		<tag>_sticky_filter_girl</tag>
@@ -26139,7 +26139,7 @@
 		<tag>_sticky_filter_littlegirl</tag>
 		<tag>_sticky_filter_heavyguy</tag>
 	</component>
-	<component type="mouth" id="001" path="001" name="001" thumb="thumbnail.swf" money="0" sharing="0" enable="N">
+	<component type="mouth" id="001" path="001" name="001" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="front_surprised" filename="front_surprised.swf"/>
 		<state id="side_surprised" filename="side_surprised.swf"/>
 		<state id="front_shocked" filename="front_shocked.swf"/>
@@ -26163,7 +26163,7 @@
 		<state id="front_scheme" filename="front_scheme.swf"/>
 		<state id="side_scheme" filename="side_scheme.swf"/>
 	</component>
-	<component type="mouth" id="002" path="002" name="002" thumb="thumbnail.swf" money="0" sharing="0" enable="N">
+	<component type="mouth" id="002" path="002" name="002" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="front_surprised" filename="front_surprised.swf"/>
 		<state id="side_surprised" filename="side_surprised.swf"/>
 		<state id="front_shocked" filename="front_shocked.swf"/>
@@ -26187,7 +26187,7 @@
 		<state id="front_scheme" filename="front_scheme.swf"/>
 		<state id="side_scheme" filename="side_scheme.swf"/>
 	</component>
-	<component type="mouth" id="003" path="003" name="003" thumb="thumbnail.swf" money="0" sharing="0" enable="N">
+	<component type="mouth" id="003" path="003" name="003" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="front_surprised" filename="front_surprised.swf"/>
 		<state id="side_surprised" filename="side_surprised.swf"/>
 		<state id="front_shocked" filename="front_shocked.swf"/>
@@ -26211,7 +26211,7 @@
 		<state id="front_scheme" filename="front_scheme.swf"/>
 		<state id="side_scheme" filename="side_scheme.swf"/>
 	</component>
-	<component type="mouth" id="004" path="004" name="004" thumb="thumbnail.swf" money="0" sharing="0" enable="N">
+	<component type="mouth" id="004" path="004" name="004" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="front_surprised" filename="front_surprised.swf"/>
 		<state id="side_surprised" filename="side_surprised.swf"/>
 		<state id="front_shocked" filename="front_shocked.swf"/>
@@ -26715,7 +26715,7 @@
 		<tag>_sticky_filter_heavyguy</tag>
 		<tag>_sticky_filter_heavygirl</tag>
 	</component>
-	<component type="mouth" id="1024" path="1024" name="1024" thumb="thumbnail.swf" money="0" sharing="0" enable="N">
+	<component type="mouth" id="1024" path="1024" name="1024" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="front_surprised" filename="front_surprised.swf"/>
 		<state id="side_surprised" filename="side_surprised.swf"/>
 		<state id="front_shocked" filename="front_shocked.swf"/>
@@ -26741,7 +26741,7 @@
 		<tag>_sticky_filter_girl</tag>
 		<tag>_sticky_filter_heavygirl</tag>
 	</component>
-	<component type="mouth" id="1025" path="1025" name="1025" thumb="thumbnail.swf" money="0" sharing="0" enable="N">
+	<component type="mouth" id="1025" path="1025" name="1025" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="front_surprised" filename="front_surprised.swf"/>
 		<state id="side_surprised" filename="side_surprised.swf"/>
 		<state id="front_shocked" filename="front_shocked.swf"/>
@@ -27250,27 +27250,27 @@
 		<tag>_sticky_filter_littlegirl</tag>
 		<tag>_sticky_filter_heavyguy</tag>
 	</component>
-	<component type="nose" id="001" path="001" name="001" thumb="thumbnail.swf" money="0" sharing="0" enable="N">
+	<component type="nose" id="001" path="001" name="001" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="front_default" filename="front_default.swf"/>
 		<state id="side_default" filename="side_default.swf"/>
 	</component>
-	<component type="nose" id="002" path="002" name="002" thumb="thumbnail.swf" money="0" sharing="0" enable="N">
+	<component type="nose" id="002" path="002" name="002" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="front_default" filename="front_default.swf"/>
 		<state id="side_default" filename="side_default.swf"/>
 	</component>
-	<component type="nose" id="003" path="003" name="003" thumb="thumbnail.swf" money="0" sharing="0" enable="N">
+	<component type="nose" id="003" path="003" name="003" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="front_default" filename="front_default.swf"/>
 		<state id="side_default" filename="side_default.swf"/>
 	</component>
-	<component type="nose" id="004" path="004" name="004" thumb="thumbnail.swf" money="0" sharing="0" enable="N">
+	<component type="nose" id="004" path="004" name="004" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="front_default" filename="front_default.swf"/>
 		<state id="side_default" filename="side_default.swf"/>
 	</component>
-	<component type="nose" id="005" path="005" name="005" thumb="thumbnail.swf" money="0" sharing="0" enable="N">
+	<component type="nose" id="005" path="005" name="005" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="front_default" filename="front_default.swf"/>
 		<state id="side_default" filename="side_default.swf"/>
 	</component>
-	<component type="nose" id="006" path="006" name="006" thumb="thumbnail.swf" money="0" sharing="0" enable="N">
+	<component type="nose" id="006" path="006" name="006" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="front_default" filename="front_default.swf"/>
 		<state id="side_default" filename="side_default.swf"/>
 	</component>
@@ -27404,7 +27404,7 @@
 		<tag>_sticky_filter_heavyguy</tag>
 		<tag>_sticky_filter_heavygirl</tag>
 	</component>
-	<component type="nose" id="1017" path="1017" name="1017" thumb="thumbnail.swf" money="0" sharing="0" enable="N" split="N">
+	<component type="nose" id="1017" path="1017" name="1017" thumb="thumbnail.swf" money="0" sharing="0" enable="Y" split="N">
 		<state id="side_default" filename="side_default.swf"/>
 		<state id="front_default" filename="front_default.swf"/>
 		<tag>_sticky_filter_guy</tag>
@@ -27442,13 +27442,13 @@
 		<tag>_sticky_filter_girl</tag>
 	</component>
 
-	<component type="facedecoration" id="001" path="001" name="001" thumb="thumbnail.swf" money="0" sharing="0" enable="N">
+	<component type="facedecoration" id="001" path="001" name="001" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="front_default" filename="front_default.swf"/>
 		<state id="side_default" filename="side_default.swf"/>
 	</component>
 
 	<!-- New -->
-	<component type="facedecoration" id="1001" path="1001" name="1001" thumb="thumbnail.swf" money="0" sharing="0" enable="N">
+	<component type="facedecoration" id="1001" path="1001" name="1001" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="front_default" filename="front_default.swf"/>
 		<state id="side_default" filename="side_default.swf"/>
 		<tag>_sticky_filter_guy</tag>
@@ -27456,7 +27456,7 @@
 		<tag>_sticky_filter_heavyguy</tag>
 		<tag>_sticky_filter_heavygirl</tag>
 	</component>
-	<component type="facedecoration" id="1002" path="1002" name="1002" thumb="thumbnail.swf" money="0" sharing="0" enable="N">
+	<component type="facedecoration" id="1002" path="1002" name="1002" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="front_default" filename="front_default.swf"/>
 		<state id="side_default" filename="side_default.swf"/>
 		<tag>_sticky_filter_guy</tag>
@@ -27464,7 +27464,7 @@
 		<tag>_sticky_filter_heavyguy</tag>
 		<tag>_sticky_filter_heavygirl</tag>
 	</component>
-	<component type="facedecoration" id="1003" path="1003" name="1003" thumb="thumbnail.swf" money="0" sharing="0" enable="N">
+	<component type="facedecoration" id="1003" path="1003" name="1003" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="front_default" filename="front_default.swf"/>
 		<state id="side_default" filename="side_default.swf"/>
 		<tag>_sticky_filter_guy</tag>
@@ -27476,7 +27476,7 @@
 		<tag>_sticky_filter_guy</tag>
 		<tag>_sticky_filter_heavyguy</tag>
 	</component>
-	<component type="facedecoration" id="1005" path="1005" name="1005" thumb="thumbnail.swf" money="0" sharing="0" enable="N">
+	<component type="facedecoration" id="1005" path="1005" name="1005" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="front_default" filename="front_default.swf"/>
 		<state id="side_default" filename="side_default.swf"/>
 		<tag>_sticky_filter_guy</tag>
@@ -27521,61 +27521,61 @@
 		<tag>_sticky_filter_heavyguy</tag>
 		<tag>_sticky_filter_heavygirl</tag>
 	</component>
-	<component type="facedecoration" id="1012" path="1012" name="1012" thumb="thumbnail.swf" money="0" sharing="0" enable="N">
+	<component type="facedecoration" id="1012" path="1012" name="1012" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="front_default" filename="front_default.swf"/>
 		<state id="side_default" filename="side_default.swf"/>
 		<tag>_sticky_filter_guy</tag>
 		<tag>_sticky_filter_girl</tag>
 	</component>
-	<component type="facedecoration" id="1013" path="1013" name="1013" thumb="thumbnail.swf" money="0" sharing="0" enable="N">
+	<component type="facedecoration" id="1013" path="1013" name="1013" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="front_default" filename="front_default.swf"/>
 		<state id="side_default" filename="side_default.swf"/>
 		<tag>_sticky_filter_guy</tag>
 		<tag>_sticky_filter_girl</tag>
 	</component>
-	<component type="facedecoration" id="1014" path="1014" name="1014" thumb="thumbnail.swf" money="0" sharing="0" enable="N">
+	<component type="facedecoration" id="1014" path="1014" name="1014" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="front_default" filename="front_default.swf"/>
 		<state id="side_default" filename="side_default.swf"/>
 		<tag>_sticky_filter_guy</tag>
 		<tag>_sticky_filter_girl</tag>
 	</component>
-	<component type="facedecoration" id="1015" path="1015" name="1015" thumb="thumbnail.swf" money="0" sharing="0" enable="N">
+	<component type="facedecoration" id="1015" path="1015" name="1015" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="front_default" filename="front_default.swf"/>
 		<state id="side_default" filename="side_default.swf"/>
 		<tag>_sticky_filter_guy</tag>
 		<tag>_sticky_filter_girl</tag>
 	</component>
-	<component type="facedecoration" id="1016" path="1016" name="1016" thumb="thumbnail.swf" money="0" sharing="0" enable="N">
+	<component type="facedecoration" id="1016" path="1016" name="1016" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="front_default" filename="front_default.swf"/>
 		<state id="side_default" filename="side_default.swf"/>
 		<tag>_sticky_filter_guy</tag>
 		<tag>_sticky_filter_girl</tag>
 	</component>
-	<component type="facedecoration" id="1017" path="1017" name="1017" thumb="thumbnail.swf" money="0" sharing="0" enable="N">
+	<component type="facedecoration" id="1017" path="1017" name="1017" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="front_default" filename="front_default.swf"/>
 		<state id="side_default" filename="side_default.swf"/>
 		<tag>_sticky_filter_guy</tag>
 		<tag>_sticky_filter_girl</tag>
 	</component>
-	<component type="facedecoration" id="1018" path="1018" name="1018" thumb="thumbnail.swf" money="0" sharing="0" enable="N">
+	<component type="facedecoration" id="1018" path="1018" name="1018" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="front_default" filename="front_default.swf"/>
 		<state id="side_default" filename="side_default.swf"/>
 		<tag>_sticky_filter_guy</tag>
 		<tag>_sticky_filter_girl</tag>
 	</component>
-	<component type="facedecoration" id="1019" path="1019" name="1019" thumb="thumbnail.swf" money="0" sharing="0" enable="N">
+	<component type="facedecoration" id="1019" path="1019" name="1019" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="front_default" filename="front_default.swf"/>
 		<state id="side_default" filename="side_default.swf"/>
 		<tag>_sticky_filter_guy</tag>
 		<tag>_sticky_filter_girl</tag>
 	</component>
-	<component type="facedecoration" id="1020" path="1020" name="1020" thumb="thumbnail.swf" money="0" sharing="0" enable="N">
+	<component type="facedecoration" id="1020" path="1020" name="1020" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="front_default" filename="front_default.swf"/>
 		<state id="side_default" filename="side_default.swf"/>
 		<tag>_sticky_filter_guy</tag>
 		<tag>_sticky_filter_girl</tag>
 	</component>
-	<component type="facedecoration" id="1021" path="1021" name="1021" thumb="thumbnail.swf" money="0" sharing="0" enable="N">
+	<component type="facedecoration" id="1021" path="1021" name="1021" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="front_default" filename="front_default.swf"/>
 		<state id="side_default" filename="side_default.swf"/>
 		<tag>_sticky_filter_guy</tag>
@@ -27786,7 +27786,7 @@
 		<state id="side_default" filename="side_default.swf"/>
 		<tag>_sticky_filter_guy</tag>
 	</component>
-	<component type="facedecoration" id="1050" path="1050" name="1050" thumb="thumbnail.swf" money="0" sharing="0" enable="N" split="N">
+	<component type="facedecoration" id="1050" path="1050" name="1050" thumb="thumbnail.swf" money="0" sharing="0" enable="Y" split="N">
 		<state id="side_default" filename="side_default.swf"/>
 		<state id="front_default" filename="front_default.swf"/>
 		<tag>_sticky_filter_guy</tag>
@@ -27796,7 +27796,7 @@
 		<tag>_sticky_filter_heavyguy</tag>
 		<tag>_sticky_filter_girl</tag>
 	</component>
-	<component type="facedecoration" id="1051" path="1051" name="1051" thumb="thumbnail.swf" money="0" sharing="0" enable="N" split="N">
+	<component type="facedecoration" id="1051" path="1051" name="1051" thumb="thumbnail.swf" money="0" sharing="0" enable="Y" split="N">
 		<state id="side_default" filename="side_default.swf"/>
 		<state id="front_default" filename="front_default.swf"/>
 		<tag>_userrole_admin</tag>
@@ -27920,7 +27920,7 @@
 		<tag>_sticky_filter_girl</tag>
 		<tag>_sticky_filter_heavyguy</tag>
 	</component>
-	<component type="glasses" id="001" path="001" name="001" thumb="thumbnail.swf" money="0" sharing="0" enable="N">
+	<component type="glasses" id="001" path="001" name="001" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="front_default" filename="front_default.swf"/>
 		<state id="side_default" filename="side_default.swf"/>
 	</component>
