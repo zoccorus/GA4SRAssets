@@ -12038,6 +12038,18 @@
     <component type="faceshape" id="015" path="015" name="015" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
         <state id="default" filename="default.swf"/>
     </component>
+    <component type="ear" id="002a" path="002a" name="002a" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+        <state id="default" filename="default.swf"/>
+    </component>
+    <component type="ear" id="001a" path="001a" name="001a" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+        <state id="default" filename="default.swf"/>
+    </component>
+    <component type="ear" id="003a" path="003a" name="003a" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+        <state id="default" filename="default.swf"/>
+    </component>
+    <component type="ear" id="004a" path="004a" name="004a" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+        <state id="default" filename="default.swf"/>
+    </component>
     <component type="glasses" id="002" path="002" name="002" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
         <state id="default" filename="default.swf"/>
     </component>
@@ -12667,6 +12679,62 @@
         <state id="taunt" filename="taunt.swf"/>
         <state id="yawn" filename="yawn.swf"/>
     </component>
+    <component type="eyebrow" id="001a" path="001a" name="001a" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+        <state id="angry" filename="angry.swf"/>
+        <state id="cry" filename="sad.swf"/>
+        <state id="default" filename="default.swf"/>
+        <state id="disgusted" filename="disgusted.swf"/>
+        <state id="happy" filename="happy.swf"/>
+        <state id="sad" filename="sad.swf"/>
+        <state id="schemeing" filename="schemeing.swf"/>
+        <state id="shock" filename="shock.swf"/>
+        <state id="sick" filename="sad.swf"/>
+        <state id="surprised" filename="shock.swf"/>
+        <state id="talk" filename="talk.swf"/>
+        <state id="yawn" filename="sad.swf"/>
+    </component>
+    <component type="eyebrow" id="003a" path="003a" name="003a" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+        <state id="angry" filename="angry.swf"/>
+        <state id="cry" filename="sad.swf"/>
+        <state id="default" filename="default.swf"/>
+        <state id="disgusted" filename="disgusted.swf"/>
+        <state id="happy" filename="happy.swf"/>
+        <state id="sad" filename="sad.swf"/>
+        <state id="schemeing" filename="schemeing.swf"/>
+        <state id="shock" filename="shock.swf"/>
+        <state id="sick" filename="sad.swf"/>
+        <state id="surprised" filename="shock.swf"/>
+        <state id="talk" filename="talk.swf"/>
+        <state id="yawn" filename="sad.swf"/>
+    </component>
+    <component type="eyebrow" id="002a" path="002a" name="002a" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+        <state id="angry" filename="angry.swf"/>
+        <state id="cry" filename="sad.swf"/>
+        <state id="default" filename="default.swf"/>
+        <state id="disgusted" filename="disgusted.swf"/>
+        <state id="happy" filename="happy.swf"/>
+        <state id="sad" filename="sad.swf"/>
+        <state id="schemeing" filename="schemeing.swf"/>
+        <state id="shock" filename="shock.swf"/>
+        <state id="sick" filename="sad.swf"/>
+        <state id="surprised" filename="shock.swf"/>
+        <state id="talk" filename="talk.swf"/>
+        <state id="yawn" filename="sad.swf"/>
+    </component>
+    <component type="eyebrow" id="004a" path="004a" name="004a" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+        <state id="angry" filename="angry.swf"/>
+        <state id="cry" filename="sad.swf"/>
+        <state id="default" filename="default.swf"/>
+        <state id="disgusted" filename="disgusted.swf"/>
+        <state id="happy" filename="happy.swf"/>
+        <state id="sad" filename="sad.swf"/>
+        <state id="schemeing" filename="angry.swf"/>
+        <state id="shock" filename="shock.swf"/>
+        <state id="sick" filename="sad.swf"/>
+        <state id="surprised" filename="shock.swf"/>
+        <state id="talk" filename="talk.swf"/>
+        <state id="yawn" filename="sad.swf"/>
+    </component>
     <component type="mustache" id="002" path="002" name="002" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
         <state id="default" filename="default.swf"/>
     </component>
@@ -12881,6 +12949,30 @@
         <state id="default" filename="default.swf"/>
     </component>
     <component type="faceshape" id="2011" path="2011" name="2011" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+        <state id="default" filename="default.swf"/>
+    </component>
+    <component type="faceshape" id="003c" path="003c" name="003c" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+        <state id="default" filename="default.swf"/>
+    </component>
+    <component type="faceshape" id="002c" path="002c" name="002c" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+        <state id="default" filename="default.swf"/>
+    </component>
+    <component type="faceshape" id="004c" path="004c" name="004c" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+        <state id="default" filename="default.swf"/>
+    </component>
+    <component type="faceshape" id="005c" path="005c" name="005c" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+        <state id="default" filename="default.swf"/>
+    </component>
+    <component type="faceshape" id="008c" path="008c" name="008c" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+        <state id="default" filename="default.swf"/>
+    </component>
+    <component type="faceshape" id="001c" path="001c" name="001c" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+        <state id="default" filename="default.swf"/>
+    </component>
+    <component type="faceshape" id="006c" path="006c" name="006c" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+        <state id="default" filename="default.swf"/>
+    </component>
+    <component type="faceshape" id="007c" path="007c" name="007c" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
         <state id="default" filename="default.swf"/>
     </component>
     <component type="glasses" id="013" path="013" name="013" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
