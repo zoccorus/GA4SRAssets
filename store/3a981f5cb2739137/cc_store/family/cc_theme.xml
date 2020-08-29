@@ -109,6 +109,7 @@
         <choice>0x360202</choice>
         <choice>0x000000</choice>
     </color>
+<!--
     <color r="ccUpperMain" oc="0x336699" component_type="upper_body" enable="Y">
         <choice>0xFFFFFF</choice>
         <choice>0x428247</choice>
@@ -132,6 +133,31 @@
         <choice>0x7B6B15</choice>
         <choice>0x2D5F0C</choice>
         <choice>0x116BA4</choice>
+    </color>
+-->
+    <color r="ccUpperMain" oc="0x456789" component_type="upper_body" enable="Y">
+        <choice>0xADC62E</choice>
+        <choice>0xCC5A2F</choice>
+        <choice>0xB72A55</choice>
+        <choice>0x7E2323</choice>
+    </color>
+    <color r="ccUpperMinor" oc="0xABCDEF" component_type="upper_body" enable="Y">
+        <choice>0x75B92B</choice>
+        <choice>0xB27629</choice>
+        <choice>0xFAF1A7</choice>
+        <choice>0x112233</choice>
+    </color>
+    <color r="ccLowerMain" oc="0x654321" component_type="lower_body" enable="Y">
+        <choice>0xA0874E</choice>
+        <choice>0x218D5C</choice>
+        <choice>0x216A7F</choice>
+        <choice>0x422943</choice>
+    </color>
+    <color r="ccLowerMinor" oc="0xCCBBAA" component_type="lower_body" enable="Y">
+        <choice>0xCCBBAA</choice>
+        <choice>0x74947B</choice>
+        <choice>0x756C85</choice>
+        <choice>0x43342C</choice>
     </color>
     <color r="ccDecMajor" component_type="facedecoration" enable="Y">
         <choice>0xFFFFFF</choice>
