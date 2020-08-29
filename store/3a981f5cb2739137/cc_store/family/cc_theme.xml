@@ -133,6 +133,7 @@
         <choice>0x2D5F0C</choice>
         <choice>0x116BA4</choice>
     </color>
+<!--
     <color r="ccUpperMain" oc="0x456789" component_type="upper_body" enable="Y">
         <choice>0xADC62E</choice>
         <choice>0xCC5A2F</choice>
@@ -157,6 +158,7 @@
         <choice>0x756C85</choice>
         <choice>0x43342C</choice>
     </color>
+-->
     <color r="ccDecMajor" component_type="facedecoration" enable="Y">
         <choice>0xFFFFFF</choice>
         <choice>0xC1BFB8</choice>
