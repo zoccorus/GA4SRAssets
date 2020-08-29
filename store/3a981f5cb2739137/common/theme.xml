@@ -15787,7 +15787,7 @@
     <state id="sagp_car.swf" name="Outside" enable="Y" default="Y"/>
     <state id="sagp_car_inside.swf" name="Inside" enable="Y"/>
   </prop>
-  <prop id="msp_userlogos" name="Logo Pack" holdable="0" placeable="1" wearable="0" facing="left" thumb="sagp_car.swf" enable="Y" is_premium="N" aid="10469" money="0" sharing="0">
+  <prop id="msp_userlogos" name="Logo Pack" holdable="0" placeable="1" wearable="0" facing="left" thumb="thumbnail.swf" enable="Y" is_premium="N" aid="10469" money="0" sharing="0">
     <state id="Kirby_Logo.swf" name="Kirby" enable="Y" default="Y"/>
     <state id="SamCraft_10 Logo.swf" name="SamCraft Logo" enable="Y"/>
     <state id="SuperYoshiAnthony_Logo.swf" name="SuperYoshiAnthony Logo" enable="Y"/>
