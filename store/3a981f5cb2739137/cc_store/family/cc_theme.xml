@@ -11817,6 +11817,8 @@
         <state id="sick" filename="sick.swf"/>
         <state id="surprised" filename="surprised.swf"/>
         <state id="talk" filename="talk.swf"/>
+	<state id="think" filename="think.swf"/>
+	<state id="wtf" filename="wtf.swf"/>
         <state id="yawn" filename="yawn.swf"/>
     </component>
     <component type="eyebrow" id="105" path="105" name="105" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
@@ -11831,6 +11833,8 @@
         <state id="sick" filename="sick.swf"/>
         <state id="surprised" filename="surprised.swf"/>
         <state id="talk" filename="talk.swf"/>
+	<state id="think" filename="think.swf"/>
+	<state id="wtf" filename="wtf.swf"/>
         <state id="yawn" filename="yawn.swf"/>
     </component>
     <component type="eyebrow" id="106" path="106" name="106" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
@@ -11845,6 +11849,8 @@
         <state id="sick" filename="sick.swf"/>
         <state id="surprised" filename="surprised.swf"/>
         <state id="talk" filename="talk.swf"/>
+	<state id="think" filename="think.swf"/>
+	<state id="wtf" filename="wtf.swf"/>
         <state id="yawn" filename="yawn.swf"/>
     </component>
     <component type="eyebrow" id="107" path="107" name="107" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
@@ -11859,6 +11865,8 @@
         <state id="sick" filename="sick.swf"/>
         <state id="surprised" filename="surprised.swf"/>
         <state id="talk" filename="talk.swf"/>
+	<state id="think" filename="think.swf"/>
+	<state id="wtf" filename="wtf.swf"/>
         <state id="yawn" filename="yawn.swf"/>
     </component>
     <component type="eyebrow" id="108" path="108" name="108" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
@@ -11873,6 +11881,8 @@
         <state id="sick" filename="sick.swf"/>
         <state id="surprised" filename="surprised.swf"/>
         <state id="talk" filename="talk.swf"/>
+	<state id="think" filename="think.swf"/>
+	<state id="wtf" filename="wtf.swf"/>
         <state id="yawn" filename="yawn.swf"/>
     </component>
     <component type="eyebrow" id="103" path="103" name="103" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
@@ -11887,6 +11897,8 @@
         <state id="sick" filename="sick.swf"/>
         <state id="surprised" filename="surprised.swf"/>
         <state id="talk" filename="talk.swf"/>
+	<state id="think" filename="think.swf"/>
+	<state id="wtf" filename="wtf.swf"/>
         <state id="yawn" filename="yawn.swf"/>
     </component>
     <component type="eyebrow" id="102" path="102" name="102" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
@@ -11901,6 +11913,8 @@
         <state id="sick" filename="sick.swf"/>
         <state id="surprised" filename="surprised.swf"/>
         <state id="talk" filename="talk.swf"/>
+	<state id="think" filename="think.swf"/>
+	<state id="wtf" filename="wtf.swf"/>
         <state id="yawn" filename="yawn.swf"/>
     </component>
     <component type="eyebrow" id="002" path="002" name="002" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
@@ -11915,6 +11929,8 @@
         <state id="sick" filename="sick.swf"/>
         <state id="surprised" filename="surprised.swf"/>
         <state id="talk" filename="talk.swf"/>
+	<state id="think" filename="think.swf"/>
+	<state id="wtf" filename="wtf.swf"/>
         <state id="yawn" filename="yawn.swf"/>
     </component>
     <component type="eyebrow" id="001" path="001" name="001" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
@@ -11929,6 +11945,8 @@
         <state id="sick" filename="sick.swf"/>
         <state id="surprised" filename="surprised.swf"/>
         <state id="talk" filename="talk.swf"/>
+	<state id="think" filename="think.swf"/>
+	<state id="wtf" filename="wtf.swf"/>
         <state id="yawn" filename="yawn.swf"/>
     </component>
     <component type="eyebrow" id="003" path="003" name="003" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
@@ -11943,6 +11961,8 @@
         <state id="sick" filename="sick.swf"/>
         <state id="surprised" filename="surprised.swf"/>
         <state id="talk" filename="talk.swf"/>
+	<state id="think" filename="think.swf"/>
+	<state id="wtf" filename="wtf.swf"/>
         <state id="yawn" filename="yawn.swf"/>
     </component>
     <component type="eyebrow" id="101" path="101" name="101" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
@@ -11957,6 +11977,8 @@
         <state id="sick" filename="sick.swf"/>
         <state id="surprised" filename="surprised.swf"/>
         <state id="talk" filename="talk.swf"/>
+	<state id="think" filename="think.swf"/>
+	<state id="wtf" filename="wtf.swf"/>
         <state id="yawn" filename="yawn.swf"/>
     </component>
     <component type="eyebrow" id="004" path="004" name="004" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
@@ -11971,6 +11993,8 @@
         <state id="sick" filename="sick.swf"/>
         <state id="surprised" filename="surprised.swf"/>
         <state id="talk" filename="talk.swf"/>
+	<state id="think" filename="think.swf"/>
+	<state id="wtf" filename="wtf.swf"/>
         <state id="yawn" filename="yawn.swf"/>
     </component>
     <component type="eyebrow" id="104" path="104" name="104" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
@@ -11985,6 +12009,8 @@
         <state id="sick" filename="sick.swf"/>
         <state id="surprised" filename="surprised.swf"/>
         <state id="talk" filename="talk.swf"/>
+	<state id="think" filename="think.swf"/>
+	<state id="wtf" filename="wtf.swf"/>
         <state id="yawn" filename="yawn.swf"/>
     </component>
     <component type="eyebrow" id="109" path="109" name="109" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
@@ -11999,6 +12025,8 @@
         <state id="sick" filename="sick.swf"/>
         <state id="surprised" filename="surprised.swf"/>
         <state id="talk" filename="talk.swf"/>
+	<state id="think" filename="think.swf"/>
+	<state id="wtf" filename="wtf.swf"/>
         <state id="yawn" filename="yawn.swf"/>
     </component>
     <component type="faceshape" id="000" path="000" name="000" thumb="thumbnail.swf" money="0" sharing="0" enable="Y" random_able="N">
