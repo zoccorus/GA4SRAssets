@@ -12379,6 +12379,9 @@
     <component type="hair" id="017" path="017" name="017" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
         <state id="default" filename="default.swf"/>
     </component>
+    <component type="hair" id="017c" path="017c" name="017c" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+        <state id="default" filename="default.swf"/>
+    </component>
     <component type="hair" id="042" path="042" name="042" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
         <state id="default" filename="default.swf"/>
     </component>
