@@ -769,6 +769,13 @@
   <background name="Starry Night" id="Night_Starry.png" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
   <background name="Temecula Townsvile Ruined" id="Temecula Townsvile Ruined.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
   <background name="SageAwesomeGoAniPicScope Galaxy" id="SageAwesomeGoAniPicScope_Galaxy.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Daytime New Home" id="Daytime_New_Home.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Afternoon New Home" id="Afternoon_New_Home.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Evening New Home" id="Evening_New_Home.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Nighttime Rise New Home" id="NighttimeRise_New_Home.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Nighttime Mid New Home" id="NighttimeMid_New_Home.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Nighttime Set New Home" id="NighttimeSet_New_Home.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
+  <background name="Morning New Home" id="Morning_New_Home.jpg" sharing="0" money="0" aid="12448" is_premium="N" default="N" enable="Y"/>
    <prop id="back.swf" name="Background" holdable="0" placeable="1" facing="left" thumb="" enable="Y" is_premium="N" aid="1030" money="0" sharing="0"/>
    <prop id="knife.swf" name="Knife" holdable="1" placeable="1" facing="left" thumb="" enable="Y" is_premium="N" aid="1030" money="0" sharing="0"/>
    <prop id="piss.swf" name="Pissed Meal" holdable="1" placeable="1" facing="left" thumb="" enable="Y" is_premium="N" aid="1030" money="0" sharing="0"/>
