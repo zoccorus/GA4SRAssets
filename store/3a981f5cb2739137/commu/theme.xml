@@ -839,6 +839,7 @@
   <prop id="Wave side curl shadow.swf" name="Wave Side Curl Shadow" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="1037" money="0" sharing="0"/>
   <prop id="Wave side curl.swf" name="Wave Side Curl" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="1037" money="0" sharing="0"/>
   <prop id="Wave side foam.swf" name="Wave Side Foam" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="1037" money="0" sharing="0"/>
+  <prop id="Picture 13.PNG" name="Picture 13" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="1037" money="0" sharing="0"/>
   <effect id="dim.swf" type="ANIME" resize="false" move="false" name="Dim" enable="Y" is_premium="N" aid="1216" money="0" sharing="0" display_order="0"/>
   <effect id="spraypaint.swf" type="ANIME" resize="false" move="false" name="Spraypaint" enable="Y" is_premium="N" aid="1217" money="0" sharing="0" display_order="0"/>
   </theme>
