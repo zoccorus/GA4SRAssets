@@ -2096,6 +2096,12 @@
             <selection type="skeleton" state_id="excited"/>
             <selection type="upper_body" state_id="excited"/>
         </action>
+        <action id="jump" name="Jump" loop="Y" totalframe="80" enable="Y" category="exercising" is_motion="N">
+            <selection type="facial" facial_id="head_neutral"/>
+            <selection type="lower_body" state_id="jump"/>
+            <selection type="skeleton" state_id="stand"/>
+            <selection type="upper_body" state_id="jump"/>
+        </action>
         <action id="furious" name="Furious" loop="Y" totalframe="80" enable="Y" category="emotion" is_motion="N">
             <selection type="facial" facial_id="head_angry"/>
             <selection type="lower_body" state_id="laugh"/>
@@ -2499,6 +2505,7 @@
             <state id="default" filename="default.swf"/>
             <state id="excited" filename="excited.swf"/>
             <state id="fearful" filename="fearful.swf"/>
+	    <state id="jump" filename="excited.swf"/>
             <state id="kneel_down" filename="kneel_down.swf"/>
             <state id="laugh" filename="laugh.swf"/>
             <state id="lie_down" filename="lie_down.swf"/>
@@ -2517,6 +2524,7 @@
             <state id="default" filename="default.swf"/>
             <state id="excited" filename="excited.swf"/>
             <state id="fearful" filename="fearful.swf"/>
+	    <state id="jump" filename="run.swf"/>
             <state id="kneel_down" filename="kneel_down.swf"/>
             <state id="laugh" filename="laugh.swf"/>
             <state id="run" filename="run.swf"/>
@@ -2528,6 +2536,7 @@
             <state id="default" filename="default.swf"/>
             <state id="excited" filename="excited.swf"/>
             <state id="fearful" filename="fearful.swf"/>
+	    <state id="jump" filename="run.swf"/>
             <state id="kneel_down" filename="kneel_down.swf"/>
             <state id="laugh" filename="laugh.swf"/>
             <state id="run" filename="run.swf"/>
@@ -2568,6 +2577,7 @@
             <state id="default" filename="default.swf"/>
             <state id="excited" filename="excited.swf"/>
             <state id="fearful" filename="fearful.swf"/>
+            <state id="jump" filename="excited.swf"/>
             <state id="kneel_down" filename="kneel_down.swf"/>
             <state id="laugh" filename="laugh.swf"/>
             <state id="lie_down" filename="lie_down.swf"/>
@@ -2588,6 +2598,7 @@
             <state id="default" filename="default.swf"/>
             <state id="excited" filename="excited.swf"/>
             <state id="fearful" filename="fearful.swf"/>
+	    <state id="jump" filename="excited.swf"/>
             <state id="kneel_down" filename="kneel_down.swf"/>
             <state id="laugh" filename="laugh.swf"/>
             <state id="lie_down" filename="lie_down.swf"/>
@@ -2608,6 +2619,7 @@
             <state id="default" filename="default.swf"/>
             <state id="excited" filename="excited.swf"/>
             <state id="fearful" filename="fearful.swf"/>
+	    <state id="jump" filename="excited.swf"/>
             <state id="kneel_down" filename="kneel_down.swf"/>
             <state id="laugh" filename="laugh.swf"/>
             <state id="lie_down" filename="lie_down.swf"/>
@@ -2626,6 +2638,7 @@
             <state id="default" filename="default.swf"/>
             <state id="excited" filename="excited.swf"/>
             <state id="fearful" filename="fearful.swf"/>
+	    <state id="jump" filename="run.swf"/>
             <state id="kneel_down" filename="kneel_down.swf"/>
             <state id="laugh" filename="laugh.swf"/>
             <state id="run" filename="run.swf"/>
@@ -2637,6 +2650,7 @@
             <state id="default" filename="default.swf"/>
             <state id="excited" filename="excited.swf"/>
             <state id="fearful" filename="fearful.swf"/>
+	    <state id="jump" filename="run.swf"/>
             <state id="kneel_down" filename="kneel_down.swf"/>
             <state id="laugh" filename="laugh.swf"/>
             <state id="run" filename="run.swf"/>
@@ -2648,6 +2662,7 @@
             <state id="default" filename="default.swf"/>
             <state id="excited" filename="excited.swf"/>
             <state id="fearful" filename="fearful.swf"/>
+	    <state id="jump" filename="run.swf"/>
             <state id="kneel_down" filename="kneel_down.swf"/>
             <state id="laugh" filename="laugh.swf"/>
             <state id="run" filename="run.swf"/>
@@ -2659,6 +2674,7 @@
             <state id="default" filename="default.swf"/>
             <state id="excited" filename="excited.swf"/>
             <state id="fearful" filename="fearful.swf"/>
+	    <state id="jump" filename="run.swf"/>
             <state id="kneel_down" filename="kneel_down.swf"/>
             <state id="laugh" filename="laugh.swf"/>
             <state id="run" filename="run.swf"/>
@@ -2670,6 +2686,7 @@
             <state id="default" filename="default.swf"/>
             <state id="excited" filename="excited.swf"/>
             <state id="fearful" filename="fearful.swf"/>
+	    <state id="jump" filename="run.swf"/>
             <state id="kneel_down" filename="kneel_down.swf"/>
             <state id="laugh" filename="laugh.swf"/>
             <state id="run" filename="run.swf"/>
@@ -2681,6 +2698,7 @@
             <state id="default" filename="default.swf"/>
             <state id="excited" filename="excited.swf"/>
             <state id="fearful" filename="fearful.swf"/>
+	    <state id="jump" filename="run.swf"/>
             <state id="kneel_down" filename="kneel_down.swf"/>
             <state id="laugh" filename="laugh.swf"/>
             <state id="run" filename="run.swf"/>
@@ -2692,6 +2710,7 @@
             <state id="default" filename="default.swf"/>
             <state id="excited" filename="excited.swf"/>
             <state id="fearful" filename="fearful.swf"/>
+	    <state id="jump" filename="run.swf"/>
             <state id="kneel_down" filename="kneel_down.swf"/>
             <state id="laugh" filename="laugh.swf"/>
             <state id="run" filename="run.swf"/>
@@ -2703,6 +2722,7 @@
             <state id="default" filename="default.swf"/>
             <state id="excited" filename="excited.swf"/>
             <state id="fearful" filename="fearful.swf"/>
+	    <state id="jump" filename="run.swf"/>
             <state id="kneel_down" filename="kneel_down.swf"/>
             <state id="laugh" filename="laugh.swf"/>
             <state id="run" filename="run.swf"/>
@@ -2714,6 +2734,7 @@
             <state id="default" filename="default.swf"/>
             <state id="excited" filename="excited.swf"/>
             <state id="fearful" filename="fearful.swf"/>
+	    <state id="jump" filename="run.swf"/>
             <state id="kneel_down" filename="kneel_down.swf"/>
             <state id="laugh" filename="laugh.swf"/>
             <state id="run" filename="run.swf"/>
@@ -2725,6 +2746,7 @@
             <state id="default" filename="default.swf"/>
             <state id="excited" filename="excited.swf"/>
             <state id="fearful" filename="fearful.swf"/>
+	    <state id="jump" filename="run.swf"/>
             <state id="kneel_down" filename="kneel_down.swf"/>
             <state id="laugh" filename="laugh.swf"/>
             <state id="run" filename="run.swf"/>
@@ -2736,6 +2758,7 @@
             <state id="default" filename="default.swf"/>
             <state id="excited" filename="excited.swf"/>
             <state id="fearful" filename="fearful.swf"/>
+	    <state id="jump" filename="run.swf"/>
             <state id="kneel_down" filename="kneel_down.swf"/>
             <state id="laugh" filename="laugh.swf"/>
             <state id="run" filename="run.swf"/>
@@ -2747,6 +2770,7 @@
             <state id="default" filename="default.swf"/>
             <state id="excited" filename="excited.swf"/>
             <state id="fearful" filename="fearful.swf"/>
+	    <state id="jump" filename="run.swf"/>
             <state id="kneel_down" filename="kneel_down.swf"/>
             <state id="laugh" filename="laugh.swf"/>
             <state id="run" filename="run.swf"/>
@@ -2758,6 +2782,7 @@
             <state id="default" filename="default.swf"/>
             <state id="excited" filename="excited.swf"/>
             <state id="fearful" filename="fearful.swf"/>
+	    <state id="jump" filename="run.swf"/>
             <state id="kneel_down" filename="kneel_down.swf"/>
             <state id="laugh" filename="laugh.swf"/>
             <state id="run" filename="run.swf"/>
@@ -2769,6 +2794,7 @@
             <state id="default" filename="default.swf"/>
             <state id="excited" filename="excited.swf"/>
             <state id="fearful" filename="fearful.swf"/>
+	    <state id="jump" filename="run.swf"/>
             <state id="kneel_down" filename="kneel_down.swf"/>
             <state id="laugh" filename="laugh.swf"/>
             <state id="run" filename="run.swf"/>
@@ -2780,6 +2806,7 @@
             <state id="default" filename="default.swf"/>
             <state id="excited" filename="excited.swf"/>
             <state id="fearful" filename="fearful.swf"/>
+	    <state id="jump" filename="run.swf"/>
             <state id="kneel_down" filename="kneel_down.swf"/>
             <state id="laugh" filename="laugh.swf"/>
             <state id="run" filename="run.swf"/>
@@ -2791,6 +2818,7 @@
             <state id="default" filename="default.swf"/>
             <state id="excited" filename="excited.swf"/>
             <state id="fearful" filename="fearful.swf"/>
+	    <state id="jump" filename="run.swf"/>
             <state id="kneel_down" filename="kneel_down.swf"/>
             <state id="laugh" filename="laugh.swf"/>
             <state id="run" filename="run.swf"/>
@@ -2802,6 +2830,7 @@
             <state id="default" filename="default.swf"/>
             <state id="excited" filename="excited.swf"/>
             <state id="fearful" filename="fearful.swf"/>
+	    <state id="jump" filename="run.swf"/>
             <state id="kneel_down" filename="kneel_down.swf"/>
             <state id="laugh" filename="laugh.swf"/>
             <state id="run" filename="run.swf"/>
@@ -2813,6 +2842,7 @@
             <state id="default" filename="default.swf"/>
             <state id="excited" filename="excited.swf"/>
             <state id="fearful" filename="fearful.swf"/>
+	    <state id="jump" filename="run.swf"/>
             <state id="kneel_down" filename="kneel_down.swf"/>
             <state id="laugh" filename="laugh.swf"/>
             <state id="run" filename="run.swf"/>
@@ -2824,6 +2854,7 @@
             <state id="default" filename="default.swf"/>
             <state id="excited" filename="excited.swf"/>
             <state id="fearful" filename="fearful.swf"/>
+	    <state id="jump" filename="run.swf"/>
             <state id="kneel_down" filename="kneel_down.swf"/>
             <state id="laugh" filename="laugh.swf"/>
             <state id="run" filename="run.swf"/>
@@ -2835,6 +2866,7 @@
             <state id="default" filename="default.swf"/>
             <state id="excited" filename="excited.swf"/>
             <state id="fearful" filename="fearful.swf"/>
+	    <state id="jump" filename="run.swf"/>
             <state id="kneel_down" filename="kneel_down.swf"/>
             <state id="laugh" filename="laugh.swf"/>
             <state id="run" filename="run.swf"/>
@@ -2846,6 +2878,7 @@
             <state id="default" filename="default.swf"/>
             <state id="excited" filename="excited.swf"/>
             <state id="fearful" filename="fearful.swf"/>
+	    <state id="jump" filename="run.swf"/>
             <state id="kneel_down" filename="kneel_down.swf"/>
             <state id="laugh" filename="laugh.swf"/>
             <state id="run" filename="run.swf"/>
@@ -2857,6 +2890,7 @@
             <state id="default" filename="default.swf"/>
             <state id="excited" filename="excited.swf"/>
             <state id="fearful" filename="fearful.swf"/>
+	    <state id="jump" filename="run.swf"/>
             <state id="kneel_down" filename="kneel_down.swf"/>
             <state id="laugh" filename="laugh.swf"/>
             <state id="run" filename="run.swf"/>
@@ -2868,6 +2902,7 @@
             <state id="default" filename="default.swf"/>
             <state id="excited" filename="excited.swf"/>
             <state id="fearful" filename="fearful.swf"/>
+	    <state id="jump" filename="run.swf"/>
             <state id="kneel_down" filename="kneel_down.swf"/>
             <state id="laugh" filename="laugh.swf"/>
             <state id="run" filename="run.swf"/>
@@ -2879,6 +2914,7 @@
             <state id="default" filename="default.swf"/>
             <state id="excited" filename="excited.swf"/>
             <state id="fearful" filename="fearful.swf"/>
+	    <state id="jump" filename="run.swf"/>
             <state id="kneel_down" filename="kneel_down.swf"/>
             <state id="laugh" filename="laugh.swf"/>
             <state id="run" filename="run.swf"/>
@@ -2890,6 +2926,7 @@
             <state id="default" filename="default.swf"/>
             <state id="excited" filename="excited.swf"/>
             <state id="fearful" filename="fearful.swf"/>
+	    <state id="jump" filename="jump.swf"/>
             <state id="kneel_down" filename="kneel_down.swf"/>
             <state id="laugh" filename="laugh.swf"/>
             <state id="run" filename="run.swf"/>
@@ -2901,6 +2938,7 @@
             <state id="default" filename="default.swf"/>
             <state id="excited" filename="excited.swf"/>
             <state id="fearful" filename="fearful.swf"/>
+	    <state id="jump" filename="run.swf"/>
             <state id="kneel_down" filename="kneel_down.swf"/>
             <state id="laugh" filename="laugh.swf"/>
             <state id="run" filename="run.swf"/>
@@ -2914,6 +2952,7 @@
             <state id="default" filename="default.swf"/>
             <state id="excited" filename="excited.swf"/>
             <state id="fearful" filename="fearful.swf"/>
+	    <state id="jump" filename="excited.swf"/>
             <state id="kneel_down" filename="kneel_down.swf"/>
             <state id="laugh" filename="laugh.swf"/>
             <state id="lie_down" filename="lie_down.swf"/>
@@ -2934,6 +2973,7 @@
             <state id="default" filename="default.swf"/>
             <state id="excited" filename="excited.swf"/>
             <state id="fearful" filename="fearful.swf"/>
+	    <state id="jump" filename="excited.swf"/>
             <state id="kneel_down" filename="kneel_down.swf"/>
             <state id="laugh" filename="laugh.swf"/>
             <state id="lie_down" filename="lie_down.swf"/>
@@ -2954,6 +2994,7 @@
             <state id="default" filename="default.swf"/>
             <state id="excited" filename="excited.swf"/>
             <state id="fearful" filename="fearful.swf"/>
+	    <state id="jump" filename="excited.swf"/>
             <state id="kneel_down" filename="kneel_down.swf"/>
             <state id="laugh" filename="laugh.swf"/>
             <state id="lie_down" filename="lie_down.swf"/>
@@ -2974,6 +3015,7 @@
             <state id="default" filename="default.swf"/>
             <state id="excited" filename="excited.swf"/>
             <state id="fearful" filename="fearful.swf"/>
+	    <state id="jump" filename="excited.swf"/>
             <state id="kneel_down" filename="kneel_down.swf"/>
             <state id="laugh" filename="laugh.swf"/>
             <state id="lie_down" filename="lie_down.swf"/>
@@ -2994,6 +3036,7 @@
             <state id="default" filename="default.swf"/>
             <state id="excited" filename="excited.swf"/>
             <state id="fearful" filename="fearful.swf"/>
+	    <state id="jump" filename="excited.swf"/>
             <state id="kneel_down" filename="kneel_down.swf"/>
             <state id="laugh" filename="laugh.swf"/>
             <state id="lie_down" filename="lie_down.swf"/>
@@ -3014,6 +3057,7 @@
             <state id="default" filename="default.swf"/>
             <state id="excited" filename="excited.swf"/>
             <state id="fearful" filename="fearful.swf"/>
+	    <state id="jump" filename="jump.swf"/>
             <state id="kneel_down" filename="kneel_down.swf"/>
             <state id="laugh" filename="laugh.swf"/>
             <state id="lie_down" filename="lie_down.swf"/>
@@ -3034,6 +3078,7 @@
             <state id="default" filename="default.swf"/>
             <state id="excited" filename="excited.swf"/>
             <state id="fearful" filename="fearful.swf"/>
+	    <state id="jump" filename="excited.swf"/>
             <state id="kneel_down" filename="kneel_down.swf"/>
             <state id="laugh" filename="laugh.swf"/>
             <state id="lie_down" filename="lie_down.swf"/>
@@ -3054,6 +3099,7 @@
             <state id="default" filename="default.swf"/>
             <state id="excited" filename="excited.swf"/>
             <state id="fearful" filename="fearful.swf"/>
+	    <state id="jump" filename="excited.swf"/>
             <state id="kneel_down" filename="kneel_down.swf"/>
             <state id="laugh" filename="laugh.swf"/>
             <state id="lie_down" filename="lie_down.swf"/>
@@ -3074,6 +3120,7 @@
             <state id="default" filename="default.swf"/>
             <state id="excited" filename="excited.swf"/>
             <state id="fearful" filename="fearful.swf"/>
+	    <state id="jump" filename="excited.swf"/>
             <state id="kneel_down" filename="kneel_down.swf"/>
             <state id="laugh" filename="laugh.swf"/>
             <state id="lie_down" filename="lie_down.swf"/>
@@ -3094,6 +3141,7 @@
             <state id="default" filename="default.swf"/>
             <state id="excited" filename="excited.swf"/>
             <state id="fearful" filename="fearful.swf"/>
+	    <state id="jump" filename="excited.swf"/>
             <state id="kneel_down" filename="kneel_down.swf"/>
             <state id="laugh" filename="laugh.swf"/>
             <state id="lie_down" filename="lie_down.swf"/>
@@ -3114,6 +3162,7 @@
             <state id="default" filename="default.swf"/>
             <state id="excited" filename="excited.swf"/>
             <state id="fearful" filename="fearful.swf"/>
+	    <state id="jump" filename="excited.swf"/>
             <state id="kneel_down" filename="kneel_down.swf"/>
             <state id="laugh" filename="laugh.swf"/>
             <state id="lie_down" filename="lie_down.swf"/>
@@ -3134,6 +3183,7 @@
             <state id="default" filename="default.swf"/>
             <state id="excited" filename="excited.swf"/>
             <state id="fearful" filename="fearful.swf"/>
+	    <state id="jump" filename="excited.swf"/>
             <state id="kneel_down" filename="kneel_down.swf"/>
             <state id="laugh" filename="laugh.swf"/>
             <state id="lie_down" filename="lie_down.swf"/>
@@ -3154,6 +3204,7 @@
             <state id="default" filename="default.swf"/>
             <state id="excited" filename="excited.swf"/>
             <state id="fearful" filename="fearful.swf"/>
+	    <state id="jump" filename="excited.swf"/>
             <state id="kneel_down" filename="kneel_down.swf"/>
             <state id="laugh" filename="laugh.swf"/>
             <state id="lie_down" filename="lie_down.swf"/>
@@ -3174,6 +3225,7 @@
             <state id="default" filename="default.swf"/>
             <state id="excited" filename="excited.swf"/>
             <state id="fearful" filename="fearful.swf"/>
+	    <state id="jump" filename="excited.swf"/>
             <state id="kneel_down" filename="kneel_down.swf"/>
             <state id="laugh" filename="laugh.swf"/>
             <state id="lie_down" filename="lie_down.swf"/>
@@ -3194,6 +3246,7 @@
             <state id="default" filename="default.swf"/>
             <state id="excited" filename="excited.swf"/>
             <state id="fearful" filename="fearful.swf"/>
+	    <state id="jump" filename="excited.swf"/>
             <state id="kneel_down" filename="kneel_down.swf"/>
             <state id="laugh" filename="laugh.swf"/>
             <state id="lie_down" filename="lie_down.swf"/>
@@ -3214,6 +3267,7 @@
             <state id="default" filename="default.swf"/>
             <state id="excited" filename="excited.swf"/>
             <state id="fearful" filename="fearful.swf"/>
+	    <state id="jump" filename="excited.swf"/>
             <state id="kneel_down" filename="kneel_down.swf"/>
             <state id="laugh" filename="laugh.swf"/>
             <state id="lie_down" filename="lie_down.swf"/>
@@ -3234,6 +3288,7 @@
             <state id="default" filename="default.swf"/>
             <state id="excited" filename="excited.swf"/>
             <state id="fearful" filename="fearful.swf"/>
+	    <state id="jump" filename="excited.swf"/>
             <state id="kneel_down" filename="kneel_down.swf"/>
             <state id="laugh" filename="laugh.swf"/>
             <state id="lie_down" filename="lie_down.swf"/>
@@ -3254,6 +3309,7 @@
             <state id="default" filename="default.swf"/>
             <state id="excited" filename="excited.swf"/>
             <state id="fearful" filename="fearful.swf"/>
+	    <state id="jump" filename="excited.swf"/>
             <state id="kneel_down" filename="kneel_down.swf"/>
             <state id="laugh" filename="laugh.swf"/>
             <state id="lie_down" filename="lie_down.swf"/>
@@ -3274,6 +3330,7 @@
             <state id="default" filename="default.swf"/>
             <state id="excited" filename="excited.swf"/>
             <state id="fearful" filename="fearful.swf"/>
+	    <state id="jump" filename="excited.swf"/>
             <state id="kneel_down" filename="kneel_down.swf"/>
             <state id="laugh" filename="laugh.swf"/>
             <state id="lie_down" filename="lie_down.swf"/>
@@ -3294,6 +3351,7 @@
             <state id="default" filename="default.swf"/>
             <state id="excited" filename="excited.swf"/>
             <state id="fearful" filename="fearful.swf"/>
+	    <state id="jump" filename="excited.swf"/>
             <state id="kneel_down" filename="kneel_down.swf"/>
             <state id="laugh" filename="laugh.swf"/>
             <state id="lie_down" filename="lie_down.swf"/>
@@ -3314,6 +3372,7 @@
             <state id="default" filename="default.swf"/>
             <state id="excited" filename="excited.swf"/>
             <state id="fearful" filename="fearful.swf"/>
+	    <state id="jump" filename="excited.swf"/>
             <state id="kneel_down" filename="kneel_down.swf"/>
             <state id="laugh" filename="laugh.swf"/>
             <state id="lie_down" filename="lie_down.swf"/>
@@ -3334,6 +3393,7 @@
             <state id="default" filename="default.swf"/>
             <state id="excited" filename="excited.swf"/>
             <state id="fearful" filename="fearful.swf"/>
+	    <state id="jump" filename="excited.swf"/>
             <state id="kneel_down" filename="kneel_down.swf"/>
             <state id="laugh" filename="laugh.swf"/>
             <state id="lie_down" filename="lie_down.swf"/>
@@ -3354,6 +3414,7 @@
             <state id="default" filename="default.swf"/>
             <state id="excited" filename="excited.swf"/>
             <state id="fearful" filename="fearful.swf"/>
+	    <state id="jump" filename="excited.swf"/>
             <state id="kneel_down" filename="kneel_down.swf"/>
             <state id="laugh" filename="laugh.swf"/>
             <state id="lie_down" filename="lie_down.swf"/>
@@ -3374,6 +3435,7 @@
             <state id="default" filename="default.swf"/>
             <state id="excited" filename="excited.swf"/>
             <state id="fearful" filename="fearful.swf"/>
+	    <state id="jump" filename="excited.swf"/>
             <state id="kneel_down" filename="kneel_down.swf"/>
             <state id="laugh" filename="laugh.swf"/>
             <state id="lie_down" filename="lie_down.swf"/>
@@ -3394,6 +3456,7 @@
             <state id="default" filename="default.swf"/>
             <state id="excited" filename="excited.swf"/>
             <state id="fearful" filename="fearful.swf"/>
+	    <state id="jump" filename="excited.swf"/>
             <state id="kneel_down" filename="kneel_down.swf"/>
             <state id="laugh" filename="laugh.swf"/>
             <state id="lie_down" filename="lie_down.swf"/>
@@ -3414,6 +3477,7 @@
             <state id="default" filename="default.swf"/>
             <state id="excited" filename="excited.swf"/>
             <state id="fearful" filename="fearful.swf"/>
+	    <state id="jump" filename="excited.swf"/>
             <state id="kneel_down" filename="kneel_down.swf"/>
             <state id="laugh" filename="laugh.swf"/>
             <state id="lie_down" filename="lie_down.swf"/>
@@ -3434,6 +3498,7 @@
             <state id="default" filename="default.swf"/>
             <state id="excited" filename="excited.swf"/>
             <state id="fearful" filename="fearful.swf"/>
+	    <state id="jump" filename="excited.swf"/>
             <state id="kneel_down" filename="kneel_down.swf"/>
             <state id="laugh" filename="laugh.swf"/>
             <state id="lie_down" filename="lie_down.swf"/>
@@ -3454,6 +3519,7 @@
             <state id="default" filename="default.swf"/>
             <state id="excited" filename="excited.swf"/>
             <state id="fearful" filename="fearful.swf"/>
+	    <state id="jump" filename="excited.swf"/>
             <state id="kneel_down" filename="kneel_down.swf"/>
             <state id="laugh" filename="laugh.swf"/>
             <state id="lie_down" filename="lie_down.swf"/>
