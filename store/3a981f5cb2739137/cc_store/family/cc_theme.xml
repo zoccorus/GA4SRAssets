@@ -15267,6 +15267,9 @@
     <component type="facedecoration" id="1009" path="1009" name="1009" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
         <state id="default" filename="default.swf"/>
     </component>
+    <component type="facedecoration" id="2000" path="2000" name="2000" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+        <state id="default" filename="default.swf"/>
+    </component>
     <component type="facedecoration" id="2001" path="2001" name="2001" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
         <state id="default" filename="default.swf"/>
     </component>
