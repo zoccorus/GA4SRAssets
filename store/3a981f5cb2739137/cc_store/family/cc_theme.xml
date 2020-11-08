@@ -12571,6 +12571,9 @@
     <component type="faceshape" id="002a" path="002a" name="002a" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
         <state id="default" filename="default.swf"/>
     </component>
+    <component type="faceshape" id="002b" path="002b" name="002b" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+        <state id="default" filename="default.swf"/>
+    </component>
     <component type="faceshape" id="033a" path="033a" name="033a" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
         <state id="default" filename="default.swf"/>
     </component>
