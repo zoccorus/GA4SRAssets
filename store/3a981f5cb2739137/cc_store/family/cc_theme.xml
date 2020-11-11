@@ -2512,9 +2512,9 @@
         </action>
         <action id="surprised" name="Surprised" loop="Y" totalframe="60" enable="Y" category="emotion" is_motion="N">
             <selection type="facial" facial_id="head_surprised"/>
-            <selection type="lower_body" state_id="fearful"/>
+            <selection type="lower_body" state_id="default"/>
             <selection type="skeleton" state_id="fearful_02"/>
-            <selection type="upper_body" state_id="fearful"/>
+            <selection type="upper_body" state_id="surprised"/>
         </action>
         <action id="talk" name="Talk 1" loop="Y" totalframe="100" enable="Y" is_motion="N">
             <selection type="facial" facial_id="head_talk_a"/>
@@ -2559,21 +2559,25 @@
             <selection type="upper_body" state_id="run"/>
         </action>
         <component type="upper_body" id="adam_a013" path="adam_a013" name="adam_a013" thumb="thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y">
-            <state id="chuckle" filename="chuckle.swf"/>
+             <state id="chuckle" filename="chuckle.swf"/>
+	    <state id="coolpose" filename="crossed_arms.swf"/>
             <state id="crossed_arms" filename="crossed_arms.swf"/>
             <state id="dance" filename="dance.swf"/>
             <state id="default" filename="default.swf"/>
             <state id="excited" filename="excited.swf"/>
             <state id="fearful" filename="fearful.swf"/>
+	    <state id="handonhip" filename="onhips.swf"/>
 	    <state id="jump" filename="excited.swf"/>
             <state id="kneel_down" filename="kneel_down.swf"/>
             <state id="laugh" filename="laugh.swf"/>
             <state id="lie_down" filename="lie_down.swf"/>
 	    <state id="onhips" filename="onhips.swf"/>
             <state id="point_at" filename="point_at.swf"/>
+	    <state id="point_up" filename="point_at.swf"/>
             <state id="run" filename="run.swf"/>
             <state id="sad" filename="sad.swf"/>
             <state id="sit" filename="sit.swf"/>
+	    <state id="surprised" filename="fearful.swf"/>
             <state id="talk" filename="talk.swf"/>
             <state id="talk_on_phone" filename="talk_on_phone.swf"/>
             <state id="taunt" filename="taunt.swf"/>
@@ -2653,6 +2657,7 @@
             <state id="run" filename="run.swf"/>
             <state id="sad" filename="sad.swf"/>
             <state id="sit" filename="sit.swf"/>
+	    <state id="surprised" filename="fearful.swf"/>
             <state id="talk" filename="talk.swf"/>
             <state id="talk_on_phone" filename="talk_on_phone.swf"/>
             <state id="taunt" filename="taunt.swf"/>
@@ -2677,6 +2682,7 @@
             <state id="run" filename="run.swf"/>
             <state id="sad" filename="sad.swf"/>
             <state id="sit" filename="sit.swf"/>
+	    <state id="surprised" filename="fearful.swf"/>
             <state id="talk" filename="talk.swf"/>
             <state id="talk_on_phone" filename="talk_on_phone.swf"/>
             <state id="taunt" filename="taunt.swf"/>
@@ -2701,6 +2707,7 @@
             <state id="run" filename="run.swf"/>
             <state id="sad" filename="sad.swf"/>
             <state id="sit" filename="sit.swf"/>
+	    <state id="surprised" filename="fearful.swf"/>
             <state id="talk" filename="talk.swf"/>
             <state id="talk_on_phone" filename="talk_on_phone.swf"/>
             <state id="taunt" filename="taunt.swf"/>
@@ -3089,6 +3096,7 @@
             <state id="run" filename="run.swf"/>
             <state id="sad" filename="sad.swf"/>
             <state id="sit" filename="sit.swf"/>
+	    <state id="surprised" filename="fearful.swf"/>
             <state id="talk" filename="talk.swf"/>
             <state id="talk_on_phone" filename="talk_on_phone.swf"/>
             <state id="taunt" filename="taunt.swf"/>
@@ -3113,6 +3121,7 @@
             <state id="run" filename="run.swf"/>
             <state id="sad" filename="sad.swf"/>
             <state id="sit" filename="sit.swf"/>
+	    <state id="surprised" filename="fearful.swf"/>
             <state id="talk" filename="talk.swf"/>
             <state id="talk_on_phone" filename="talk_on_phone.swf"/>
             <state id="taunt" filename="taunt.swf"/>
@@ -3137,6 +3146,7 @@
             <state id="run" filename="run.swf"/>
             <state id="sad" filename="sad.swf"/>
             <state id="sit" filename="sit.swf"/>
+	    <state id="surprised" filename="fearful.swf"/>
             <state id="talk" filename="talk.swf"/>
             <state id="talk_on_phone" filename="talk_on_phone.swf"/>
             <state id="taunt" filename="taunt.swf"/>
@@ -3161,6 +3171,7 @@
             <state id="run" filename="run.swf"/>
             <state id="sad" filename="sad.swf"/>
             <state id="sit" filename="sit.swf"/>
+	    <state id="surprised" filename="fearful.swf"/>
             <state id="talk" filename="talk.swf"/>
             <state id="talk_on_phone" filename="talk_on_phone.swf"/>
             <state id="taunt" filename="taunt.swf"/>
@@ -3185,6 +3196,7 @@
             <state id="run" filename="run.swf"/>
             <state id="sad" filename="sad.swf"/>
             <state id="sit" filename="sit.swf"/>
+	    <state id="surprised" filename="fearful.swf"/>
             <state id="talk" filename="talk.swf"/>
             <state id="talk_on_phone" filename="talk_on_phone.swf"/>
             <state id="taunt" filename="taunt.swf"/>
@@ -3209,6 +3221,7 @@
             <state id="run" filename="run.swf"/>
             <state id="sad" filename="sad.swf"/>
             <state id="sit" filename="sit.swf"/>
+	    <state id="surprised" filename="fearful.swf"/>
             <state id="talk" filename="talk.swf"/>
             <state id="talk_on_phone" filename="talk_on_phone.swf"/>
             <state id="taunt" filename="taunt.swf"/>
@@ -3233,6 +3246,7 @@
             <state id="run" filename="run.swf"/>
             <state id="sad" filename="sad.swf"/>
             <state id="sit" filename="sit.swf"/>
+	    <state id="surprised" filename="fearful.swf"/>
             <state id="talk" filename="talk.swf"/>
             <state id="talk_on_phone" filename="talk_on_phone.swf"/>
             <state id="taunt" filename="taunt.swf"/>
@@ -3257,6 +3271,7 @@
             <state id="run" filename="run.swf"/>
             <state id="sad" filename="sad.swf"/>
             <state id="sit" filename="sit.swf"/>
+	    <state id="surprised" filename="fearful.swf"/>
             <state id="talk" filename="talk.swf"/>
             <state id="talk_on_phone" filename="talk_on_phone.swf"/>
             <state id="taunt" filename="taunt.swf"/>
@@ -3281,6 +3296,7 @@
             <state id="run" filename="run.swf"/>
             <state id="sad" filename="sad.swf"/>
             <state id="sit" filename="sit.swf"/>
+	    <state id="surprised" filename="fearful.swf"/>
             <state id="talk" filename="talk.swf"/>
             <state id="talk_on_phone" filename="talk_on_phone.swf"/>
             <state id="taunt" filename="taunt.swf"/>
@@ -3305,6 +3321,7 @@
             <state id="run" filename="run.swf"/>
             <state id="sad" filename="sad.swf"/>
             <state id="sit" filename="sit.swf"/>
+	    <state id="surprised" filename="fearful.swf"/>
             <state id="talk" filename="talk.swf"/>
             <state id="talk_on_phone" filename="talk_on_phone.swf"/>
             <state id="taunt" filename="taunt.swf"/>
@@ -3329,6 +3346,7 @@
             <state id="run" filename="run.swf"/>
             <state id="sad" filename="sad.swf"/>
             <state id="sit" filename="sit.swf"/>
+	    <state id="surprised" filename="fearful.swf"/>
             <state id="talk" filename="talk.swf"/>
             <state id="talk_on_phone" filename="talk_on_phone.swf"/>
             <state id="taunt" filename="taunt.swf"/>
@@ -3353,6 +3371,7 @@
             <state id="run" filename="run.swf"/>
             <state id="sad" filename="sad.swf"/>
             <state id="sit" filename="sit.swf"/>
+	    <state id="surprised" filename="fearful.swf"/>
             <state id="talk" filename="talk.swf"/>
             <state id="talk_on_phone" filename="talk_on_phone.swf"/>
             <state id="taunt" filename="taunt.swf"/>
@@ -3377,6 +3396,7 @@
             <state id="run" filename="run.swf"/>
             <state id="sad" filename="sad.swf"/>
             <state id="sit" filename="sit.swf"/>
+	    <state id="surprised" filename="fearful.swf"/>
             <state id="talk" filename="talk.swf"/>
             <state id="talk_on_phone" filename="talk_on_phone.swf"/>
             <state id="taunt" filename="taunt.swf"/>
@@ -3401,6 +3421,7 @@
             <state id="run" filename="run.swf"/>
             <state id="sad" filename="sad.swf"/>
             <state id="sit" filename="sit.swf"/>
+	    <state id="surprised" filename="fearful.swf"/>
             <state id="talk" filename="talk.swf"/>
             <state id="talk_on_phone" filename="talk_on_phone.swf"/>
             <state id="taunt" filename="taunt.swf"/>
@@ -3425,6 +3446,7 @@
             <state id="run" filename="run.swf"/>
             <state id="sad" filename="sad.swf"/>
             <state id="sit" filename="sit.swf"/>
+	    <state id="surprised" filename="surprised.swf"/>
             <state id="talk" filename="talk.swf"/>
             <state id="talk_on_phone" filename="talk_on_phone.swf"/>
             <state id="taunt" filename="taunt.swf"/>
@@ -3449,6 +3471,7 @@
             <state id="run" filename="run.swf"/>
             <state id="sad" filename="sad.swf"/>
             <state id="sit" filename="sit.swf"/>
+	    <state id="surprised" filename="fearful.swf"/>
             <state id="talk" filename="talk.swf"/>
             <state id="talk_on_phone" filename="talk_on_phone.swf"/>
             <state id="taunt" filename="taunt.swf"/>
@@ -3473,6 +3496,7 @@
             <state id="run" filename="run.swf"/>
             <state id="sad" filename="sad.swf"/>
             <state id="sit" filename="sit.swf"/>
+	    <state id="surprised" filename="fearful.swf"/>
             <state id="talk" filename="talk.swf"/>
             <state id="talk_on_phone" filename="talk_on_phone.swf"/>
             <state id="taunt" filename="taunt.swf"/>
@@ -3497,6 +3521,7 @@
             <state id="run" filename="run.swf"/>
             <state id="sad" filename="sad.swf"/>
             <state id="sit" filename="sit.swf"/>
+	    <state id="surprised" filename="fearful.swf"/>
             <state id="talk" filename="talk.swf"/>
             <state id="talk_on_phone" filename="talk_on_phone.swf"/>
             <state id="taunt" filename="taunt.swf"/>
@@ -3521,6 +3546,7 @@
             <state id="run" filename="run.swf"/>
             <state id="sad" filename="sad.swf"/>
             <state id="sit" filename="sit.swf"/>
+	    <state id="surprised" filename="fearful.swf"/>
             <state id="talk" filename="talk.swf"/>
             <state id="talk_on_phone" filename="talk_on_phone.swf"/>
             <state id="taunt" filename="taunt.swf"/>
@@ -3545,6 +3571,7 @@
             <state id="run" filename="run.swf"/>
             <state id="sad" filename="sad.swf"/>
             <state id="sit" filename="sit.swf"/>
+	    <state id="surprised" filename="fearful.swf"/>
             <state id="talk" filename="talk.swf"/>
             <state id="talk_on_phone" filename="talk_on_phone.swf"/>
             <state id="taunt" filename="taunt.swf"/>
@@ -3569,6 +3596,7 @@
             <state id="run" filename="run.swf"/>
             <state id="sad" filename="sad.swf"/>
             <state id="sit" filename="sit.swf"/>
+	    <state id="surprised" filename="fearful.swf"/>
             <state id="talk" filename="talk.swf"/>
             <state id="talk_on_phone" filename="talk_on_phone.swf"/>
             <state id="taunt" filename="taunt.swf"/>
@@ -3593,6 +3621,7 @@
             <state id="run" filename="run.swf"/>
             <state id="sad" filename="sad.swf"/>
             <state id="sit" filename="sit.swf"/>
+	    <state id="surprised" filename="fearful.swf"/>
             <state id="talk" filename="talk.swf"/>
             <state id="talk_on_phone" filename="talk_on_phone.swf"/>
             <state id="taunt" filename="taunt.swf"/>
@@ -3617,6 +3646,7 @@
             <state id="run" filename="run.swf"/>
             <state id="sad" filename="sad.swf"/>
             <state id="sit" filename="sit.swf"/>
+	    <state id="surprised" filename="fearful.swf"/>
             <state id="talk" filename="talk.swf"/>
             <state id="talk_on_phone" filename="talk_on_phone.swf"/>
             <state id="taunt" filename="taunt.swf"/>
@@ -3641,6 +3671,7 @@
             <state id="run" filename="run.swf"/>
             <state id="sad" filename="sad.swf"/>
             <state id="sit" filename="sit.swf"/>
+	    <state id="surprised" filename="fearful.swf"/>
             <state id="talk" filename="talk.swf"/>
             <state id="talk_on_phone" filename="talk_on_phone.swf"/>
             <state id="taunt" filename="taunt.swf"/>
@@ -3665,6 +3696,7 @@
             <state id="run" filename="run.swf"/>
             <state id="sad" filename="sad.swf"/>
             <state id="sit" filename="sit.swf"/>
+	    <state id="surprised" filename="surprised.swf"/>
             <state id="talk" filename="talk.swf"/>
             <state id="talk_on_phone" filename="talk_on_phone.swf"/>
             <state id="taunt" filename="taunt.swf"/>
@@ -3689,6 +3721,7 @@
             <state id="run" filename="run.swf"/>
             <state id="sad" filename="sad.swf"/>
             <state id="sit" filename="sit.swf"/>
+	    <state id="surprised" filename="fearful.swf"/>
             <state id="talk" filename="talk.swf"/>
             <state id="talk_on_phone" filename="talk_on_phone.swf"/>
             <state id="taunt" filename="taunt.swf"/>
@@ -3713,6 +3746,7 @@
             <state id="run" filename="run.swf"/>
             <state id="sad" filename="sad.swf"/>
             <state id="sit" filename="sit.swf"/>
+	    <state id="surprised" filename="fearful.swf"/>
             <state id="talk" filename="talk.swf"/>
             <state id="talk_on_phone" filename="talk_on_phone.swf"/>
             <state id="taunt" filename="taunt.swf"/>
@@ -3737,6 +3771,7 @@
             <state id="run" filename="run.swf"/>
             <state id="sad" filename="sad.swf"/>
             <state id="sit" filename="sit.swf"/>
+	    <state id="surprised" filename="fearful.swf"/>
             <state id="talk" filename="talk.swf"/>
             <state id="talk_on_phone" filename="talk_on_phone.swf"/>
             <state id="taunt" filename="taunt.swf"/>
@@ -3744,11 +3779,13 @@
         </component>
         <component type="upper_body" id="adam_a007" path="adam_a007" name="adam_a007" thumb="thumbnail.swf" display_order="190" money="0" sharing="0" enable="Y">
             <state id="chuckle" filename="chuckle.swf"/>
+	    <state id="coolpose" filename="crossed_arms.swf"/>
             <state id="crossed_arms" filename="crossed_arms.swf"/>
             <state id="dance" filename="dance.swf"/>
             <state id="default" filename="default.swf"/>
             <state id="excited" filename="excited.swf"/>
             <state id="fearful" filename="fearful.swf"/>
+	    <state id="handonhip" filename="onhips.swf"/>
 	    <state id="jump" filename="excited.swf"/>
             <state id="kneel_down" filename="kneel_down.swf"/>
             <state id="laugh" filename="laugh.swf"/>
@@ -3759,6 +3796,7 @@
             <state id="run" filename="run.swf"/>
             <state id="sad" filename="sad.swf"/>
             <state id="sit" filename="sit.swf"/>
+	    <state id="surprised" filename="fearful.swf"/>
             <state id="talk" filename="talk.swf"/>
             <state id="talk_on_phone" filename="talk_on_phone.swf"/>
             <state id="taunt" filename="taunt.swf"/>
@@ -3784,6 +3822,7 @@
             <state id="sad" filename="sad.swf"/>
             <state id="sit" filename="sit.swf"/>
             <state id="talk" filename="talk.swf"/>
+	    <state id="surprised" filename="fearful.swf"/>
             <state id="talk_on_phone" filename="talk_on_phone.swf"/>
             <state id="taunt" filename="taunt.swf"/>
             <state id="walk" filename="walk.swf"/>
@@ -3807,6 +3846,7 @@
             <state id="run" filename="run.swf"/>
             <state id="sad" filename="sad.swf"/>
             <state id="sit" filename="sit.swf"/>
+	    <state id="surprised" filename="fearful.swf"/>
             <state id="talk" filename="talk.swf"/>
             <state id="talk_on_phone" filename="talk_on_phone.swf"/>
             <state id="taunt" filename="taunt.swf"/>
@@ -3831,6 +3871,7 @@
             <state id="run" filename="run.swf"/>
             <state id="sad" filename="sad.swf"/>
             <state id="sit" filename="sit.swf"/>
+	    <state id="surprised" filename="fearful.swf"/>
             <state id="talk" filename="talk.swf"/>
             <state id="talk_on_phone" filename="talk_on_phone.swf"/>
             <state id="taunt" filename="taunt.swf"/>
@@ -3855,6 +3896,7 @@
             <state id="run" filename="run.swf"/>
             <state id="sad" filename="sad.swf"/>
             <state id="sit" filename="sit.swf"/>
+	    <state id="surprised" filename="fearful.swf"/>
             <state id="talk" filename="talk.swf"/>
             <state id="talk_on_phone" filename="talk_on_phone.swf"/>
             <state id="taunt" filename="taunt.swf"/>
@@ -3879,6 +3921,7 @@
             <state id="run" filename="run.swf"/>
             <state id="sad" filename="sad.swf"/>
             <state id="sit" filename="sit.swf"/>
+	    <state id="surprised" filename="fearful.swf"/>
             <state id="talk" filename="talk.swf"/>
             <state id="talk_on_phone" filename="talk_on_phone.swf"/>
             <state id="taunt" filename="taunt.swf"/>
