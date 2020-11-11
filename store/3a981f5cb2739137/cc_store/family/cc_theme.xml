@@ -3727,7 +3727,7 @@
             <state id="taunt" filename="taunt.swf"/>
             <state id="walk" filename="walk.swf"/>
         </component>
-        <component type="upper_body" id="adam_030" path="adam_030" name="adam_030" thumb="thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y">
+        <component type="upper_body" id="adam_030" path="adam_030" name="adam_030" thumb="thumbnail.swf" display_order="183" money="0" sharing="0" enable="Y">
             <state id="chuckle" filename="chuckle.swf"/>
 	    <state id="coolpose" filename="crossed_arms.swf"/>
             <state id="crossed_arms" filename="crossed_arms.swf"/>
@@ -3746,7 +3746,7 @@
             <state id="run" filename="run.swf"/>
             <state id="sad" filename="sad.swf"/>
             <state id="sit" filename="sit.swf"/>
-	    <state id="surprised" filename="fearful.swf"/>
+	    <state id="surprised" filename="surprised.swf"/>
             <state id="talk" filename="talk.swf"/>
             <state id="talk_on_phone" filename="talk_on_phone.swf"/>
             <state id="taunt" filename="taunt.swf"/>
