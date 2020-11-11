@@ -15775,7 +15775,13 @@
     </component>
     <component type="facedecoration" id="092" path="092" name="092" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
         <state id="default" filename="default.swf"/>
-    </component>>
+    </component>
+    <component type="facedecoration" id="093" path="093" name="093" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+        <state id="default" filename="default.swf"/>
+    </component>
+    <component type="facedecoration" id="094" path="094" name="094" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+        <state id="default" filename="default.swf"/>
+    </component>
     <component type="facedecoration" id="1001" path="1001" name="1001" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
         <state id="default" filename="default.swf"/>
     </component>
