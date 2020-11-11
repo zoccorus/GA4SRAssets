@@ -2527,6 +2527,12 @@
             <selection type="lower_body" state_id="default"/>
             <selection type="skeleton" state_id="talk_on_phone"/>
             <selection type="upper_body" state_id="talk"/>
+         </action>
+        <action id="talk2b" name="Talk 3" loop="Y" totalframe="100" enable="Y" is_motion="N">
+            <selection type="facial" facial_id="head_talk_happy"/>
+            <selection type="lower_body" state_id="default"/>
+            <selection type="skeleton" state_id="talk_01"/>
+            <selection type="upper_body" state_id="talk"/>
         </action>
         <action id="talk2" name="Sit - Talk" loop="Y" totalframe="100" enable="Y" is_motion="N">
             <selection type="facial" facial_id="head_talk_a"/>
@@ -2633,6 +2639,7 @@
             <state id="sit" filename="sit.swf"/>
             <state id="stand" filename="stand.swf"/>
             <state id="talk" filename="talk.swf"/>
+	    <state id="talk_01" filename="talk_01.swf"/>
             <state id="talk_on_phone" filename="talk_on_phone.swf"/>
             <state id="taunt" filename="taunt.swf"/>
             <!-- <state id="turn_head" filename="turn_head.swf"/> -->
