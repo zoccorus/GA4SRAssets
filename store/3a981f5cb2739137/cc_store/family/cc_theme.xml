@@ -12482,6 +12482,7 @@
         <state id="shock" filename="shock.swf"/>
         <state id="sick" filename="sick.swf"/>
         <state id="thinking" filename="thinking.swf"/>
+	<state id="wink" filename="wink.swf"/>
         <state id="yawn" filename="yawn.swf"/>
     </component>
     <component type="eye" id="004" path="004" name="004" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
