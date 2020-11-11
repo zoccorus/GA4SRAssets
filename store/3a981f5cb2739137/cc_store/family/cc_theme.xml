@@ -13530,12 +13530,15 @@
         <state id="chewing" filename="chewing.swf"/>
         <state id="cry" filename="cry.swf"/>
         <state id="default" filename="default.swf"/>
+	<state id="default2" filename="default_2.swf"/>
+	<state id="default_3" filename="default_3.swf"/>
         <state id="happy" filename="happy.swf"/>
         <state id="laugh" filename="laugh.swf"/>
         <state id="sad" filename="sad.swf"/>
         <state id="schemeing" filename="schemeing.swf"/>
         <state id="shock" filename="shock.swf"/>
         <state id="sick" filename="sick.swf"/>
+	<state id="smile" filename="smile.swf"/>
         <state id="surprised" filename="surprised.swf"/>
         <state id="talk_a" filename="talk_a.swf"/>
         <state id="talk_angry" filename="talk_angry.swf"/>
