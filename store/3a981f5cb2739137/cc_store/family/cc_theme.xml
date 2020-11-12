@@ -1874,6 +1874,18 @@
             <selection type="skeleton" state_id="stand_01"/>
             <selection type="upper_body" state_id="lie_down_02"/>
         </action>
+        <action id="stand11" name="Stand 11" loop="Y" totalframe="1" enable="Y" is_motion="N">
+            <selection type="facial" facial_id="head_neutral"/>
+            <selection type="lower_body" state_id="default"/>
+            <selection type="skeleton" state_id="stand_01"/>
+            <selection type="upper_body" state_id="lie_down_02"/>
+        </action>
+        <action id="stand12" name="Stand 12" loop="Y" totalframe="1" enable="Y" is_motion="N">
+            <selection type="facial" facial_id="head_neutral"/>
+            <selection type="lower_body" state_id="default"/>
+            <selection type="skeleton" state_id="stand_01"/>
+            <selection type="upper_body" state_id="onhips"/>
+        </action>
         <action id="bend" name="Bend 1" loop="Y" totalframe="1" enable="Y" is_motion="N">
             <selection type="facial" facial_id="head_neutral"/>
             <selection type="lower_body" state_id="default"/>
@@ -3040,7 +3052,7 @@
 	    <state id="jump" filename="run.swf"/>
             <state id="kneel_down" filename="kneel_down.swf"/>
             <state id="laugh" filename="laugh.swf"/>
-	    <state id="lean" filename="walk.swf"/>
+	    <state id="lean" filename="lean.swf"/>
             <state id="run" filename="run.swf"/>
             <state id="sit" filename="sit.swf"/>
             <state id="walk" filename="walk.swf"/>
