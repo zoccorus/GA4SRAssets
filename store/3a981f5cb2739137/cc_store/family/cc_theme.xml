@@ -2606,8 +2606,68 @@
             <selection type="skeleton" state_id="stand"/>
             <selection type="upper_body" state_id="run"/>
         </action>
+        <action id="turnhead" name="Stand - Turn head" loop="Y" totalframe="1" enable="Y" is_motion="N">
+            <selection type="facial" facial_id="head_neutral"/>
+            <selection type="lower_body" state_id="default"/>
+            <selection type="skeleton" state_id="turnhead"/>
+            <selection type="upper_body" state_id="default"/>
+        </action>
+        <action id="turnhead2" name="Point at - Turn head" loop="Y" totalframe="1" enable="Y" category="poses / gestures" is_motion="N">
+            <selection type="facial" facial_id="head_neutral"/>
+            <selection type="lower_body" state_id="default"/>
+            <selection type="skeleton" state_id="turnhead"/>
+            <selection type="upper_body" state_id="point_at"/>
+        </action>
+        <action id="turnhead3" name="Crossed arms - Turn head" loop="Y" totalframe="1" enable="Y" category="poses / gestures" is_motion="N">
+            <selection type="facial" facial_id="head_neutral"/>
+            <selection type="lower_body" state_id="default"/>
+            <selection type="skeleton" state_id="turnhead"/>
+            <selection type="upper_body" state_id="crossed_arms"/>
+        </action>
+        <action id="turnhead4" name="Sit - Turn head" loop="Y" totalframe="1" enable="Y" is_motion="N">
+            <selection type="facial" facial_id="head_neutral"/>
+            <selection type="lower_body" state_id="sit"/>
+            <selection type="skeleton" state_id="turnhead"/>
+            <selection type="upper_body" state_id="sit"/>
+        </action>
+        <action id="turnhead5" name="Kneel down - Turn head" loop="Y" totalframe="1" enable="Y" is_motion="N">
+            <selection type="facial" facial_id="head_neutral"/>
+            <selection type="lower_body" state_id="kneel_down"/>
+            <selection type="skeleton" state_id="turnhead"/>
+            <selection type="upper_body" state_id="kneel_down"/>
+        </action>
+        <action id="turnhead6" name="Sit - Crossed arms - Turn head" loop="Y" totalframe="1" enable="Y" category="poses / gestures" is_motion="N">
+            <selection type="facial" facial_id="head_neutral"/>
+            <selection type="lower_body" state_id="sit"/>
+            <selection type="skeleton" state_id="turnhead"/>
+            <selection type="upper_body" state_id="crossed_arms"/>
+        </action>
+        <action id="pointatupper" name="Point at - Upper" loop="Y" totalframe="1" enable="Y" category="poses / gestures" is_motion="N">
+            <selection type="facial" facial_id="head_neutral"/>
+            <selection type="lower_body" state_id="default"/>
+            <selection type="skeleton" state_id="bendup"/>
+            <selection type="upper_body" state_id="point_at"/>
+        </action>
+        <action id="pointatlower" name="Point at - Lower" loop="Y" totalframe="1" enable="Y" category="poses / gestures" is_motion="N">
+            <selection type="facial" facial_id="head_neutral"/>
+            <selection type="lower_body" state_id="default"/>
+            <selection type="skeleton" state_id="benddown"/>
+            <selection type="upper_body" state_id="point_at"/>
+        </action>
+        <action id="walkturnhead1" name="Walk - Turn head" loop="Y" totalframe="1" enable="Y" category="traveling" is_motion="Y">
+            <selection type="facial" facial_id="head_neutral"/>
+            <selection type="lower_body" state_id="walk"/>
+            <selection type="skeleton" state_id="turnhead"/>
+            <selection type="upper_body" state_id="walk"/>
+        </action>
+        <action id="walkturnhead2" name="Walk - Crossed arms - Turn head" loop="Y" totalframe="1" enable="Y" category="traveling" is_motion="Y">
+            <selection type="facial" facial_id="head_neutral"/>
+            <selection type="lower_body" state_id="walk"/>
+            <selection type="skeleton" state_id="turnhead"/>
+            <selection type="upper_body" state_id="crossed_arms"/>
+        </action>
         <component type="upper_body" id="adam_a013" path="adam_a013" name="adam_a013" thumb="thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y">
-             <state id="chuckle" filename="chuckle.swf"/>
+            <state id="chuckle" filename="chuckle.swf"/>
 	    <state id="coolpose" filename="crossed_arms.swf"/>
             <state id="crossed_arms" filename="crossed_arms.swf"/>
             <state id="dance" filename="dance.swf"/>
@@ -2661,6 +2721,8 @@
         </component>
         <component type="skeleton" id="adam_001" path="adam_001" name="adam_001" thumb="thumbnail.swf" display_order="0" money="0" sharing="0" enable="Y">
 	    <state id="bend" filename="bend.swf"/>
+	    <state id="benddown" filename="benddown.swf"/>
+            <state id="bendup" filename="bendup.swf"/>
             <state id="chuckle" filename="chuckle.swf"/>
             <state id="crossed_arms" filename="crossed_arms.swf"/>
             <state id="dance" filename="dance.swf"/>
@@ -2687,7 +2749,7 @@
 	    <state id="talk_01" filename="talk_01.swf"/>
             <state id="talk_on_phone" filename="talk_on_phone.swf"/>
             <state id="taunt" filename="taunt.swf"/>
-            <!-- <state id="turn_head" filename="turn_head.swf"/> -->
+            <state id="turnhead" filename="turnhead.swf"/>
             <state id="walk" filename="walk.swf"/>
         </component>
         <component type="upper_body" id="adam_001" path="adam_001" name="adam_001" thumb="thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y">
