@@ -2332,11 +2332,53 @@
             <selection type="skeleton" state_id="look_slightly_up"/>
             <selection type="upper_body" state_id="sit"/>
         </action>
-        <action id="nodding" name="Nodding" loop="Y" totalframe="1" enable="Y" is_motion="N">
+        <action id="nodding" name="Nodding 1" loop="Y" totalframe="100" enable="Y" is_motion="N">
             <selection type="facial" facial_id="head_happy"/>
             <selection type="lower_body" state_id="default"/>
             <selection type="skeleton" state_id="nodding"/>
             <selection type="upper_body" state_id="default"/>
+        </action>
+        <action id="nodding2" name="Nodding 2" loop="Y" totalframe="100" enable="Y" is_motion="N">
+            <selection type="facial" facial_id="head_happy"/>
+            <selection type="lower_body" state_id="default"/>
+            <selection type="skeleton" state_id="nodding_01"/>
+            <selection type="upper_body" state_id="onhips"/>
+        </action>
+        <action id="noddingsit" name="Nodding - Sit" loop="Y" totalframe="100" enable="Y" is_motion="N">
+            <selection type="facial" facial_id="head_happy"/>
+            <selection type="lower_body" state_id="sit"/>
+            <selection type="skeleton" state_id="nodding"/>
+            <selection type="upper_body" state_id="default"/>
+        </action>
+        <action id="noddingsit1" name="Nodding - Sit" loop="Y" totalframe="100" enable="Y" is_motion="N">
+            <selection type="facial" facial_id="head_happy"/>
+            <selection type="lower_body" state_id="sit"/>
+            <selection type="skeleton" state_id="nodding"/>
+            <selection type="upper_body" state_id="walk"/>
+        </action>
+        <action id="noddingsit2" name="Nodding - Sit" loop="Y" totalframe="100" enable="Y" is_motion="N">
+            <selection type="facial" facial_id="head_happy"/>
+            <selection type="lower_body" state_id="sit"/>
+            <selection type="skeleton" state_id="nodding"/>
+            <selection type="upper_body" state_id="sit"/>
+        </action>
+        <action id="noddingsit3" name="Nodding - Sit" loop="Y" totalframe="100" enable="Y" is_motion="N">
+            <selection type="facial" facial_id="head_happy"/>
+            <selection type="lower_body" state_id="sit"/>
+            <selection type="skeleton" state_id="nodding"/>
+            <selection type="upper_body" state_id="onhips"/>
+        </action>
+        <action id="noddingsit4" name="Nodding - Sit" loop="Y" totalframe="100" enable="Y" is_motion="N">
+            <selection type="facial" facial_id="head_happy"/>
+            <selection type="lower_body" state_id="sit"/>
+            <selection type="skeleton" state_id="nodding"/>
+            <selection type="upper_body" state_id="lie_down_02"/>
+        </action>
+        <action id="noddingsit5" name="Nodding - Sit" loop="Y" totalframe="100" enable="Y" is_motion="N">
+            <selection type="facial" facial_id="head_happy"/>
+            <selection type="lower_body" state_id="sit"/>
+            <selection type="skeleton" state_id="nodding_01"/>
+            <selection type="upper_body" state_id="lie_down_02"/>
         </action>
         <action id="coolpose" name="Cool Pose - TEST" loop="Y" totalframe="1" enable="Y" category="TEST ONLY" is_motion="N">
             <selection type="facial" facial_id="head_happy"/>
