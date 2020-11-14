@@ -2200,6 +2200,18 @@
             <selection type="skeleton" state_id="stand"/>
             <selection type="upper_body" state_id="walk"/>
         </action>
+        <action id="sit4" name="Sit 4" loop="Y" totalframe="1" enable="Y" is_motion="N">
+            <selection type="facial" facial_id="head_neutral"/>
+            <selection type="lower_body" state_id="sit"/>
+            <selection type="skeleton" state_id="stand"/>
+            <selection type="upper_body" state_id="lie_down_02"/>
+        </action>
+        <action id="sit5" name="Sit 5" loop="Y" totalframe="1" enable="Y" is_motion="N">
+            <selection type="facial" facial_id="head_neutral"/>
+            <selection type="lower_body" state_id="sit"/>
+            <selection type="skeleton" state_id="stand_01"/>
+            <selection type="upper_body" state_id="lie_down_02"/>
+        </action>
         <action id="xarms3" name="Walk - Crossed arms" loop="Y" totalframe="24" enable="Y" category="traveling" is_motion="Y">
             <selection type="facial" facial_id="head_neutral"/>
             <selection type="lower_body" state_id="walk"/>
