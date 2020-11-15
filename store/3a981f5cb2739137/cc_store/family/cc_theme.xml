@@ -2818,6 +2818,7 @@
             <!-- <state id="look_up" filename="look_up.swf"/> -->
 	    <state id="move" filename="move.swf"/>
             <state id="nodding" filename="nodding.swf"/>
+            <state id="nodding_01" filename="nodding_01.swf"/>
             <state id="point_at" filename="point_at.swf"/>
 	    <state id="point_at_still" filename="point_at_still.swf"/>
             <state id="run" filename="run.swf"/>
