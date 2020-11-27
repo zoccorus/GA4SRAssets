@@ -16363,6 +16363,9 @@
     <component type="facedecoration" id="2008" path="2000" name="2000" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
         <state id="default" filename="default.swf"/>
     </component>
+    <component type="facedecoration" id="016b" path="016b" name="016b" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+        <state id="default" filename="default.swf"/>
+    </component>
     <component type="beard" id="007" path="007" name="007" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
         <state id="default" filename="default.swf"/>
     </component>
@@ -16373,4 +16376,3 @@
         <state id="default" filename="default.swf"/>
     </component>
 </cc_theme>
-           
