@@ -1,4 +1,3 @@
-
 <?xml version="1.0" encoding="utf-8"?>
 <theme id="retro" name="Cartoon Classics">
   <char id="mac_boy" name="Mac Boy" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="N" is_premium="N" aid="237" money="0" sharing="0">
@@ -1051,7 +1050,7 @@
     <facial id="head_talk.swf" name="Talk" enable="Y" aid="860"/>
     <facial id="head_neutral.swf" name="Neutral" enable="Y" aid="8469"/>
   </char>
-  <char id="McFadden" name="McFadden" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="Y" is_premium="N" aid="861" money="0" sharing="0">
+  <char id="McFadden" name="McFadden (Spirit Form)" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="Y" is_premium="N" aid="861" money="0" sharing="0">
     <action id="stand.swf" name="stand with" loop="Y" totalframe="120" enable="Y" aid="862"/>
     <motion id="walk.swf" name="walk" loop="Y" totalframe="120" enable="Y" aid="863"/>
     <action id="sad.swf" name="sad" loop="Y" totalframe="120" enable="Y" aid="864"/>
@@ -1306,6 +1305,14 @@
     <action id="cat2.swf" name="Cat Face (b)" loop="Y" totalframe="65" enable="Y" aid="9992"/>
     <action id="flirty.swf" name="Flirty" loop="Y" totalframe="50" enable="Y" aid="2020"/>
     <action id="bored2.swf" name="Bored (b)" loop="Y" totalframe="40" enable="Y" aid="2019"/>
+  </char>
+  <char id="xomMcFaddenHuman" name="McFadden (Human Form)" thumb="stand.swf" facing="left" default="stand.swf" motion="levitate.swf" enable="Y" is_premium="N" aid="4834" money="0" sharing="0">
+    <action id="stand.swf" name="Stand" loop="Y" totalframe="4" enable="Y" aid="4835"/>
+    <motion id="walk.swf" name="Walk" loop="Y" totalframe="58" enable="Y" aid="4836"/>
+    <action id="talk.swf" name="Talk" loop="Y" totalframe="50" enable="Y" aid="4850"/>
+    <action id="levitate.swf" name="Levitate" loop="Y" totalframe="50" enable="Y" aid="4851"/>
+    <action id="furious.swf" name="Furious" loop="Y" totalframe="70" enable="Y" aid="4852"/>
+    <action id="cry.swf" name="Cry" loop="Y" totalframe="16" enable="Y" aid="4853"/>
   </char>
   <char id="blue_snuggle" name="Blue Snuggie" thumb="standing.swf" facing="left" default="standing.swf" motion="walk.swf" enable="Y" is_premium="N" aid="5945" money="0" sharing="0">
     <action id="standing.swf" name="standing" loop="Y" totalframe="44" enable="Y" aid="5946"/>
