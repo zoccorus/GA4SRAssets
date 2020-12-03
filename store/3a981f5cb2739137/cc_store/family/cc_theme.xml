@@ -4014,7 +4014,7 @@
 	    <state id="lie_down_02" filename="lie_down.swf"/>
 	    <state id="onhips" filename="onhips.swf"/>
             <state id="point_at" filename="point_at.swf"/>
-	    <state id="point_up" filename="point_at.swf"/>
+	    <state id="point_up" filename="point_up.swf"/>
             <state id="run" filename="run.swf"/>
             <state id="sad" filename="sad.swf"/>
             <state id="sit" filename="sit.swf"/>
