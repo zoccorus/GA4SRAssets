@@ -13654,7 +13654,7 @@
     <component type="faceshape" id="002b" path="002b" name="002b" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
         <state id="default" filename="default.swf"/>
     </component>
-    <component type="faceshape" id="002c" path="002c" name="002c" thumb="thumbnail.swf" money="0" sharing="0" enable="N"> random_able="N">
+    <component type="faceshape" id="002a" path="002a" name="002a" thumb="thumbnail.swf" money="0" sharing="0" enable="N"> random_able="N">
         <state id="default" filename="default.swf"/>
     </component>
     <component type="faceshape" id="033a" path="033a" name="033a" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
@@ -16119,6 +16119,9 @@
         <state id="default" filename="default.swf"/>
     </component>
     <component type="nose" id="030" path="030" name="030" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+        <state id="default" filename="default.swf"/>
+    </component>
+    <component type="nose" id="031" path="031" name="031" thumb="thumbnail.swf" money="0" sharing="0" enable="N"> random_able="N">
         <state id="default" filename="default.swf"/>
     </component>
     <component type="beard" id="005" path="005" name="005" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
