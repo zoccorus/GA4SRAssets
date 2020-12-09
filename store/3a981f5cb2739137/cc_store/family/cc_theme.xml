@@ -6713,7 +6713,7 @@
             <state id="kneel_down" filename="kneel_down.swf"/>
             <state id="laugh" filename="laugh.swf"/>
             <state id="lie_down" filename="lie_down.swf"/>
-	    <state id="lie_down_02" filename="lie_down_02.swf"/>
+	    <state id="lie_down_02" filename="lie_down.swf"/>
 	    <state id="onhips" filename="onhips.swf"/>
             <state id="point_at" filename="point_at.swf"/>
             <state id="run" filename="run.swf"/>
