@@ -14,9 +14,10 @@
   <background id="Clouds_Night.swf" name="Y" enable="N" default="N" is_premium="N" aid="9699" money="0" sharing="0"/>
   <background id="Starry_Night.swf" name="Y" enable="N" default="N" is_premium="N" aid="9699" money="0" sharing="0"/>
   <background id="nathantda_galaxy.swf" name="Y" enable="N" default="N" is_premium="N" aid="9699" money="0" sharing="0"/>
-  <background id="Grasslands.swf" name="Grasslands" enable="N" default="N" is_premium="N" aid="9699" money="0" sharing="0"/>
-  <background id="Moon_with_stars.swf" name="Moon With Stars" enable="N" default="N" is_premium="N" aid="9699" money="0" sharing="0"/>
-  <background id="Starry_Sky.swf" name="Starry Sky" enable="N" default="N" is_premium="N" aid="9699" money="0" sharing="0"/>
+  <background id="Grasslands.swf" name="Grasslands" enable="Y" default="N" is_premium="N" aid="9699" money="0" sharing="0"/>
+  <background id="Moon_with_stars.swf" name="Moon With Stars" enable="Y" default="N" is_premium="N" aid="9699" money="0" sharing="0"/>
+  <background id="Starry_Sky.swf" name="Starry Sky" enable="Y" default="N" is_premium="N" aid="9699" money="0" sharing="0"/>
+  <background id="Wack_O_Whackers_Restaraunt.swf" name="Wack O Whackers Restaurant" enable="Y" default="N" is_premium="N" aid="9699" money="0" sharing="0"/>
   <background id="battlefield_bg.swf" name="Y" enable="N" default="N" is_premium="N" aid="9698" money="0" sharing="0"/>
   <background id="camp_int_bg.swf" name="Y" enable="N" default="N" is_premium="N" aid="9697" money="0" sharing="0"/>
   <background id="army_camp_close_bg.swf" name="Army camp (close up)" enable="N" default="N" is_premium="N" aid="9658" money="0" sharing="0"/>
@@ -3146,6 +3147,7 @@
     <state id="msp_door_front_yard_house_door_opened.swf" name="Open" enable="Y" default="Y"/>
   </prop>
   <prop id="front_yard_tree.swf" name="Tree" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="9120" money="0" sharing="0"/>
+  <prop id="planet_earth.swf" name="Earth" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="9120" money="0" sharing="0"/>
   <prop id="front_yard_sign.swf" name="" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="9121" money="0" sharing="0"/>
   <prop id="police_station_chair.swf" name="Chair" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="9122" money="0" sharing="0"/>
   <prop id="police_station_table.swf" name="Table" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="9123" money="0" sharing="0"/>
