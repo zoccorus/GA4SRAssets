@@ -711,6 +711,19 @@
         <selection type="mouth" state_id="default_3"/>
         <selection type="mustache" state_id="default"/>
         <selection type="nose" state_id="default"/>
+     </facial>
+    <facial id="head_lookup" name="Look Up" enable="Y">
+        <selection type="beard" state_id="default"/>
+        <selection type="ear" state_id="default"/>
+        <selection type="eye" state_id="look_up"/>
+        <selection type="eyebrow" state_id="default"/>
+        <selection type="facedecoration" state_id="default"/>
+        <selection type="faceshape" state_id="default"/>
+        <selection type="glasses" state_id="default"/>
+        <selection type="hair" state_id="default"/>
+        <selection type="mouth" state_id="default"/>
+        <selection type="mustache" state_id="default"/>
+        <selection type="nose" state_id="default"/>
     </facial>
     <facial id="head_agitated" name="Agitated" enable="Y">
         <selection type="beard" state_id="default"/>
@@ -13169,6 +13182,7 @@
         <state id="default" filename="default.swf"/>
 	<state id="default_2" filename="default_2.swf"/>
         <state id="happy" filename="happy.swf"/>
+	<state id="look_up" filename="look_up.swf"/>
         <state id="sad" filename="sad.swf"/>
         <state id="schemeing" filename="schemeing.swf"/>
         <state id="shock" filename="shock.swf"/>
