@@ -3148,6 +3148,8 @@
   </prop>
   <prop id="front_yard_tree.swf" name="Tree" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="9120" money="0" sharing="0"/>
   <prop id="planet_earth.swf" name="Earth" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="9120" money="0" sharing="0"/>
+  <prop id="Alexander_House.swf" name="Alexander House" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="9120" money="0" sharing="0"/>
+  <prop id="Alexander_HouseDoorOpened.swf" name="Alexander House With Door Opened" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="9120" money="0" sharing="0"/>
   <prop id="front_yard_sign.swf" name="" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="9121" money="0" sharing="0"/>
   <prop id="police_station_chair.swf" name="Chair" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="9122" money="0" sharing="0"/>
   <prop id="police_station_table.swf" name="Table" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="9123" money="0" sharing="0"/>
