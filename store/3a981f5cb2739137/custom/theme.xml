@@ -3081,6 +3081,12 @@
     <state id="msp_toy_workshop_doorframe_toy_workshop_doorframe1.swf" name="closed" enable="Y" default="Y"/>
     <state id="msp_toy_workshop_doorframe_toy_workshop_doorframe2.swf" name="open" enable="Y"/>
   </prop>
+  <prop id="msp_Alex_door" name="Alexanders Door" holdable="0" placeable="1" wearable="0" facing="left" thumb="Alexander_FrontDoor.swf" enable="N" is_premium="N" aid="8978" money="0" sharing="0">
+    <state id="Alexander_FrontDoor.swf" name="Closed - Front" enable="Y" default="Y"/>
+    <state id="Alexander_FrontDoorOpenedNight.swf" name="Opened - Front Night" enable="Y"/>
+    <state id="Alexander_SideDoor.swf" name="Closed - Side" enable="Y"/>
+    <state id="Alexander_SideDoorOpened.swf" name="Opened - Side Night" enable="Y"/>
+  </prop>
   <prop id="cc_ushanka_hat.swf" name="Ushanka Hat" holdable="0" placeable="1" wearable="1" facing="left" thumb="" enable="Y" is_premium="N" aid="8999" money="0" sharing="0"/>
   <prop id="cc_ushanka_hat_wool.swf" name="Ushanka Hat With Wool" holdable="0" placeable="1" wearable="1" facing="left" thumb="" enable="Y" is_premium="N" aid="9000" money="0" sharing="0"/>
   <prop id="msp_forearmup" name="Forearm" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_forearmup_cc_hand_up_large.swf" enable="Y" is_premium="N" aid="9083" money="0" sharing="0">
