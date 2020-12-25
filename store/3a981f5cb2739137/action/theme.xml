@@ -67,10 +67,18 @@
   <background id="wall33.swf" name="pattern" enable="Y" default="N" is_premium="N" aid="12324" money="0" sharing="0"/>
   <background id="wall32.swf" name="effect" enable="Y" default="N" is_premium="N" aid="12325" money="0" sharing="0"/>
   <background id="ncc_gate.swf" name="Metal doors" enable="Y" default="N" is_premium="N" aid="12326" money="0" sharing="0"/>
+  <background id="ncc_fx_01.swf" name="Moody" enable="Y" default="N" is_premium="Y" aid="12355" money="0" sharing="0"/>
+  <background id="ncc_fx_02.swf" name="Depressed" enable="Y" default="N" is_premium="Y" aid="12356" money="0" sharing="0"/>
+  <background id="ncc_fx_03.swf" name="Bad smell" enable="Y" default="N" is_premium="Y" aid="12357" money="0" sharing="0"/>
+  <background id="ncc_fx_04.swf" name="Fire" enable="Y" default="N" is_premium="Y" aid="12358" money="0" sharing="0"/>
+  <background id="ncc_fx_05.swf" name="In love" enable="Y" default="N" is_premium="Y" aid="12359" money="0" sharing="0"/>
   <background id="ncc_weird.swf" name="Haunted" enable="Y" default="N" is_premium="Y" aid="12360" money="0" sharing="0"/>
   <background id="ncc_shock.swf" name="Shock" enable="Y" default="N" is_premium="Y" aid="12361" money="0" sharing="0"/>
   <background id="ncc_anger.swf" name="Explosion" enable="Y" default="N" is_premium="Y" aid="12362" money="0" sharing="0"/>
   <background id="ncc_anger2.swf" name="Explosion" enable="Y" default="N" is_premium="Y" aid="12363" money="0" sharing="0"/>
+  <background id="ncc_fx_08.swf" name="Speed lines" enable="Y" default="N" is_premium="Y" aid="12386" money="0" sharing="0"/>
+  <background id="ncc_fx_09.swf" name="Speed lines" enable="Y" default="N" is_premium="Y" aid="12387" money="0" sharing="0"/>
+  <background id="ncc_fx_10.swf" name="Speed lines" enable="Y" default="N" is_premium="Y" aid="12388" money="0" sharing="0"/>
   <background id="ncc_pirateship01_bg.swf" name="Ship's side" enable="Y" default="N" is_premium="N" aid="12432" money="0" sharing="0"/>
   <background id="ncc_pirateship01_deck.swf" name="Ship's deck" enable="Y" default="N" is_premium="N" aid="12433" money="0" sharing="0"/>
   <background id="16_9.swf" name="16-9" enable="Y" default="N" is_premium="N" aid="12437" money="0" sharing="0"/>
