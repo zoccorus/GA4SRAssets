@@ -1063,6 +1063,19 @@
         <selection type="mustache" state_id="default"/>
         <selection type="nose" state_id="default"/>
     </facial>
+    <facial id="head_delightful" name="Delightful" enable="Y">
+        <selection type="beard" state_id="default"/>
+        <selection type="ear" state_id="default"/>
+        <selection type="eye" state_id="shock"/>
+        <selection type="eyebrow" state_id="surprised"/>
+        <selection type="facedecoration" state_id="default"/>
+        <selection type="faceshape" state_id="default"/>
+        <selection type="glasses" state_id="default"/>
+        <selection type="hair" state_id="default"/>
+        <selection type="mouth" state_id="surprised_02"/>
+        <selection type="mustache" state_id="default"/>
+        <selection type="nose" state_id="default"/>
+    </facial>
     <facial id="head_worried" name="Worried" enable="Y">
         <selection type="beard" state_id="default"/>
         <selection type="ear" state_id="default"/>
@@ -14438,6 +14451,7 @@
 	<state id="smile02" filename="smile_animated.swf"/>
 	<state id="smilealt" filename="smilealt.swf"/>
         <state id="surprised" filename="surprised.swf"/>
+	<state id="surprised_02" filename="surprised_02.swf"/>
         <state id="talk_a" filename="talk_a.swf"/>
         <state id="talk_angry" filename="talk_angry.swf"/>
         <state id="talk_b" filename="talk_b.swf"/>
