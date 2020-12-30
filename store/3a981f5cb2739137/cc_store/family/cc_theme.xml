@@ -13318,6 +13318,7 @@
     <component type="eye" id="004" path="004" name="004" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
         <state id="angry" filename="angry.swf"/>
         <state id="asleep" filename="asleep.swf"/>
+	<state id="asleep_happy" filename="asleep_happy.swf"/>
         <state id="cry" filename="cry.swf"/>
         <state id="default" filename="default.swf"/>
 	<state id="default_2" filename="default_2.swf"/>
