@@ -1323,6 +1323,32 @@
         <selection type="mustache" state_id="default"/>
         <selection type="nose" state_id="default"/>
     </facial>
+    <facial id="head_asleep_happy" name="Fell In Glory" enable="Y">
+        <selection type="beard" state_id="default"/>
+        <selection type="ear" state_id="default"/>
+        <selection type="eye" state_id="asleep_happy"/>
+        <selection type="eyebrow" state_id="happy"/>
+        <selection type="facedecoration" state_id="default"/>
+        <selection type="faceshape" state_id="default"/>
+        <selection type="glasses" state_id="default"/>
+        <selection type="hair" state_id="default"/>
+        <selection type="mouth" state_id="happy"/>
+        <selection type="mustache" state_id="default"/>
+        <selection type="nose" state_id="default"/>
+    </facial>
+    <facial id="head_enthusiastic" name="Enthusiastic" enable="Y">
+        <selection type="beard" state_id="default"/>
+        <selection type="ear" state_id="default"/>
+        <selection type="eye" state_id="asleep_happy"/>
+        <selection type="eyebrow" state_id="happy"/>
+        <selection type="facedecoration" state_id="default"/>
+        <selection type="faceshape" state_id="default"/>
+        <selection type="glasses" state_id="default"/>
+        <selection type="hair" state_id="default"/>
+        <selection type="mouth" state_id="smile"/>
+        <selection type="mustache" state_id="default"/>
+        <selection type="nose" state_id="default"/>
+    </facial>
     <facial id="head_asleep2" name="Snub" enable="Y">
         <selection type="beard" state_id="default"/>
         <selection type="ear" state_id="default"/>
@@ -3944,7 +3970,7 @@
         </component>
         <component type="upper_body" id="adam_016" path="adam_016" name="adam_016" thumb="thumbnail.swf" display_order="160" money="0" sharing="0" enable="Y">
             <state id="chuckle" filename="chuckle.swf"/>
-	    <state id="coolpose" filename="crossed_arms.swf"/>
+	    <state id="coolpose" filename="coolpose.swf"/>
 	    <state id="coolpose_2" filename="crossed_arms.swf"/>
             <state id="crossed_arms" filename="crossed_arms.swf"/>
             <state id="dance" filename="dance.swf"/>
@@ -13212,6 +13238,7 @@
     <component type="eye" id="001" path="001" name="001" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
         <state id="angry" filename="angry.swf"/>
         <state id="asleep" filename="asleep.swf"/>
+	<state id="asleep_happy" filename="asleep_happy.swf"/>
         <state id="cry" filename="cry.swf"/>
         <state id="default" filename="default.swf"/>
         <state id="happy" filename="happy.swf"/>
