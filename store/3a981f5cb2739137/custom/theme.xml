@@ -22,6 +22,7 @@
   <background id="sitting_room_night_bg.swf" name="Sitting Room Night" enable="Y" default="N" is_premium="N" aid="9699" money="0" sharing="0"/>
   <background id="Alexander_SideHallway.swf" name="Alexander Hallway" enable="Y" default="N" is_premium="N" aid="9699" money="0" sharing="0"/>
   <background id="Alexander_FrontHallway.swf" name="Alexander Hallway" enable="Y" default="N" is_premium="N" aid="9699" money="0" sharing="0"/>
+  <background id="green_hill_valley02.swf.swf" name="Green Hill Valley 02" enable="Y" default="N" is_premium="N" aid="9699" money="0" sharing="0"/>
   <background id="battlefield_bg.swf" name="Y" enable="N" default="N" is_premium="N" aid="9698" money="0" sharing="0"/>
   <background id="camp_int_bg.swf" name="Y" enable="N" default="N" is_premium="N" aid="9697" money="0" sharing="0"/>
   <background id="army_camp_close_bg.swf" name="Army camp (close up)" enable="N" default="N" is_premium="N" aid="9658" money="0" sharing="0"/>
